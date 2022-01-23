@@ -1,0 +1,477 @@
+CID;Meno;Priezvisko;sex;Datum narodenia;PSC;domicil;Adresa
+405002364;Leilani;Hanschur;F;09. 02. 2009;39307;SK;Hainburg, Haide strasse 5
+405002575;Jannis;Dietershagen;M;07. 03. 2009;23847;CZ;,Bratislava, Hany Melíčkovej 5,CZ
+405002290;Alisar;Schoenigan;F;07. 02. 2009;66484;DE;,Trnava,Bratislavská 4,DE
+405002447;Vladislavovna;Barts;F;03. 03. 2009;54673;AT;Rheinland-Pfalz,Oberrod,AT
+405002452;Ragad;AlthanĂź;F;03. 03. 2009;27412;DE;Sachsen-Anhalt,Ulzigerode,DE
+405002467;Reham;Tesmer;F;03. 03. 2009;18258;AT;Niedersachsen,Wangerland Waddewarden,AT
+405002566;Nasser-Karim;Eisenschmied;M;07. 03. 2008;56370;DE;Brandenburg,GroĂź Schulzendorf,DE
+405002255;Pema;Huberty;F;06. 02. 2008;54472;DE;Sachsen,Hohenstein-Ernstthal,DE
+405002269;Joycelyn;Brinkel;F;06. 02. 2008;22927;AT;Schleswig-Holstein,Meggerdorf,AT
+405002483;Maichi;Grabenschroer;F;04. 03. 2008;54340;AT;Sachsen,Elsterheide,AT
+405002442;Clara-Mia;Deboldt;F;03. 03. 2008;54655;SK;Rheinland-Pfalz,SchĂ¶merich,SK
+405002387;NhĆ°;Schwarzenberger;F;01. 03. 2008;56414;AT;Berlin,Berlin,AT
+405002565;Bernhild;Spatz;F;07. 03. 2007;22457;AT;Brandenburg,Gosen Neu Zittau,AT
+405002127;Nic;Strack;M;01. 02. 2007;18230;SK;Rheinland-Pfalz,Mannebach,SK
+405002297;Jumaa;Dochtermann;M;07. 02. 2006;7629;SK;Sachsen-Anhalt,KĂ¶nigsborn,SK
+405002262;Lidiyev;Mittermayr;M;06. 02. 2006;19258;DE;Nordrhein-Westfalen,Simmerath,DE
+405002268;Olga;Burckards;F;06. 02. 2006;66892;AT;Rheinland-Pfalz,Bergweiler,AT
+405002234;Larissa-Sydney;Zellemann;F;05. 02. 2006;17213;DE;Niedersachsen,Vordorf,DE
+405002213;Josefien;Koroliuk;F;04. 02. 2006;38154;DE;Baden-WĂĽrttemberg,Bad Waldsee,DE
+405002192;Rosalee;Buchwieser;F;03. 02. 2006;71543;SK;Mecklenburg-Vorpommern,Dargelin,SK
+405002289;Leodegar;Hintzpeter;M;07. 02. 2005;6254;SK;Brandenburg,Storkow (Mark) GĂ¶rsdorf bei Storkow,SK
+405002499;Unejs;Lengkeit;M;04. 03. 2005;13469;AT;Schleswig-Holstein,Sophienhamm,AT
+405002507;Nala;Popst;F;04. 03. 2005;8523;SK;ThĂĽringen,Bad Klosterlausnitz,SK
+405002386;BĂ¤rbel;Schevtschenko;F;01. 03. 2005;37434;SK;Mecklenburg-Vorpommern,Jennewitz,SK
+405002141;Konstancja;Gassner;F;12. 02. 2004;35104;SK;Schleswig-Holstein,MĂĽhlenrade,SK
+405002282;Edwad;Wunderli;M;07. 02. 2004;58300;SK;Bayern,Altendorf,SK
+405002517;Ahmedbara;Buschmeier;M;05. 03. 2004;1768;DE;Sachsen-Anhalt,Wanzleben,DE
+405002459;Abulgasem;Schuwardt;M;03. 03. 2004;90451;SK;Brandenburg,Rehfelde Rehfelde,SK
+405002372;Ziya;Wuerst;M;01. 03. 2004;16831;DE;Nordrhein-Westfalen,Gelsenkirchen,DE
+405002288;Yuan;Christthaler;M;07. 02. 2003;15926;AT;Berlin,Berlin,AT
+405002498;Jennah;FrĂĽhauff;F;04. 03. 2003;22117;SK;Baden-WĂĽrttemberg,Stuttgart,SK
+405002168;Cihat;Prues;M;02. 02. 2003;25712;AT;Schleswig-Holstein,Niesgrau,AT
+405002125;Viyan;Burk;F;01. 02. 2003;24806;DE;Rheinland-Pfalz,Siefersheim,DE
+405002126;Youssra;GaĂźlhuber;F;01. 02. 2003;7639;AT;Schleswig-Holstein,Honigsee,AT
+405002363;Linessa;Haddad;F;09. 02. 2002;39619;DE;Schleswig-Holstein,Haby,DE
+405002329;Fiodor;Rothhaupt;M;08. 02. 2002;6731;SK;Bayern,Hohenberg an der Eger,SK
+405002211;Taj;SchĂ¶nbrot;F;04. 02. 2002;6682;AT;Bayern,Sulzheim,AT
+405002441;Janyar;Stumpfe;M;03. 03. 2002;20097;DE;Hessen,Lichtenfels,DE
+405002371;Lilianne;Gierhards;F;01. 03. 2002;84435;DE;Mecklenburg-Vorpommern,Spornitz,DE
+405002277;Manasa;Damjanovic;F;07. 02. 2001;54595;AT;Niedersachsen,Frelsdorf,AT
+405002536;Nataniel;Niederheide;M;06. 03. 2001;15913;AT;Hamburg,Hamburg,AT
+405002243;Elara-Fee;HĂĽgens;F;06. 02. 2000;56337;AT;ThĂĽringen,Sonneborn,AT
+405002233;Ntale;Ossenschmidt;F;05. 02. 2000;7629;DE;Sachsen-Anhalt,Heimburg,DE
+405002303;Davorin;BiĂźwurm;M;08. 02. 1999;6917;SK;Bayern,Wattendorf,SK
+405002511;Sanin;Knorz;M;05. 03. 1999;88427;SK;Bayern,Rudelzhausen,SK
+405002433;Habiba;Theobaldy;F;02. 03. 1999;14055;AT;Rheinland-Pfalz,Wirschweiler,AT
+405002148;Tyran;Ziergoebel;M;12. 02. 1998;84104;AT;Rheinland-Pfalz,Kastellaun,AT
+405002523;Aya;GutkĂ¤Ăź;F;05. 03. 1998;53227;SK;Brandenburg,Spreenhagen Markgrafpieske,SK
+405002497;Leandro-Simeon;Kristeleit;M;04. 03. 1998;85259;SK;ThĂĽringen,Gehlberg,SK
+405002466;Njego;Wondraczeck;M;03. 03. 1998;16259;SK;Niedersachsen,Rastdorf,SK
+405002175;Iqra;Stahmer;F;03. 02. 1998;89180;SK;Sachsen-Anhalt,Tanne,SK
+405002423;Jamilo;Ribback;M;02. 03. 1998;89617;AT;Bayern,Bubesheim,AT
+405002315;Lorene;BrĂ¤hmer;F;08. 02. 1997;56761;DE;Bayern,Markt Rettenbach,DE
+405002325;LĂ©ane;Gronmaier;F;08. 02. 1997;54666;SK;Sachsen,LĂ¶bau,SK
+405002284;Lanika;Aevers;F;07. 02. 1997;99428;DE;Rheinland-Pfalz,Meddersheim,DE
+405002527;Ava-Joleen;Humele;F;05. 03. 1997;56479;DE;Sachsen-Anhalt,Schwarzholz,DE
+405002482;Collyn;Horlacher;M;04. 03. 1997;98708;SK;Niedersachsen,Asendorf,SK
+405002185;Jonathan-Bendik;StĂ¤ngl;M;03. 02. 1997;56333;DE;Sachsen-Anhalt,Bornitz,DE
+405002154;Chris;WintmĂ¶ller;M;02. 02. 1997;38875;AT;Sachsen-Anhalt,Jessen (Elster) Schweinitz,AT
+405002167;Mbalou;Eppli;F;02. 02. 1997;10785;AT;Brandenburg,HĂ¶henland WĂ¶lsickendorf-Wollenberg,AT
+405002112;Aemilius;Luban;M;01. 02. 1997;24799;SK;Hamburg,Hamburg Rotherbaum,SK
+405002276;Johan;Jankowska;M;07. 02. 1996;15537;AT;Rheinland-Pfalz,Bellingen,AT
+405002559;Charissa-Jenelle;GroĂźkopf;F;06. 03. 1996;72461;DE;Rheinland-Pfalz,WeiĂźenthurm,DE
+405002267;Michele;Theobaldy;F;06. 02. 1996;44532;AT;Berlin,Berlin,AT
+405002522;Sotirios;Sahinkaya;M;05. 03. 1996;14974;DE;Schleswig-Holstein,GroĂźenrade,DE
+405002226;Riku;Kocabey;M;05. 02. 1996;99625;DE;Niedersachsen,Siedenburg,DE
+405002417;Tiah;Raubart;F;02. 03. 1996;87677;SK;Niedersachsen,SchĂ¶ningen,SK
+405002120;Dáş·ng;Meyerjuergens;M;11. 02. 1995;54518;AT;Hamburg,Hamburg Hammerbrook,AT
+405002558;Karina-Daiana;Kovalcsik;F;06. 03. 1995;97348;SK;Brandenburg,Frauendorf,SK
+405002516;Olayemi;Knabenschuh;F;05. 03. 1995;26629;DE;Rheinland-Pfalz,Sellerich,DE
+405002174;Simon-Immanuel;Winterhalter;M;03. 02. 1995;54298;DE;Rheinland-Pfalz,Orenhofen,DE
+405002124;Deus;Ledderhos;M;01. 02. 1995;15859;DE;Baden-WĂĽrttemberg,BerghĂĽlen Treffensbuch,DE
+405002401;Argyrios;Wilczek;M;12. 03. 1994;22559;SK;Sachsen,Waltersdorf,SK
+405002409;Thandiwe;Jonczik;F;12. 03. 1994;9366;DE;Bayern,Adelschlag,DE
+405002314;Elis;Wilss;F;08. 02. 1994;38179;AT;Sachsen-Anhalt,Niemberg,AT
+405002275;Mela;Krobat;F;07. 02. 1994;34317;AT;Sachsen-Anhalt,Neehausen,AT
+405002173;Ă‰milie;Brachvogel;F;03. 02. 1994;54608;AT;Hessen,Wetzlar,AT
+405002416;Chloe;Sznajder;F;02. 03. 1994;39638;DE;Niedersachsen,Wiesmoor Zwischenbergen,DE
+405002396;Brian;WedekĂ¤mper;M;11. 03. 1993;19230;DE;Nordrhein-Westfalen,MĂĽnster,DE
+405002274;Bastienne;Oechsele;F;07. 02. 1993;97491;SK;Brandenburg,Liepe,SK
+405002535;Yitong;Hellenbrandt;F;06. 03. 1993;82032;AT;Hamburg,Hamburg Alsterdorf,AT
+405002296;Dinah-Doreen;RĂ¶dicker;F;07. 02. 1992;29413;DE;Rheinland-Pfalz,Winningen,DE
+405002206;Loredana;Eicholtz;F;04. 02. 1992;22393;DE;Hessen,Wetzlar,DE
+405002150;Helvi;Steenbreker;F;02. 02. 1992;56288;DE;Niedersachsen,Hamersen,DE
+405002140;Yusuf-Ensar;Sibenlist;M;12. 02. 1991;97529;AT;Baden-WĂĽrttemberg,SchĂ¶mberg,AT
+405002302;Leticja;Kupers;F;08. 02. 1991;6901;DE;Sachsen,Falkenhain,DE
+405002553;Misfer;Dworatzyk;M;06. 03. 1991;92342;DE;Bayern,Grettstadt,DE
+405002557;Esta;Griesshaber;F;06. 03. 1991;29496;AT;Mecklenburg-Vorpommern,SchĂ¶nwalde,AT
+405002439;VladilenoviÄŤ;Krechter;M;03. 03. 1991;18184;AT;Baden-WĂĽrttemberg,WĂĽstenrot,AT
+405002440;Intira;HĂ¶rtling;F;03. 03. 1991;70180;DE;Saarland,Nonnweiler,DE
+405002446;Lara-Marija;Niezel;F;03. 03. 1991;91235;AT;Hessen,Heuchelheim,AT
+405002465;Ignatius;Nicolei;M;03. 03. 1991;18276;DE;Rheinland-Pfalz,HĂĽtterscheid,DE
+405002531;Lili;Sick;F;05. 03. 1990;39291;DE;Rheinland-Pfalz,Weyher in der Pfalz,DE
+405002496;Saskia;Fuhrmans;F;04. 03. 1990;25927;AT;Schleswig-Holstein,BĂ¤k,AT
+405002464;Eleonova;Ohneseit;F;03. 03. 1989;79249;DE;Bayern,Hohenburg,DE
+405002184;Amour;Brandlmeier;M;03. 02. 1989;22335;AT;ThĂĽringen,Heyerode,AT
+405002307;Jo;von Lemm;M;08. 02. 1988;18513;AT;Schleswig-Holstein,Bad Oldesloe,AT
+405002254;Sanying;Soetebier;F;06. 02. 1988;14793;AT;Sachsen-Anhalt,Beuster,AT
+405002266;Darija;Mikolajczak;F;06. 02. 1988;58093;SK;Baden-WĂĽrttemberg,Altdorf,SK
+405002458;Reiko;GĂ¶hrmann;F;03. 03. 1988;85254;AT;Sachsen-Anhalt,Bad DĂĽrrenberg,AT
+405002109;Erdian;Schmirmund;M;01. 02. 1988;26434;AT;Nordrhein-Westfalen,Meckenheim,AT
+405002116;Mia-Isabell;Welcker;F;01. 02. 1988;15537;AT;Niedersachsen,Lilienthal,AT
+405002358;Ho;Nagelschmidt;M;09. 02. 1987;38477;AT;Hamburg,Hamburg Bramfeld,AT
+405002324;Ä°sa;Vankova;M;08. 02. 1987;98746;SK;Sachsen-Anhalt,Mieste,SK
+405002495;Draven;Egerter;M;04. 03. 1987;15938;DE;Nordrhein-Westfalen,HĂĽrth,DE
+405002551;Akram;Willm;F;06. 03. 1986;45279;SK;Rheinland-Pfalz,Dierdorf,SK
+405002239;IsmirĂĽmeysa;Glaesecker;F;05. 02. 1986;24991;DE;Hamburg,Hamburg,DE
+405002172;Tizian;Wendtlandt;M;03. 02. 1986;3058;SK;Sachsen-Anhalt,Nessa,SK
+405002183;Nzinga;StĂ¶ckelmaier;F;03. 02. 1986;14715;DE;Bayern,Murnau am Staffelsee,DE
+405002166;Bin;Dolleisch;M;02. 02. 1986;56575;AT;Niedersachsen,KĂ¶nigslutter am Elm,AT
+405002370;Ngobo;Oelschlaeger;F;01. 03. 1986;74399;SK;ThĂĽringen,Oechsen,SK
+405002131;Parker;Oelkoch;M;11. 02. 1985;15345;DE;Mecklenburg-Vorpommern,Satow,DE
+405002347;Jolene;Johannsdotter;F;09. 02. 1985;1108;SK;Niedersachsen,Schnega Schnega/Bahnhof,SK
+405002534;Kadige;HelmstĂ¤tter;F;06. 03. 1985;95519;DE;Sachsen-Anhalt,Dessau,DE
+405002550;Joan-Talya;Dolejska;F;06. 03. 1985;29465;DE;Bayern,Passau,DE
+405002265;Largo;Kuhr;M;06. 02. 1985;15537;SK;Niedersachsen,Algermissen,SK
+405002506;Lisset;Staubli;F;04. 03. 1985;7751;AT;Berlin,Berlin,AT
+405002340;Kieu;Glasemacher;F;08. 02. 1984;54552;SK;Mecklenburg-Vorpommern,Kittendorf,SK
+405002510;Chiranjiv;Hafmann;M;05. 03. 1984;36369;DE;Nordrhein-Westfalen,Ostbevern,DE
+405002217;Jaakko;Tibold;M;04. 02. 1984;6842;DE;Baden-WĂĽrttemberg,Sternenfels,DE
+405002218;Mahsa;Krzon;F;04. 02. 1984;94032;AT;Nordrhein-Westfalen,Saerbeck,AT
+405002564;LluĂŻsa;Gratop;F;07. 03. 1983;16548;SK;Niedersachsen,Damnatz Jasebeck,SK
+405002545;Svetozar;Grahmann;M;06. 03. 1983;21514;AT;ThĂĽringen,Beichlingen,AT
+405002232;Rabie;Schepansky;M;05. 02. 1983;38855;AT;Bayern,RoĂźhaupten,AT
+405002202;Ali-Kemal;Breutgam;M;04. 02. 1983;72655;DE;Baden-WĂĽrttemberg,Lauchringen,DE
+405002463;Jonah;Caglar;M;03. 03. 1983;54570;AT;Sachsen-Anhalt,JĂĽtrichau,AT
+405002369;Beyza;Seidlmayr;F;01. 03. 1983;15236;AT;Brandenburg,GroĂźthiemig,AT
+405002323;Charles-Lennard;Sudholtz;M;08. 02. 1982;88422;AT;Niedersachsen,Braunschweig,AT
+405002563;DenisoviÄŤ;Einfinger;M;07. 03. 1982;55452;DE;Sachsen-Anhalt,Danstedt,DE
+405002415;Putra;Arnoldus;M;02. 03. 1982;38388;DE;ThĂĽringen,Hermsdorf,DE
+405002368;Yvain;Boedicker;M;01. 03. 1982;25497;DE;Mecklenburg-Vorpommern,Penkow,DE
+405002339;Illiyiin;Yasar;F;08. 02. 1981;54518;AT;Rheinland-Pfalz,SĂ¶rth,AT
+405002574;InĂ©;Gaspary;F;07. 03. 1981;4451;AT;Rheinland-Pfalz,Oberweis,AT
+405002295;Umma;Winternheimer;F;07. 02. 1981;17089;AT;Baden-WĂĽrttemberg,Neulingen,AT
+405002261;Ruzanova;Greitmeier;F;06. 02. 1981;23992;AT;Bayern,Eching am Ammersee,AT
+405002521;Xhenisa;Eskici;F;05. 03. 1981;71063;AT;Schleswig-Holstein,GroĂźsolt,AT
+405002138;Alidjan;Heskamp;M;12. 02. 1980;24361;SK;Rheinland-Pfalz,Bekond,SK
+405002139;Noami;Kirmayer;F;12. 02. 1980;95691;DE;Hessen,Eppstein,DE
+405002328;Cassedy-Athena;Kuchenbecker;F;08. 02. 1980;24395;DE;Rheinland-Pfalz,Maring-Noviand,DE
+405002273;Cong;Purkart;M;07. 02. 1980;89296;DE;Rheinland-Pfalz,Eitelborn,DE
+405002283;Ă‡aÄźan;Kiebeler;M;07. 02. 1980;58802;AT;Schleswig-Holstein,Sankt Michaelisdonn,AT
+405002475;Lilly-Marlen;Porkerth;F;04. 03. 1980;91487;AT;Baden-WĂĽrttemberg,Villingen-Schwenningen,AT
+405002476;Rufina;Urbans;F;04. 03. 1980;67806;DE;Schleswig-Holstein,GroĂź Disnack,DE
+405002451;LanĂ­a;Spielvogl;F;03. 03. 1980;1594;SK;Rheinland-Pfalz,Impflingen,SK
+405002111;Ikram;ZĂ¤nger;F;01. 02. 1980;9337;SK;Sachsen-Anhalt,Hedersleben,SK
+405002327;Kimmo;NegĂĽzel;M;08. 02. 1979;76891;AT;Hamburg,Hamburg Rotherbaum,AT
+405002338;Meira;Lempart;F;08. 02. 1979;72411;SK;Nordrhein-Westfalen,Kerpen,SK
+405002562;Ferysa;Pohlschmidt;F;07. 03. 1979;68623;SK;Mecklenburg-Vorpommern,Kirch Jesar,SK
+405002570;Joshi;Kuehnel;M;07. 03. 1979;55595;DE;ThĂĽringen,Allendorf,DE
+405002533;Asmin;Grabmair;F;06. 03. 1979;99189;SK;Mecklenburg-Vorpommern,Camin,SK
+405002544;Jeremi;BĂ¶lĂĽk;M;06. 03. 1979;56472;DE;Brandenburg,Buckautal,DE
+405002242;Erasmus;Behrs;M;06. 02. 1979;54484;DE;Rheinland-Pfalz,Brauneberg,DE
+405002489;Shevan;VĂ¶gler;M;04. 03. 1979;1829;AT;Hessen,FrĂ¤nkisch-Crumbach,AT
+405002505;Nku-che;WischenkĂ¤mper;F;04. 03. 1979;67308;SK;Mecklenburg-Vorpommern,Brudersdorf,SK
+405002182;Hadi;Melcher;M;03. 02. 1979;48151;SK;Baden-WĂĽrttemberg,BerghĂĽlen,SK
+405002437;Ul;Yildizbas;M;02. 03. 1979;35633;SK;Rheinland-Pfalz,Trierweiler,SK
+405002377;Malila;Kovalev;F;01. 03. 1979;4618;AT;Niedersachsen,Leese,AT
+405002322;Martha;Stannis;F;08. 02. 1978;50189;AT;Mecklenburg-Vorpommern,LĂĽbberstorf,AT
+405002326;Cao;Schniederbernd;M;08. 02. 1978;16306;AT;Mecklenburg-Vorpommern,Gresse,AT
+405002569;Muhammad-Salah;Andersohn;M;07. 03. 1978;28759;AT;Baden-WĂĽrttemberg,Stuttgart Degerloch,AT
+405002543;Cilin;Butchereit;F;06. 03. 1978;7586;SK;Rheinland-Pfalz,Hamm,SK
+405002457;Jasin;Petzhold;M;03. 03. 1978;39264;AT;Brandenburg,Wernsdorf,AT
+405002181;Lumen;Ludewigt;F;03. 02. 1978;26639;AT;Nordrhein-Westfalen,Hagen,AT
+405002376;Dejan;Koniecznik;M;01. 03. 1978;3249;AT;Nordrhein-Westfalen,LĂĽnen,AT
+405002115;Elina-Malin;Roeger;F;01. 02. 1978;13627;DE;Rheinland-Pfalz,BruchmĂĽhlbach-Miesau,DE
+405002389;Loulou;Kocabey;F;11. 03. 1977;37318;AT;Schleswig-Holstein,GroĂźhansdorf,AT
+405002321;Khodor;Grootens;M;08. 02. 1977;71409;DE;Hessen,HĂ¶chst im Odenwald,DE
+405002264;Menwako;Moehlenkamp;M;06. 02. 1977;57577;DE;Nordrhein-Westfalen,Dortmund,DE
+405002231;Alexandra-Christin;Alschefski;F;05. 02. 1977;38120;SK;Rheinland-Pfalz,Otterbach,SK
+405002488;Silke;Nowazki;F;04. 03. 1977;47800;SK;Bayern,Osterberg,SK
+405002180;Aayan;BarthĂ©lemy;M;03. 02. 1977;35576;DE;Bayern,Aidhausen,DE
+405002385;Evrim;Wuerst;F;01. 03. 1977;96268;DE;Hessen,Habichtswald,DE
+405002123;Evsa;Henzmann;F;01. 02. 1977;17498;SK;Brandenburg,Erkner,SK
+405002362;Guadalupe;Czarna;F;09. 02. 1976;72667;AT;Rheinland-Pfalz,Weinsheim,AT
+405002320;Dean-Deryan;Eichholzer;M;08. 02. 1976;39359;SK;Baden-WĂĽrttemberg,Bingen,SK
+405002222;Izaan;Olberts;F;05. 02. 1976;48346;SK;Brandenburg,Rietz-Neuendorf GroĂź Rietz,SK
+405002438;Mayowa;Hoedemacher;F;03. 03. 1976;37318;SK;Mecklenburg-Vorpommern,GĂ¶Ăźlow,SK
+405002456;Ali-Elias;NiklaaĂźen;M;03. 03. 1976;25485;AT;Mecklenburg-Vorpommern,Neukloster,AT
+405002462;Thibault;Hubbers;M;03. 03. 1976;22846;SK;Nordrhein-Westfalen,Wetter (Ruhr),SK
+405002198;MatheĂł;Ohsoling;M;03. 02. 1976;92277;DE;Nordrhein-Westfalen,Balve,DE
+405002393;Lorna;Derbofen;F;01. 03. 1976;25856;AT;ThĂĽringen,Ottstedt am Berge,AT
+405002408;Lole;Frehde;F;12. 03. 1975;34327;DE;ThĂĽringen,Friedelshausen,DE
+405002395;Khadre;Weissgerber;M;11. 03. 1975;89437;SK;Schleswig-Holstein,Ruhwinkel,SK
+405002336;Guim;KrĂ¤mers;M;08. 02. 1975;71739;DE;Rheinland-Pfalz,Rott,DE
+405002337;Zein;BachmĂĽller;M;08. 02. 1975;73101;DE;Brandenburg,Duben,DE
+405002494;Damianos;Urbanova;M;04. 03. 1975;37355;DE;Sachsen-Anhalt,Horburg-MaĂźlau,DE
+405002504;Redha;Berkenstock;M;04. 03. 1975;32105;SK;Rheinland-Pfalz,Riedelberg,SK
+405002210;Javed;Weidauer;M;04. 02. 1975;22589;AT;Bayern,Motten,AT
+405002580;Tamila;Kaysers;F;07. 03. 1974;99195;DE;Bayern,Salz,DE
+405002542;Nawaali;Cuhrts;F;06. 03. 1974;55437;SK;Baden-WĂĽrttemberg,SĂĽĂźen,SK
+405002407;Aref;Gutschlag;M;12. 03. 1973;23883;AT;Mecklenburg-Vorpommern,Vielist,AT
+405002137;Emeli;Klementz;F;12. 02. 1973;24211;DE;Mecklenburg-Vorpommern,GĂĽltz,DE
+405002422;Naran;Kortkampf;M;02. 03. 1973;39345;AT;Sachsen-Anhalt,Mehmke,AT
+405002432;Mikah;Niklasson;M;02. 03. 1973;99837;SK;ThĂĽringen,Schleifreisen,SK
+405002130;Leonel;Bondarev;M;11. 02. 1972;39164;AT;Mecklenburg-Vorpommern,Schwanbeck,AT
+405002253;Horik;Tausendfreundt;M;06. 02. 1972;19246;AT;Bayern,Geiselbach,AT
+405002526;Azis;Seidt;M;05. 03. 1972;6193;DE;Baden-WĂĽrttemberg,Nusplingen,DE
+405002414;Holleena;Haenzelmann;F;02. 03. 1972;18586;DE;Nordrhein-Westfalen,Oer-Erkenschwick,DE
+405002400;Muhannad;JĂ¶rgen;M;12. 03. 1971;24229;AT;Sachsen-Anhalt,Wartenburg,AT
+405002129;VĹ©;Arslaner;M;11. 02. 1971;96146;SK;Sachsen-Anhalt,Jessen (Elster) SchĂ¶neicho,SK
+405002313;Abdulrahman;Sauter;F;08. 02. 1971;26892;SK;Nordrhein-Westfalen,Hattingen,SK
+405002532;Azanui;Wiszniowski;F;06. 03. 1971;36043;SK;Mecklenburg-Vorpommern,Godern,SK
+405002474;Nargiss;Stanze;F;04. 03. 1971;49457;SK;Nordrhein-Westfalen,Bielefeld,SK
+405002205;Rokia;Burk;F;04. 02. 1971;28865;DE;Mecklenburg-Vorpommern,Glewitz,DE
+405002216;Athanasia;Oettlin;F;04. 02. 1971;29465;DE;Sachsen-Anhalt,Schkopau,DE
+405002106;Igor;Anonymizovaný;M;03. 30. 1971;90001;AT;Nordrhein-Westfalen,Bad Berleburg Beddelhausen,AT
+405002171;Meriyem;Schmittbauer;F;03. 02. 1971;20537;DE;Berlin,Berlin,DE
+405002147;Emily-Lucille;Stelmaschak;F;12. 02. 1970;96196;DE;Sachsen-Anhalt,Tollwitz,DE
+405002357;Juna;Grundtmann;F;09. 02. 1970;21129;DE;Mecklenburg-Vorpommern,Baabe,DE
+405002540;Armin;Nimschik;M;06. 03. 1970;58762;AT;Niedersachsen,Wippingen,AT
+405002541;Mikaeel;Berthe;M;06. 03. 1970;42107;SK;Niedersachsen,SchwĂĽlper,SK
+405002221;Yuseinova;Saridogan;F;05. 02. 1970;17153;AT;Rheinland-Pfalz,MĂĽllenbach,AT
+405002503;Arjen;Niclaus;M;04. 03. 1970;27419;AT;Bayern,NĂĽrnberg,AT
+405002461;Adria;Malchers;F;03. 03. 1970;70597;AT;Schleswig-Holstein,Appen,AT
+405002179;Pavlovna;MuckenfuĂź;F;03. 02. 1970;6295;DE;Niedersachsen,Braunschweig,DE
+405002375;Yasan;Hensmanns;M;01. 03. 1970;12353;DE;Bayern,Oberbergkirchen,DE
+405002388;Avrest;Fiebelkorn;F;11. 03. 1969;86647;DE;Sachsen-Anhalt,Wegenstedt,DE
+405002301;Noto;Abaci;M;08. 02. 1969;45739;DE;Baden-WĂĽrttemberg,Schwaikheim,DE
+405002249;Sirio;Rudolfer;M;06. 02. 1969;20149;DE;Nordrhein-Westfalen,Elsdorf,DE
+405002215;Jonas;Jenz;M;04. 02. 1969;18239;AT;Baden-WĂĽrttemberg,Moosburg,AT
+405002436;Haily-Luise;Nabert;F;02. 03. 1969;99428;DE;ThĂĽringen,Mellenbach-Glasbach,DE
+405002312;Chayenne-Shanelle;Endruhn;F;08. 02. 1968;18586;DE;Rheinland-Pfalz,Irrel,DE
+405002539;Corinna;Maienkranz;F;06. 03. 1968;18249;SK;Brandenburg,Hohenselchow,SK
+405002225;Hayat;Hofebauer;F;05. 02. 1968;29472;AT;Rheinland-Pfalz,Nothweiler,AT
+405002230;Moritz;Tetzloff;M;05. 02. 1968;4932;DE;Schleswig-Holstein,Stangheck,DE
+405002204;Walli;Ahloff;F;04. 02. 1968;53340;SK;Sachsen-Anhalt,Bitterfeld-Wolfen,SK
+405002191;Herbert;Wernke;M;03. 02. 1968;17309;DE;Mecklenburg-Vorpommern,Splietsdorf,DE
+405002361;Kendi;Oechsele;F;09. 02. 1967;17349;DE;Brandenburg,SchĂ¶nflieĂź,DE
+405002281;Arsenij;Bilali;M;07. 02. 1967;23992;SK;Baden-WĂĽrttemberg,Hardthausen am Kocher,SK
+405002473;Aldrin;Putzhammer;M;04. 03. 1967;21037;DE;Nordrhein-Westfalen,Versmold,DE
+405002190;Leron;Holtgrave;M;03. 02. 1967;97508;SK;Bayern,Ăśbersee,SK
+405002384;Shadi;Frost;M;01. 03. 1967;16552;DE;Bayern,Rieden,DE
+405002146;Saleh;GĂ¶wert;M;12. 02. 1966;38889;AT;Baden-WĂĽrttemberg,Oberriexingen,AT
+405002538;Monira;Ă–calan;F;06. 03. 1966;94252;AT;Baden-WĂĽrttemberg,Aichelberg,AT
+405002248;Lauin;Sznayder;M;06. 02. 1966;6458;SK;Baden-WĂĽrttemberg,Bodelshausen,SK
+405002178;Nauli;Vaterl;M;03. 02. 1966;6188;AT;Rheinland-Pfalz,Dodenburg,AT
+405002163;Nareen;Dammschneider;F;02. 02. 1966;16259;AT;Rheinland-Pfalz,Demerath,AT
+405002399;ElĂ©onore;Tetzlaf;F;12. 03. 1965;2763;AT;Bayern,Egg an der GĂĽnz,AT
+405002145;Ylenia;BlĂ¶hdorn;F;12. 02. 1965;99869;SK;Baden-WĂĽrttemberg,Horb am Neckar,SK
+405002260;Sobair;Huebertz;M;06. 02. 1965;31633;DE;Bayern,Meeder,DE
+405002263;Cosmina;Huchzermeier;F;06. 02. 1965;70597;DE;Sachsen-Anhalt,Rothenschirmbach,DE
+405002520;Ilja;Schrievers;M;05. 03. 1965;24816;DE;Bayern,Rosenheim,DE
+405002238;Takla;von Braun;M;05. 02. 1965;82279;AT;Bayern,Augsburg,AT
+405002169;Fankova;Benedek;F;03. 02. 1965;27254;SK;Sachsen,Marsdorf,SK
+405002170;Catelynn;Treber;F;03. 02. 1965;38364;AT;Rheinland-Pfalz,Heuchelheim-Klingen,AT
+405002319;Lital;Kreuz;F;08. 02. 1964;84564;AT;Mecklenburg-Vorpommern,Diestelow,AT
+405002144;Zozo;JĂ¤nz;F;12. 02. 1963;22455;DE;Brandenburg,Kloster Lehnin,DE
+405002335;Enver;Heinrizi;M;08. 02. 1963;92286;AT;Nordrhein-Westfalen,Wuppertal,AT
+405002568;Cataleya-Virginia;Klinkeis;F;07. 03. 1963;31311;DE;Bayern,Pforzen,DE
+405002515;Aliesha;Storer;F;05. 03. 1963;26624;DE;Brandenburg,Sadenbeck,DE
+405002105;Róbert;Tester;M;04. 19. 1963;84103;AT;Baden-WĂĽrttemberg,Wittlingen,AT
+405002153;Ilhana;Neujoks;F;02. 02. 1963;26901;SK;Bayern,Egglham,SK
+405002406;Zhichen;von Lemmermann;M;12. 03. 1962;31737;AT;Rheinland-Pfalz,WĂ¶rth am Rhein,AT
+405002128;Nejma;Thoms;F;11. 02. 1962;21493;DE;Hamburg,Hamburg Altenwerder,DE
+405002318;Kei;Gunarson;M;08. 02. 1962;38114;SK;Niedersachsen,Jembke,SK
+405002383;Friedo;MayerjĂĽrgens;M;01. 03. 1962;85625;AT;Hessen,Trendelburg,AT
+405002119;Milada;Brencke;F;11. 02. 1961;52152;AT;Sachsen-Anhalt,RogĂ¤tz,AT
+405002311;Vanese;Hueter;F;08. 02. 1961;6231;SK;Mecklenburg-Vorpommern,SchĂ¶nbeck,SK
+405002549;Zayan;Klaasmeier;M;06. 03. 1961;73529;AT;Baden-WĂĽrttemberg,Schlaitdorf,AT
+405002241;Zoley;Adamski;F;06. 02. 1961;65817;DE;Sachsen-Anhalt,KlĂ¤den,DE
+405002306;Georgiy;Avenarius;M;08. 02. 1960;33607;DE;Sachsen-Anhalt,Elbe-Parey,DE
+405002247;Ivana;Dargiewicz;F;06. 02. 1960;76831;DE;Rheinland-Pfalz,Pirmasens,DE
+405002472;Thorwin;StolterfuĂź;M;04. 03. 1960;96106;AT;Sachsen,Bad DĂĽben,AT
+405002209;Walter;Goedeker;M;04. 02. 1960;56269;SK;Hamburg,Hamburg Eppendorf,SK
+405002177;Almalik;Jahnen;M;03. 02. 1960;85111;AT;Schleswig-Holstein,Prisdorf,AT
+405002136;GĂĽllĂĽ;Holzhauer;F;12. 02. 1959;55599;DE;Brandenburg,Jacobsdorf Pillgram,DE
+405002305;Amare;AbbĂĽhl;F;08. 02. 1959;19065;SK;Baden-WĂĽrttemberg,Walheim,SK
+405002294;Doreen;Titzner;F;07. 02. 1959;17194;DE;Bayern,Lengdorf,DE
+405002481;Beverly-Emmi;Epp;F;04. 03. 1959;55481;SK;Brandenburg,Rheinsberg Zechow,SK
+405002374;Palo;Ebinger;M;01. 03. 1959;19357;AT;Schleswig-Holstein,Bargum,AT
+405002398;Osasogie;MarthienĂź;F;12. 03. 1958;73765;SK;Mecklenburg-Vorpommern,Dambeck,SK
+405002304;Faye-Lee;SchniederkĂ¶tter;F;08. 02. 1958;45527;DE;Berlin,Berlin,DE
+405002220;Maeva;Mikolassek;F;05. 02. 1958;14050;SK;Brandenburg,Pahlsdorf,SK
+405002197;ĂrĂłra;Seyffart;F;03. 02. 1958;23909;SK;ThĂĽringen,Ziegelheim,SK
+405002405;Mahapatra;HĂ¶fges;F;12. 03. 1957;19374;SK;Niedersachsen,GroĂźefehn Holtrop,SK
+405002350;Varujan;Gysen;M;09. 02. 1957;14797;AT;Schleswig-Holstein,Borgstedt,AT
+405002229;Lawnd;Baedecker;M;05. 02. 1957;39264;DE;Bayern,Bad Kissingen,DE
+405002471;Emiray;Niedermaier;M;04. 03. 1957;16928;AT;Bayern,Stammham,AT
+405002334;Omar;Reberger;F;08. 02. 1956;83236;SK;Niedersachsen,HĂĽlsede Schmarrie,SK
+405002252;Yaya;Gehroldt;M;06. 02. 1956;7426;AT;Bayern,Baiern,AT
+405002519;Iulia;Nikolaas;F;05. 03. 1956;7389;AT;Brandenburg,Schildow,AT
+405002237;Marenz;Weinmeister;M;05. 02. 1956;75245;SK;Bayern,Mitwitz,SK
+405002480;Kalliope;Geyer;F;04. 03. 1956;72131;AT;Niedersachsen,Bilshausen,AT
+405002381;Nahla-Amalia;Majcherek;F;01. 03. 1956;85134;DE;Rheinland-Pfalz,Weroth,DE
+405002382;Pascale;Allgeuer;F;01. 03. 1956;31867;DE;Bayern,Buttenwiesen,DE
+405002561;Ofania;Robert;F;07. 03. 1955;95496;SK;ThĂĽringen,Gerbershausen,SK
+405002272;Flori;Gise;M;07. 02. 1955;67731;AT;Rheinland-Pfalz,Mackenrodt,AT
+405002251;Ritedj;Micheely;F;06. 02. 1955;19230;DE;Mecklenburg-Vorpommern,Krackow,DE
+405002259;Karine;Paetzold;F;06. 02. 1955;54311;DE;Sachsen,GroĂźlehna,DE
+405002449;Anisa;Ackerbauer;F;03. 03. 1955;39240;AT;Schleswig-Holstein,Hattstedt,AT
+405002450;Bethlehem;Klasman;F;03. 03. 1955;1609;AT;Rheinland-Pfalz,Manubach,AT
+405002367;Rona;Ulbrecht;F;01. 03. 1955;20251;DE;Bayern,Haunsheim,DE
+405002356;Anjali;ClaĂźe;F;09. 02. 1954;76744;DE;Mecklenburg-Vorpommern,Warlitz,DE
+405002224;Ă–zer;Bozdag;M;05. 02. 1954;48369;AT;Baden-WĂĽrttemberg,Ingoldingen,AT
+405002203;Prem;Riegermann;M;04. 02. 1954;6231;AT;Baden-WĂĽrttemberg,Neuhausen auf den Fildern,AT
+405002196;Safouan;Schellhaas;M;03. 02. 1954;76835;SK;Sachsen,Mittelherwigsdorf,SK
+405002258;Malti;Claesener;M;06. 02. 1953;89180;SK;Schleswig-Holstein,DĂ¤nischenhagen,SK
+405002201;Viá»‡t;StieniĂźen;F;04. 02. 1953;39615;AT;Hamburg,Hamburg Rissen,AT
+405002413;Edvard;Corten;M;02. 03. 1953;12557;SK;Schleswig-Holstein,Neuendeich,SK
+405002366;Eycke;Stumpenmeier;M;01. 03. 1953;4849;SK;Sachsen-Anhalt,Deuben,SK
+405002380;Antonivna;HĂ¶velhans;F;01. 03. 1953;97688;AT;Sachsen-Anhalt,Kemberg Bergwitz,AT
+405002567;Payten;Schults;F;07. 03. 1952;57635;SK;Mecklenburg-Vorpommern,DomsĂĽhl,SK
+405002271;Mayline;Sievert;F;07. 02. 1952;44137;DE;Niedersachsen,Rinteln Exten,DE
+405002214;Caya;Willink;F;04. 02. 1952;36404;SK;Schleswig-Holstein,Brunsmark,SK
+405002360;Inara;KĂĽcĂĽkakyĂĽz;F;09. 02. 1951;39326;AT;Hessen,KĂ¶rle,AT
+405002280;Awan;Segebarth;M;07. 02. 1951;19249;AT;Sachsen,Niederdorf,AT
+405002548;Antonious;Beerheide;M;06. 03. 1951;15748;DE;ThĂĽringen,Gera,DE
+405002236;Zoe-Lou;Benik;F;05. 02. 1951;54636;DE;Mecklenburg-Vorpommern,KrĂ¶pelin,DE
+405002479;Lenna;Waldkirch;F;04. 03. 1951;35094;AT;Mecklenburg-Vorpommern,Neu Poserin,AT
+405002200;HjĂ¶rdis;DĂĽpont;F;04. 02. 1951;23843;DE;Berlin,Berlin,DE
+405002165;Nilio;Zumbiel;M;02. 02. 1951;56459;AT;Mecklenburg-Vorpommern,Baabe,AT
+405002114;Elahe;Kazimierczak;F;01. 02. 1951;54314;SK;Niedersachsen,Twieflingen,SK
+405002579;Raza;Mohrenstecher;F;07. 03. 1950;82362;DE;Sachsen-Anhalt,Letzlingen,DE
+405002431;Khadija;Salmann;F;02. 03. 1950;78052;SK;Bayern,StĂ¶ttwang,SK
+405002143;Cilian;Steinmeir;M;12. 02. 1949;27616;DE;Niedersachsen,Syke,DE
+405002355;Besey;Dworatzek;F;09. 02. 1949;84385;AT;Niedersachsen,Auetal Schoholtensen,AT
+405002578;Trinity;Stengl;F;07. 03. 1949;27259;SK;Brandenburg,Storkow (Mark) Wochowsee,SK
+405002270;Corinne;Conrady;F;07. 02. 1949;64739;SK;Schleswig-Holstein,Kankelau,SK
+405002162;Chibuzor;Rikkers;M;02. 02. 1949;6917;AT;Sachsen-Anhalt,Flechtingen,AT
+405002354;Aoife;Mackh;F;09. 02. 1948;79599;SK;Baden-WĂĽrttemberg,Untermarchtal,SK
+405002577;Simeun;Ahlf;M;07. 03. 1948;31787;DE;Niedersachsen,KrummhĂ¶rn Upleward,DE
+405002525;Auez;Heydekorn;F;05. 03. 1948;31552;DE;Bayern,Kreuzwertheim,DE
+405002493;Maximiliam;Wolgemut;M;04. 03. 1948;22113;AT;Niedersachsen,Auetal Poggenhagen,AT
+405002208;Roux;FrĂĽhling;F;04. 02. 1948;50354;AT;Niedersachsen,Ihlow Westerende-Holzloog,AT
+405002455;Khadija;Spankuch;F;03. 03. 1948;88699;SK;Baden-WĂĽrttemberg,Wyhl am Kaiserstuhl,SK
+405002421;CĂ©line;SĂĽĂźl;F;02. 03. 1948;21514;SK;Sachsen,MĂĽglitztal,SK
+405002349;Mathilda;Vincke;F;09. 02. 1947;19399;SK;Mecklenburg-Vorpommern,BrĂĽsewitz,SK
+405002300;Xamih;Kolodzieg;M;08. 02. 1947;72362;AT;Baden-WĂĽrttemberg,Villingen-Schwenningen,AT
+405002547;Bozena;Povileit;F;06. 03. 1947;54552;AT;ThĂĽringen,GroĂźensee,AT
+405002257;Dilda;ThĂ¶niss;F;06. 02. 1947;17159;DE;Berlin,Berlin,DE
+405002240;Miira;SĂĽhsmilch;F;05. 02. 1947;54340;AT;Rheinland-Pfalz,Antweiler,AT
+405002373;Zahira;Huberts;F;01. 03. 1947;25842;DE;Niedersachsen,Hoyershausen,DE
+405002310;Amila;Busskamp;F;08. 02. 1946;10435;AT;ThĂĽringen,Nohra,AT
+405002250;Kameliya;Danell;F;06. 02. 1946;50169;AT;Hessen,Lahnau,AT
+405002514;Caia;Kranawetvogl;F;05. 03. 1946;71691;AT;ThĂĽringen,Birkenfelde,AT
+405002502;Sarah-Angelique;Bechteler;F;04. 03. 1946;38836;SK;Mecklenburg-Vorpommern,Steinfeld,SK
+405002445;Kismetlina;Bussas;F;03. 03. 1946;86697;SK;Baden-WĂĽrttemberg,Stuttgart,SK
+405002379;Esmer;SchĂĽttgens;M;01. 03. 1946;24794;AT;Hamburg,Hamburg Hammerbrook,AT
+405002134;Ayewa;Henns;F;12. 02. 1945;70599;AT;Rheinland-Pfalz,Kyllburgweiler,AT
+405002135;Ayssen;Kless;M;12. 02. 1945;24395;DE;Bayern,Geiselbach,DE
+405002299;Mathea;Ratmer;F;08. 02. 1945;63826;DE;Sachsen-Anhalt,Holleben,DE
+405002392;Swapnil;Depolt;M;01. 03. 1945;4420;AT;Bayern,Oberhausen,AT
+405002133;Ilkim;Stadlmayr;F;12. 02. 1944;13505;DE;Bayern,Hartenstein,DE
+405002317;Meadow;Fetterlein;F;08. 02. 1944;25482;DE;Rheinland-Pfalz,Rodershausen,DE
+405002501;Stefano;Pohlhans;M;04. 03. 1944;84175;DE;Sachsen-Anhalt,Zabitz,DE
+405002470;Celestine;Kleuskens;F;04. 03. 1943;6901;AT;Sachsen-Anhalt,Zuchau,AT
+405002430;Lojain;WĂ¤chter;F;02. 03. 1943;19071;SK;Sachsen,Nauwalde,SK
+405002149;Ilia;Zettlmeier;F;02. 02. 1943;55758;DE;Sachsen,Stauchitz,DE
+405002397;Kawthar;Kohlhofer;F;12. 03. 1942;88456;SK;Niedersachsen,Westertimke,SK
+405002346;Salia;NiemĂ¶ller;F;09. 02. 1942;86163;AT;Hamburg,Hamburg Wilstorf,AT
+405002293;Elay;Pfannkuche;M;07. 02. 1942;73079;SK;Baden-WĂĽrttemberg,Lautenbach,SK
+405002420;Lamyia;Lohmair;F;02. 03. 1942;15859;AT;Baden-WĂĽrttemberg,Frickingen,AT
+405002152;Onni;Hennerizi;M;02. 02. 1942;98559;SK;Schleswig-Holstein,Hemdingen,SK
+405002353;Rinas;Hillerbrandt;F;09. 02. 1941;16928;SK;Sachsen-Anhalt,JĂĽtrichau,SK
+405002546;Miraz;MĂ¤rke;M;06. 03. 1941;55483;DE;Bayern,Sulzemoos,DE
+405002256;Marcu;PeterhĂ¤nse;M;06. 02. 1941;64407;DE;Bayern,NĂĽrnberg,DE
+405002513;Jan-Erik;Radakovits;M;05. 03. 1941;27404;DE;Berlin,Berlin,DE
+405002487;Francis;AblaĂźmeier;F;04. 03. 1941;6408;DE;Baden-WĂĽrttemberg,Stuttgart MĂ¶hringen,DE
+405002444;Vita;SchĂ¤pertĂ¶ns;F;03. 03. 1941;6179;AT;Schleswig-Holstein,Norderstedt,AT
+405002419;Danusia;Bauerl;F;02. 03. 1941;31749;AT;Rheinland-Pfalz,Niederstadtfeld,AT
+405002429;Zuri;Schemeit;M;02. 03. 1941;1809;AT;Baden-WĂĽrttemberg,Merzhausen,AT
+405002157;Abdulasim;SchĂ¤permeier;M;02. 02. 1941;2708;DE;Mecklenburg-Vorpommern,MĂĽhl Rosin,DE
+405002391;Liyah;LĂ¤mpel;F;01. 03. 1941;17329;SK;Brandenburg,Heckelberg-Brunow Brunow,SK
+405002309;Bulut;Usinger;M;08. 02. 1940;57319;AT;Mecklenburg-Vorpommern,Benitz,AT
+405002189;Orestis;Draut;M;03. 02. 1940;4808;DE;Baden-WĂĽrttemberg,Hemsbach,DE
+405002113;Erijon;Bucke;M;01. 02. 1940;2979;SK;ThĂĽringen,Hausen,SK
+405002404;Stern;Kloeckler;F;12. 03. 1939;6773;DE;Sachsen-Anhalt,Kemberg Kemberg,DE
+405002352;Asiye;BĂĽyĂĽkyilmaz;F;09. 02. 1939;87666;SK;Brandenburg,GroĂź Pankow,SK
+405002333;Leo-Amadeus;Spierling;M;08. 02. 1939;33775;SK;Bayern,Ebern,SK
+405002524;Erda;Meybaum;F;05. 03. 1939;2694;AT;Hamburg,Hamburg Curslack,AT
+405002530;Kiano;Hiltenbrand;M;05. 03. 1939;16835;AT;Niedersachsen,Drebber,AT
+405002486;Myrton;Hoedemakers;M;04. 03. 1939;93167;AT;Bayern,Vestenbergsgreuth,AT
+405002492;Antonious;HĂ¤nscke;M;04. 03. 1939;23816;AT;Rheinland-Pfalz,Bisterschied,AT
+405002195;Amilio;Morgenschweis;M;03. 02. 1939;54636;AT;Bayern,Hausen bei WĂĽrzburg,AT
+405002345;Aleesa;WeyhersmĂĽller;F;09. 02. 1938;83022;DE;Rheinland-Pfalz,Rumbach,DE
+405002529;Dorart;Eidemueller;M;05. 03. 1938;49448;SK;Hessen,Lahntal,SK
+405002188;Nadi;Knoll;M;03. 02. 1938;72355;AT;Baden-WĂĽrttemberg,Ofterdingen,AT
+405002428;Karola;Aubele;F;02. 03. 1938;79369;SK;Rheinland-Pfalz,Kludenbach,SK
+405002110;Victris;RauhfuĂź;F;01. 02. 1938;15806;AT;ThĂĽringen,Pennewitz,AT
+405002308;Aram;Bauers;F;08. 02. 1937;6179;SK;Rheinland-Pfalz,Ensch,SK
+405002292;Uliana;Klesmann;F;07. 02. 1937;97616;SK;Bayern,Zorneding,SK
+405002556;Edo;Malzner;M;06. 03. 1937;68723;AT;Brandenburg,Siehdichum,AT
+405002518;Mak;Krajewska;M;05. 03. 1937;31582;SK;Bayern,Falkenstein,SK
+405002448;MĂĽcahit;SeegmĂĽller;M;03. 03. 1937;6369;AT;Sachsen-Anhalt,Latdorf,AT
+405002378;Turhanov;Linde;M;01. 03. 1937;26629;DE;Nordrhein-Westfalen,Krefeld,DE
+405002122;Jinyu;Stentzel;F;01. 02. 1937;88339;DE;Sachsen,Stadt Wehlen,DE
+405002142;Anelieva;Apels;F;12. 02. 1936;19372;DE;Berlin,Berlin,DE
+405002573;Kenal;Scheel;M;07. 03. 1936;83119;DE;Rheinland-Pfalz,Westheim,DE
+405002528;Sheba;Weinbender;F;05. 03. 1936;54424;DE;Schleswig-Holstein,Leezen,DE
+405002332;Rahmah;Holdschmidt;F;08. 02. 1935;74239;SK;Schleswig-Holstein,Hamburg Billstedt,SK
+405002443;Elara-Fee;Friesen;F;03. 03. 1935;63826;SK;ThĂĽringen,Niederorschel,SK
+405002194;Morice;Hampisch;M;03. 02. 1935;35452;DE;Brandenburg,Kasel-Golzig,DE
+405002412;Andjela;Gehrcke;F;02. 03. 1935;19399;DE;Schleswig-Holstein,Aventoft,DE
+405002418;Lyah;Tkatschenko;F;02. 03. 1935;28857;SK;Bayern,Wiedenzhausen,SK
+405002555;Thankgod;Poliak;F;06. 03. 1934;88138;AT;Hamburg,Hamburg Billstedt,AT
+405002246;Oguzhan;Preusing;M;06. 02. 1934;23911;DE;Berlin,Berlin,DE
+405002427;Mirzet;Brencke;M;02. 03. 1934;26632;AT;ThĂĽringen,Erfurt,AT
+405002164;Marie-Luise;Lankheit;F;02. 02. 1934;20146;SK;Bayern,Gerzen,SK
+405002108;Duoer;Koelblin;F;01. 02. 1934;6543;AT;Sachsen-Anhalt,Pabstorf,AT
+405002394;Mathilda;PĂ¤fgen;F;11. 03. 1933;55413;DE;Niedersachsen,Klein Meckelsen,DE
+405002118;Semra;Schochard;F;11. 02. 1933;39175;DE;Nordrhein-Westfalen,Bad Salzuflen,DE
+405002537;Meilin;Diedl;F;06. 03. 1933;21033;AT;Rheinland-Pfalz,Lautersheim,AT
+405002245;Imade;Lamberti;F;06. 02. 1933;78052;AT;ThĂĽringen,ZĂ¶llnitz,AT
+405002193;Florance;GrĂĽnleitner;F;03. 02. 1933;66620;AT;Sachsen,Plauen,AT
+405002160;Hayel;Nikolaiczyk;M;02. 02. 1933;27330;SK;Sachsen,Zabeltitz,SK
+405002161;Andreza;NĂ¶lke;F;02. 02. 1933;6712;AT;Bayern,Pischertshofen,AT
+405002560;Uchenna;Anclam;M;07. 03. 1932;15377;SK;Hessen,Lautertal,SK
+405002552;Fynn-Noah;KrauĂźkopf;M;06. 03. 1932;70597;SK;Baden-WĂĽrttemberg,Bad Schussenried Dunzenhausen,SK
+405002554;MĂ©lanie;Erol;F;06. 03. 1932;44797;SK;Bayern,Regensburg,SK
+405002228;AligĂĽl;Bodenmueller;M;05. 02. 1932;79787;AT;Niedersachsen,Ostereistedt,AT
+405002117;Jacoby;KĂĽchenmeister;M;11. 02. 1931;56769;DE;Baden-WĂĽrttemberg,Freiberg am Neckar,DE
+405002348;Harvir;Hoerhold;M;09. 02. 1931;76831;SK;Niedersachsen,SĂĽdbrookmerland,SK
+405002485;Khanifa;Gorobets;F;04. 03. 1931;15890;DE;Niedersachsen,GroĂźefehn WestgroĂźefehn,DE
+405002435;Hardin;Engbarth;M;02. 03. 1931;31093;SK;Sachsen,GlashĂĽtte,SK
+405002359;Jackson;Haintze;M;09. 02. 1930;34388;DE;Niedersachsen,Nienburg (Weser) Nienburg (Weser),DE
+405002509;Fae;Bestgen;F;05. 03. 1930;82282;SK;ThĂĽringen,Ranis,SK
+405002411;Marcu;Knoblauch;M;02. 03. 1930;18236;SK;Schleswig-Holstein,Hamweddel,SK
+405002151;Ria;Daukschies;F;02. 02. 1930;15528;DE;Baden-WĂĽrttemberg,Sindelfingen,DE
+405002156;Wladimir;Krusekopp;M;02. 02. 1930;87733;SK;Brandenburg,Ludwigsfelde,SK
+405002344;Juby;Janitschke;F;09. 02. 1929;6295;SK;Nordrhein-Westfalen,Bonn,SK
+405002279;Ronahy;Schneekluth;F;07. 02. 1929;15848;AT;Sachsen,Guttau,AT
+405002287;Elham;Rassmuss;M;07. 02. 1929;57632;DE;Niedersachsen,Rodenberg,DE
+405002484;Noah-JoĂ«l;Marcinak;M;04. 03. 1929;85604;AT;Sachsen-Anhalt,LĂ¶bejĂĽn,AT
+405002434;Lumara;FrĂ¤nz;F;02. 03. 1929;53533;AT;Rheinland-Pfalz,Oberrod,AT
+405002159;Ozaid;Ficht;F;02. 02. 1929;39596;SK;Rheinland-Pfalz,Etgert,SK
+405002365;Zuria;Rockermeier;F;01. 03. 1929;66954;SK;Niedersachsen,Quernheim,SK
+405002107;Fia-Marie;Wiebranitz;F;01. 02. 1929;56479;DE;Brandenburg,Lindow (Mark) SchĂ¶nberg (Mark),DE
+405002403;Gjelbrina;FĂĽnfgelder;F;12. 03. 1928;6682;AT;Sachsen-Anhalt,Hohenziatz,AT
+405002454;Siegmar;Lamprechter;M;03. 03. 1928;77794;DE;Hessen,Fulda,DE
+405002460;Szofi;SchĂ¶nmeier;F;03. 03. 1928;12247;AT;ThĂĽringen,Elxleben,AT
+405002316;Ajlina;Peperkok;F;08. 02. 1927;90451;SK;Bayern,Vorbach,SK
+405002572;Morgan;TeĂźmann;F;07. 03. 1927;56457;DE;Bayern,Deisenhofen bei MĂĽnchen,DE
+405002508;Pavels;GĂĽnthers;M;05. 03. 1927;1561;DE;Brandenburg,Jessern,DE
+405002426;Vakhidovna;Bernad;F;02. 03. 1927;31749;SK;Hamburg,Hamburg Bergedorf,SK
+405002158;Siad;Mikule;M;02. 02. 1927;55566;AT;Bayern,Bayerisch Eisenstein,AT
+405002132;Dandelion;Klugius;M;12. 02. 1926;45879;DE;Mecklenburg-Vorpommern,Tarnow,DE
+405002244;Jorik;KleiĂźen;M;06. 02. 1926;25693;DE;Nordrhein-Westfalen,Altena,DE
+405002212;Ĺžen;Jungmann;M;04. 02. 1926;82418;AT;Nordrhein-Westfalen,Wuppertal,AT
+405002425;Agus;Spoth;M;02. 03. 1926;97892;AT;Rheinland-Pfalz,Ockenheim,AT
+405002351;Gesa;Kubanke;F;09. 02. 1925;42111;SK;ThĂĽringen,Bad KĂ¶stritz,SK
+405002286;Nusayba;RothkĂ¶gel;F;07. 02. 1925;24601;DE;Rheinland-Pfalz,Hahn bei Marienberg,DE
+405002512;Jermaine-Leandro;Haferkorn;M;05. 03. 1925;93053;DE;Schleswig-Holstein,Roseburg,DE
+405002469;Godwin;Chlaus;M;04. 03. 1925;37327;AT;Rheinland-Pfalz,Horbruch,AT
+405002453;Ada-Rose;Grunemann;F;03. 03. 1925;21073;DE;Rheinland-Pfalz,Ellscheid,DE
+405002330;Ailiyah;Bruder;F;08. 02. 1924;18513;DE;Brandenburg,MĂ¤rkisch Buchholz,DE
+405002331;Lilie;van der Horst;F;08. 02. 1924;16567;SK;Baden-WĂĽrttemberg,SchwĂ¤bisch GmĂĽnd,SK
+405002571;Marja;Podszum;F;07. 03. 1924;99735;SK;Niedersachsen,Schnega Schnega,SK
+405002278;Maelys-Zola;Veeth;F;07. 02. 1924;72511;DE;Nordrhein-Westfalen,Essen,DE
+405002235;Jasina;Boomers;F;05. 02. 1924;57636;SK;Baden-WĂĽrttemberg,Stuttgart Hoffeld,SK
+405002500;Kieu;Hesterman;F;04. 03. 1924;99087;SK;Bayern,Freystadt,SK
+405002199;RosĂ©;Ryback;F;04. 02. 1924;99988;AT;Nordrhein-Westfalen,Bochum,AT
+405002424;Le;Sikora;F;02. 03. 1924;26736;DE;Bayern,WeiĂźensberg,DE
+405002390;Majvi;Kalvelage;F;01. 03. 1924;55758;AT;Baden-WĂĽrttemberg,Schwetzingen,AT
+405002343;Akira;MĂ¤usel;F;09. 02. 1923;96484;DE;Niedersachsen,Waddeweitz Klein Gaddau,DE
+405002285;Joleena;Linsemeier;F;07. 02. 1923;98634;AT;Bayern,Markt Einersheim,AT
+405002219;Triumf;StĂ¶cklin;M;05. 02. 1923;31191;SK;Baden-WĂĽrttemberg,Albstadt,SK
+405002468;Leoni;Gelzleichter;F;04. 03. 1923;69502;SK;Brandenburg,MĂ¤rkische HĂ¶he Reichenberg,SK
+405002491;Mailen;Rempold;F;04. 03. 1923;67368;DE;Bayern,GlashĂĽtten,DE
+405002155;Aurelia;Hieronimus;F;02. 02. 1923;89347;AT;Hessen,Lampertheim,AT
+405002402;Nafiye;Paulzen;F;12. 03. 1922;25436;AT;Rheinland-Pfalz,Laubenheim,AT
+405002223;Ji-Min;GrĂĽnbauer;M;05. 02. 1922;75447;AT;Brandenburg,Glienicke/Nordbahn,AT
+405002227;Vita;Kortmeier;F;05. 02. 1922;87672;AT;Hamburg,Hamburg Schnelsen,AT
+405002490;Darko;Altundas;M;04. 03. 1922;13059;DE;Rheinland-Pfalz,Allendorf,DE
+405002342;Loja;MĂĽllerke;F;09. 02. 1921;72160;AT;Rheinland-Pfalz,Kircheib,AT
+405002576;Shota;van den Bergh;M;07. 03. 1921;28755;AT;Niedersachsen,Uetze,AT
+405002478;Chihiro;Connrad;M;04. 03. 1921;76891;AT;Bremen,Bremen,AT
+405002176;Gene;Zakrewsky;M;03. 02. 1921;2799;SK;Rheinland-Pfalz,Weinsheim,SK
+405002186;LenuroviÄŤ;Tielsen;M;03. 02. 1921;35586;DE;ThĂĽringen,Wolkramshausen,DE
+405002187;Diyanov;Barfues;M;03. 02. 1921;27419;SK;Rheinland-Pfalz,Hergenroth,SK
+405002341;Latif;Littwin;M;09. 02. 1920;87743;DE;Bayern,Obing,DE
+405002298;Canela;Adamczik;F;08. 02. 1920;17099;DE;Sachsen,Borsdorf,DE
+405002291;Arsan;Gevatter;M;07. 02. 1920;97786;AT;Schleswig-Holstein,Grinau,AT
+405002477;Kewser;Bektas;F;04. 03. 1920;97262;DE;Bremen,Bremen,DE
+405002207;Noa;Severin;F;04. 02. 1920;39649;AT;Niedersachsen,Hameln,AT
+405002410;Juditha;FrĂ¤nz;F;02. 03. 1920;7549;AT;Niedersachsen,Varrel,AT
+405002121;Yasir;Stellmach;M;01. 02. 1920;38533;SK;Bayern,Weilheim in Oberbayern,SK

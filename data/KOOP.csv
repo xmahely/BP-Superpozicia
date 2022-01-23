@@ -1,0 +1,1761 @@
+CID;Meno/Priezvisko;Priezvisko;Tituly pred;Pohlavie;Datum narodenia;PSČ;Mesto;Kraj;Danovy domicil2
+25847596;Róbert;Tester;JUDr.;muž;19.4.1963;84103;Bratislava;Bratislava;SR
+20005743;Kazimierz;Seiffer;;muž;10.39.1923;16866;DĂ¶llen;Brandenburg;DE
+20004823;Ahlas;SchĂ¶ttel;;muž;10.39.1931;17213;Kogel;Mecklenburg-Vorpommern;DE
+20006981;Amewuga;GrĂ¶n;;muž;10.39.1945;38667;Bad Harzburg Harlingerode;Niedersachsen;DE
+20000019;Lailah;Beeth;;žena;10.39.1986;99510;NiederreiĂźen;ThĂĽringen;DE
+20004562;Constantin;Penzel;;muž;10.39.1991;74629;Pfedelbach;Baden-WĂĽrttemberg;DE
+20003336;Muhammet;Klugmann;;muž;10.39.1999;39615;Neukirchen (Altmark);Sachsen-Anhalt;DE
+20005333;Elmar;Frauenschuh;;muž;10.40.1920;39397;Nienhagen;Sachsen-Anhalt;DE
+20001492;Roswitha;Behrs;;žena;10.40.1954;74374;Zaberfeld;Baden-WĂĽrttemberg;DE
+20006174;Urumana-Amrei;Springe;;žena;10.40.1961;25560;Hadenfeld;Schleswig-Holstein;DE
+20000946;Nicklas;Waischnor;;muž;10.40.1970;99735;Hohenstein;ThĂĽringen;DE
+20008974;Lukia;Bardelmann;;žena;10.40.1985;6780;Schrenz;Sachsen-Anhalt;DE
+20009261;Nias;GriĂźhaber;;muž;10.40.1993;17440;GroĂź Ernsthof;Mecklenburg-Vorpommern;DE
+20005840;Milka;Degenhart;;žena;10.41.1956;54523;Dierscheid;Rheinland-Pfalz;DE
+20006897;Nadisa;SĂĽtterle;;žena;10.41.1967;17217;Lapitz;Mecklenburg-Vorpommern;DE
+20001115;Lozan;Enderleit;;muž;10.41.1984;82544;Egling;Bayern;DE
+20008424;Meghan-Hope;Giesewetter;;žena;10.41.1985;18276;GroĂź Schwiesow;Mecklenburg-Vorpommern;DE
+20007726;Mohanna;Rebenstock;;žena;10.41.1989;40595;DĂĽsseldorf;Nordrhein-Westfalen;DE
+20000977;Alia-Nur;Schraeder;;žena;10.41.1994;17389;Anklam;Mecklenburg-Vorpommern;DE
+20004018;Maliya;Buszat;;žena;10.42.1934;6313;Wimmelburg;Sachsen-Anhalt;DE
+20003427;NoĂ©lie;FrĂĽhauff;;žena;10.42.1934;54636;Rittersdorf;Rheinland-Pfalz;DE
+20008772;Ninon;Penning;;žena;10.42.1939;63538;GroĂźkrotzenburg;Hessen;DE
+20008457;Ariyaz;JĂ¶rgen;;muž;10.42.1944;56357;Berg;Rheinland-Pfalz;DE
+20002656;Grundtvorm;Cihangir;;muž;10.42.1957;24241;Blumenthal;Schleswig-Holstein;DE
+20004776;Molli;Merkardt;;žena;10.42.1972;15910;DĂĽrrenhofe;Brandenburg;DE
+20003790;Maximowna;Zikorsky;;žena;10.42.1977;18299;PĂ¶litz;Mecklenburg-Vorpommern;DE
+20002113;Tiit;Hackenberger;;muž;10.43.1952;94143;Grainet;Bayern;DE
+20002845;Bethsaleela;Haucke;;žena;10.43.1969;24793;OldenhĂĽtten;Schleswig-Holstein;DE
+20006785;Rojat;Groenevelt;;muž;10.43.1978;25776;Sankt Annen;Schleswig-Holstein;DE
+20008831;Finia;Schoenberger;;žena;10.43.1993;6408;PreuĂźlitz;Sachsen-Anhalt;DE
+20005199;Masud;Wolfs;;muž;10.44.1924;25860;Horstedt;Schleswig-Holstein;DE
+20009196;Asja;Einbrod;;žena;10.44.1936;70567;Stuttgart MĂ¶hringen;Baden-WĂĽrttemberg;DE
+20003006;Carmilla;Pelzmann;;žena;10.44.1948;4880;Trossin;Sachsen;DE
+20007912;Vahe;Sauerland;;muž;10.44.1974;38268;Lengede;Niedersachsen;DE
+20003719;Mayea;Weittekemper;;žena;10.44.1982;30966;Hemmingen;Niedersachsen;DE
+20007061;Yagiz;Kristoffersen;;muž;10.44.1999;98660;Grimmelshausen;ThĂĽringen;DE
+20003620;Rahma;Zischg;;žena;10.45.1920;29378;Wittingen;Niedersachsen;DE
+20001771;Adon;Fraemcke;;muž;10.45.1966;40545;DĂĽsseldorf;Nordrhein-Westfalen;DE
+20009915;Kalman;GrĂ¶n;;muž;10.45.1974;15838;Kummersdorf-Gut;Brandenburg;DE
+20007847;Mattias;Downarowicz;;muž;10.45.1994;99438;Oettern;ThĂĽringen;DE
+20009691;Rozamin;Sonnberg;;žena;10.46.1952;56337;Simmern;Rheinland-Pfalz;DE
+20004255;Ravza;Gorall;;žena;10.46.1961;50737;KĂ¶ln;Nordrhein-Westfalen;DE
+20003678;LĂła;Meyercord;;žena;10.46.1988;99707;Hachelbich;ThĂĽringen;DE
+20004405;Alois;Raymer;;muž;10.46.1996;56729;Monreal;Rheinland-Pfalz;DE
+20002441;Finja-Claudia;Rudloffs;;žena;10.46.2004;86987;Schwabsoien;Bayern;DE
+20001443;Tao;Stoltzmann;;muž;10.46.2009;54492;LĂ¶snich;Rheinland-Pfalz;DE
+20006556;SayfulloeviÄŤ;Winterberg;;muž;10.47.1922;24340;Gammelby;Schleswig-Holstein;DE
+20005103;Maiju;Wewerinck;;žena;10.47.1954;70188;Stuttgart;Baden-WĂĽrttemberg;DE
+20002159;Lysander;Disbudak;;muž;10.47.1962;7570;Harth-PĂ¶llnitz Grochwitz;ThĂĽringen;DE
+20001176;Nioh;von Winterfeld;;muž;10.47.1971;55296;Gau-Bischofsheim;Rheinland-Pfalz;DE
+20009765;Efe;Konratt;;žena;10.47.1975;99100;Dachwig;ThĂĽringen;DE
+20000431;Cosimo;Unterhuber;;muž;10.47.1978;16767;Leegebruch;Brandenburg;DE
+20001953;Sophian-Noah;Grosscurth;;muž;10.47.1979;96145;SeĂźlach;Bayern;DE
+20009783;Tabius;Segmihler;;muž;10.47.1986;55596;WaldbĂ¶ckelheim;Rheinland-Pfalz;DE
+20005832;Fankova;Langmeier;;žena;10.48.1930;22049;Hamburg Dulsberg;Hamburg;DE
+20008714;MĂ rk;Eckerts;;muž;10.48.1935;15345;Lichtenow;Brandenburg;DE
+20007515;Pippilotta;Durmus;;žena;10.48.1946;97288;Theilheim;Bayern;DE
+20006717;Juna-Antonia;TheeĂź;;žena;10.48.1973;4880;Elsnig;Sachsen;DE
+20005579;Shereen;Oberbillig;;žena;10.49.1929;18528;Zirkow;Mecklenburg-Vorpommern;DE
+20002902;Elisee;JĂ¤gerbauer;;žena;10.49.1933;55291;Saulheim;Rheinland-Pfalz;DE
+20004512;Kirian;Oettgen;;muž;10.49.1977;33330;GĂĽtersloh;Nordrhein-Westfalen;DE
+20002296;Yitian;Erlein;;muž;10.49.1987;18184;Poppendorf;Mecklenburg-Vorpommern;DE
+20000269;Lilly-Maria;Bergte;;žena;10.50.1923;92542;Dieterskirchen;Bayern;DE
+20006165;Laure;Surbek;;žena;10.50.1941;95706;Schirnding;Bayern;DE
+20009732;Yoshio;Kalweytys;;muž;10.50.1952;18107;Elmenhorst-Lichtenhagen;Mecklenburg-Vorpommern;DE
+20002276;Hui-Hsin;Roperz;;žena;10.50.1990;6184;Schkopau Ermlitz;Sachsen-Anhalt;DE
+20008415;Tihomirov;Mathaei;;muž;10.51.1925;6528;Riethnordhausen;Sachsen-Anhalt;DE
+20009429;Evelia;BĂ¶ddeker;;žena;10.51.1938;15344;Strausberg;Brandenburg;DE
+20003706;Nojud;Giermanns;;žena;10.51.1969;83355;GrabenstĂ¤tt;Bayern;DE
+20005755;TráşĄn;Klingner;;muž;10.51.1973;4916;Werchau;Brandenburg;DE
+20007567;Pacal;Froembgen;;muž;10.51.1974;14715;Kriele;Brandenburg;DE
+20007637;Mariusova;Krohmer;;žena;10.51.1978;91722;Arberg;Bayern;DE
+20005437;Aissatou;Karczmarzyk;;žena;10.51.1980;29585;Jelmstorf;Niedersachsen;DE
+20000721;Linabella;Demircioglu;;žena;10.51.1999;76709;Kronau;Baden-WĂĽrttemberg;DE
+20004900;Ngobo;HĂ¶ffert;;žena;10.52.1947;55568;Abtweiler;Rheinland-Pfalz;DE
+20005467;Frieda-Loba;Nicolaes;;žena;10.52.1963;87545;Burgberg im AllgĂ¤u;Bayern;DE
+20001535;Aron;Carsten;;muž;10.52.1988;54689;Preischeid;Rheinland-Pfalz;DE
+20005817;Tony;Weverink;;žena;10.52.1992;65520;Bad Camberg;Hessen;DE
+20002549;Saskia;SchĂ¶tteldreyer;;žena;10.53.1927;67737;Frankelbach;Rheinland-Pfalz;DE
+20005137;Danna;Gruenthaler;;žena;10.53.1952;86866;Mickhausen;Bayern;DE
+20004408;Alek;Kurtsiefen;;muž;10.53.1954;4509;SchĂ¶nwĂ¶lkau;Sachsen;DE
+20008686;Dalila;Ăśberfeld;;žena;10.53.1981;8239;Bergen;Sachsen;DE
+20007363;Kazumi;Alwart;;žena;10.53.1985;25581;Poyenberg;Schleswig-Holstein;DE
+20005604;Ryszard;HĂ¶pfner;;muž;10.53.1987;4808;Hohburg;Sachsen;DE
+20000929;Julie;Wujczyk;;žena;10.54.1942;85254;Sulzemoos;Bayern;DE
+20002777;Hildegarde;MĂĽlner;;žena;10.54.2003;63811;Stockstadt am Main;Bayern;DE
+20001213;Nefeli;Bloebaum;;žena;10.54.2003;18551;Glowe;Mecklenburg-Vorpommern;DE
+20004044;Daniella;Ratzlaw;;žena;10.55.1924;38489;Nettgau;Sachsen-Anhalt;DE
+20002563;Kirabo;Leineweber;;žena;10.55.1928;92445;Neukirchen-Balbini;Bayern;DE
+20002133;Adnan;Zwanzig;;žena;10.55.1967;70199;Stuttgart;Baden-WĂĽrttemberg;DE
+20000574;Aliah;Lavorenz;;žena;10.55.1994;31867;Lauenau Feggendorf;Niedersachsen;DE
+20000116;ÄĂ´ng;Minohr;;muž;10.55.2000;95126;Schwarzenbach an der Saale;Bayern;DE
+20001761;Riaz;Schiktanz;;žena;10.55.2001;24582;SchĂ¶nbek;Schleswig-Holstein;DE
+20009022;Novignon;Raab;;muž;10.55.2004;16945;Halenbeck-Rohlsdorf;Brandenburg;DE
+20008977;Jorune;Kohlhus;;žena;10.55.2005;16303;Schwedt/Oder;Brandenburg;DE
+20000246;Niklas-Jonah;Stockhorst;;muž;10.56.1922;88524;Uttenweiler;Baden-WĂĽrttemberg;DE
+20001092;Saathana;Krahl;;žena;10.56.1941;22087;Hamburg Hamm-Nord;Hamburg;DE
+20005809;Faissal;Wasserstradt;;muž;10.56.1954;57520;Dickendorf;Rheinland-Pfalz;DE
+20002013;Yngvi;Erlenmayer;;žena;10.56.1954;1465;Dresden LangebrĂĽck;Sachsen;DE
+20008444;Denni;GĂĽltekin;;muž;10.56.1964;94559;Niederwinkling;Bayern;DE
+20007738;Tinko;Wingerter;;muž;10.57.1951;54597;Balesfeld;Rheinland-Pfalz;DE
+20005993;Monic;Altbauer;;žena;10.57.1954;87549;Rettenberg;Bayern;DE
+20009458;StĂ©phanie;SchwĂ¤bel;;žena;10.57.1995;78359;Orsingen-Nenzingen;Baden-WĂĽrttemberg;DE
+20006013;Janey;Dornblut;;žena;10.58.1932;57319;Bad Berleburg Wunderthausen;Nordrhein-Westfalen;DE
+20004481;Anastazija;Bondarchuk;;žena;10.58.1942;91589;Aurach;Bayern;DE
+20008670;Tamim;Ditzner;;muž;10.58.1961;55288;Udenheim;Rheinland-Pfalz;DE
+20003384;Elias-Fernando;Stahleisen;;muž;10.58.1968;68305;Mannheim;Baden-WĂĽrttemberg;DE
+20002169;Ryszard;UnverdroĂź;;muž;10.58.1971;6502;Neinstedt;Sachsen-Anhalt;DE
+20002117;MariandrĂ©e;Heinzl;;žena;10.59.1920;22529;Hamburg;Hamburg;DE
+20001828;Taisya;Wisocki;;žena;10.59.1921;6686;GroĂźgĂ¶rschen;Sachsen-Anhalt;DE
+20001984;Liea;Perlt;;žena;10.59.1930;54538;Bausendorf;Rheinland-Pfalz;DE
+20002082;Zinar;DĂĽrrschmidt;;muž;10.59.1940;7646;Stadtroda;ThĂĽringen;DE
+20007254;Darija;Steven;;žena;10.59.1969;56357;Niederbachheim;Rheinland-Pfalz;DE
+20006290;Juny;GĂĽnder;;žena;10.59.1981;57319;Bad Berleburg Bad Berleburg;Nordrhein-Westfalen;DE
+20008353;Nectarie;Mauser;;muž;10.59.2006;58762;Altena;Nordrhein-Westfalen;DE
+20002053;Asenov;Beerenbrock;;muž;11.00.1923;6543;Hermerode;Sachsen-Anhalt;DE
+20006484;Marieela;Freybott;;žena;11.00.1953;49356;Diepholz;Niedersachsen;DE
+20005021;Hanneli;Arentz;;žena;11.00.1964;88422;Moosburg;Baden-WĂĽrttemberg;DE
+20008543;Adnan;Lukaszczyk;;muž;11.13.1931;55469;Pleizenhausen;Rheinland-Pfalz;DE
+20009687;Schana;Rieseweber;;žena;11.13.1934;67806;DĂ¶rnbach;Rheinland-Pfalz;DE
+20006466;Ehi;Krautschun;;muž;11.13.1934;7356;Lobenstein;ThĂĽringen;DE
+20001334;Joleen;Pillipp;;žena;11.13.1968;14641;GroĂź Behnitz;Brandenburg;DE
+20001689;Kardo;Nemcek;;muž;11.13.1969;32289;RĂ¶dinghausen;Nordrhein-Westfalen;DE
+20001084;Harman;Hummelbeck;;žena;11.13.2000;23919;Rondeshagen;Schleswig-Holstein;DE
+20006408;Inho;Siebensohn;;muž;11.14.1938;22393;Hamburg Sasel;Hamburg;DE
+20004374;Peetu;Urbaneck;;muž;11.14.1958;31636;Linsburg;Niedersachsen;DE
+20004062;Fance;PfĂ¤fflin;;žena;11.14.1978;28879;Grasberg;Niedersachsen;DE
+20001149;Christophorus;KlĂ¤schen;;muž;11.15.1938;56294;Kalt;Rheinland-Pfalz;DE
+20003354;Augustine;Hanson;;žena;11.15.1961;45289;Essen;Nordrhein-Westfalen;DE
+20009850;Hediye;Maijer;;žena;11.16.1923;6449;Giersleben;Sachsen-Anhalt;DE
+20007281;Anjuli;WĂ¶lfli;;žena;11.16.1940;17213;Malchow;Mecklenburg-Vorpommern;DE
+20008281;Granit;Helwig;;muž;11.16.1946;48143;MĂĽnster;Nordrhein-Westfalen;DE
+20002165;Wajdi;Coster;;žena;11.16.1952;41836;HĂĽckelhoven;Nordrhein-Westfalen;DE
+20005275;SĂ®on;SchnidertĂĽns;;muž;11.16.1963;16845;Zernitz-Lohm;Brandenburg;DE
+20005954;Davie;Schwarzing;;muž;11.16.1985;91605;Gallmersgarten;Bayern;DE
+20002773;Anir;Warning;;žena;11.16.1998;4651;Eulatal;Sachsen;DE
+20000312;Sertach;Hancke;;žena;11.17.1924;1809;MĂĽglitztal;Sachsen;DE
+20004636;Tineke;Kunen;;žena;11.17.1953;56357;Hainau;Rheinland-Pfalz;DE
+20005711;Egor;Musilova;;muž;11.17.1980;67759;Reichsthal;Rheinland-Pfalz;DE
+20003653;Maheen;Guntert;;žena;11.17.1983;16247;Joachimsthal;Brandenburg;DE
+20001180;Lisa;Arenth;;žena;11.17.1996;59929;Brilon;Nordrhein-Westfalen;DE
+20004060;Natalija;Brunnenmaier;;žena;11.17.2005;49504;Lotte;Nordrhein-Westfalen;DE
+20001406;Joel-Fabrice;Thiele;;muž;11.18.1947;38489;Hanum;Sachsen-Anhalt;DE
+20001043;Oceane;Wawschinak;;žena;11.18.1963;96169;Lauter;Bayern;DE
+20003968;Arne;Appenheimer;;muž;11.18.1969;24811;Owschlag;Schleswig-Holstein;DE
+20002728;Jermar;Morath;;muž;11.18.2007;29465;Schnega Schnega;Niedersachsen;DE
+20009528;AiĂ©n;Stratemann;;muž;11.19.1924;84326;Rimbach;Bayern;DE
+20002663;Stanislavova;GlaĂźmacher;;žena;11.19.1940;67378;Zeiskam;Rheinland-Pfalz;DE
+20000030;Khoji-Boyevna;Lindenmayer;;žena;11.19.1945;17309;Rollwitz;Mecklenburg-Vorpommern;DE
+20007429;Milijana;Burkart;;žena;11.19.1956;56220;Kettig;Rheinland-Pfalz;DE
+20007444;KĂ¶kalp;Wiesmair;;muž;11.19.1989;56753;Trimbs;Rheinland-Pfalz;DE
+20001813;Ä°hsan;Knapek;;muž;11.20.1925;22119;Hamburg;Hamburg;DE
+20008339;Nisa-Ayla;Conradt;;žena;11.20.1933;80997;MĂĽnchen;Bayern;DE
+20001545;ZĂĽleyha;Schaffarz;;žena;11.20.1933;89297;Roggenburg;Bayern;DE
+20005267;Isadora;GĂ¶bell;;žena;11.20.1952;6536;Wickerode;Sachsen-Anhalt;DE
+20007821;Ishani;Wichterich;;žena;11.20.1986;37647;Vahlbruch;Niedersachsen;DE
+20005998;Anne-Marie;FrĂ¤ntz;;žena;11.20.1990;24247;Mielkendorf;Schleswig-Holstein;DE
+20008515;Karine;SchĂ¶nekĂ¤se;;žena;11.21.1931;59609;AnrĂ¶chte;Nordrhein-Westfalen;DE
+20009750;Lujain;KlĂ¶ssner;;žena;11.21.1935;23714;mužnte;Schleswig-Holstein;DE
+20005470;Arsenije;Freymuth;;muž;11.21.1959;23795;MĂ¶zen;Schleswig-Holstein;DE
+20007024;NicolĂł;Struve;;muž;11.21.1976;29490;Neu Darchau;Niedersachsen;DE
+20007387;Yanko;Waeltermann;;muž;11.21.1990;3226;Raddusch;Brandenburg;DE
+20005922;Arseny;BĂ¶tefuer;;muž;11.21.1993;46539;Dinslaken;Nordrhein-Westfalen;DE
+20003240;Nicolaos;LandgrĂ¤fe;;muž;11.22.1923;27616;Bokel;Niedersachsen;DE
+20005862;Knut;Thielcke;;muž;11.22.1951;79348;Freiamt;Baden-WĂĽrttemberg;DE
+20006444;Ajman;KĂ¤telhut;;muž;11.22.1963;36266;Heringen (Werra);Hessen;DE
+20008948;Lien;MorgenfrĂĽh;;žena;11.22.2003;56850;Raversbeuren;Rheinland-Pfalz;DE
+20000033;Pepper;Hofacker;;žena;11.23.1922;6636;Laucha;Sachsen-Anhalt;DE
+20006604;Elissio;Halfmeier;;muž;11.23.1969;31785;Hameln;Niedersachsen;DE
+20001455;Anuk;Nitzke;;žena;11.23.1989;96257;Redwitz an der Rodach;Bayern;DE
+20008927;Riaz;Allwardt;;žena;11.24.1925;16818;Fehrbellin Wustrau-Altfriesack;Brandenburg;DE
+20008490;Siva;Reinholt;;muž;11.24.1929;41236;MĂ¶nchengladbach;Nordrhein-Westfalen;DE
+20005402;Inno;Eibach;;muž;11.24.1943;54655;Malbergweich;Rheinland-Pfalz;DE
+20006081;Ayoola;Willensen;;muž;11.24.1954;21395;Tespe;Niedersachsen;DE
+20002691;Amadeo;Ă–zyilmaz;;muž;11.24.1964;66919;Hermersberg;Rheinland-Pfalz;DE
+20005531;MaĂ«l;Ostrowskaja;;muž;11.24.1975;17440;Sauzin;Mecklenburg-Vorpommern;DE
+20006966;Nathaniele;Appelbaum;;žena;11.24.1980;23570;LĂĽbeck;Schleswig-Holstein;DE
+20005823;BurĂ§;Riger;;muž;11.24.1982;6308;Annarode;Sachsen-Anhalt;DE
+20006997;Anthea;Zellert;;žena;11.24.1989;41363;JĂĽchen;Nordrhein-Westfalen;DE
+20007333;Elyas;Leonardi;;muž;11.24.2005;39307;Brettin;Sachsen-Anhalt;DE
+20006671;Silvius;Siede;;muž;11.25.1982;15848;Tauche Giesensdorf;Brandenburg;DE
+20007907;Faysal;Rottenfusser;;muž;11.25.1987;37136;Seulingen;Niedersachsen;DE
+20009399;SorĂˇ;Dorffer;;žena;11.25.1989;76870;Kandel;Rheinland-Pfalz;DE
+20003387;Sultan;SchwĂ¤bl;;žena;11.25.1997;67729;Sippersfeld;Rheinland-Pfalz;DE
+20006697;Hyuseinov;Jungeblodt;;muž;11.25.2008;1983;Neu-Seeland;Brandenburg;DE
+20005794;Saadi;BahnmĂĽller;;muž;11.26.1926;39393;Barneberg;Sachsen-Anhalt;DE
+20006872;IonuČ›;Tyler;;muž;11.26.1931;6901;Wartenburg;Sachsen-Anhalt;DE
+20001163;Islem;Buerkle;;muž;11.26.1952;98669;Schlechtsart;ThĂĽringen;DE
+20002576;Darlyn-Shirin;JanĂźens;;žena;11.26.1960;55234;Dintesheim;Rheinland-Pfalz;DE
+20009366;MichaĹ‚;Xander;;muž;11.26.1964;24106;Kiel;Schleswig-Holstein;DE
+20007219;Otilie;Wehrlin;;žena;11.26.1971;73275;Ohmden;Baden-WĂĽrttemberg;DE
+20003155;Vanese;Baerwinkel;;žena;11.26.1980;88718;Daisendorf;Baden-WĂĽrttemberg;DE
+20009437;Yan-Georg;Bachhuber;;muž;11.26.1991;85402;Kranzberg;Bayern;DE
+20007822;Banen;Peterreit;;žena;11.26.2006;54340;ThĂ¶rnich;Rheinland-Pfalz;DE
+20005564;Valentinova;Koperschmidt;;žena;11.26.2008;49457;Drebber;Niedersachsen;DE
+20004580;Pepe;Tscheschlock;;muž;11.27.1933;25881;Tating;Schleswig-Holstein;DE
+20000542;Brenda;Krifft;;žena;11.27.1976;38239;Salzgitter Thiede;Niedersachsen;DE
+20002320;Ryszard;Kockhans;;muž;11.27.1988;40217;DĂĽsseldorf;Nordrhein-Westfalen;DE
+20005980;Cyline;Seltenreich;;žena;11.28.1929;72124;Pliezhausen;Baden-WĂĽrttemberg;DE
+20007920;Golo;Engelbertz;;muž;11.28.1934;18299;Liessow;Mecklenburg-Vorpommern;DE
+20008041;Sokratis;von Keller;;muž;11.28.1959;75056;Sulzfeld;Baden-WĂĽrttemberg;DE
+20000336;Farzad;Bergermann;;muž;11.28.1986;94265;Patersdorf;Bayern;DE
+20005459;Mas'ouda;Michely;;žena;11.28.1994;64385;Reichelsheim;Hessen;DE
+20001428;Eberhardt;Schaffarzick;;muž;11.28.2003;54595;Orlenbach;Rheinland-Pfalz;DE
+20005941;Victor;Szymczyk;;muž;11.29.1934;51105;KĂ¶ln;Nordrhein-Westfalen;DE
+20009116;Ameli;Folken;;žena;11.29.1939;89188;Merklingen;Baden-WĂĽrttemberg;DE
+20002097;Jeremias;Philipsen;;muž;11.29.1953;24644;Krogaspe;Schleswig-Holstein;DE
+20002981;Elisa-Marleen;Kasparaitis;;žena;11.29.1996;38274;Elbe;Niedersachsen;DE
+20006038;Leonie-Marie;MĂĽnstermann;;žena;11.29.1998;17498;Levenhagen;Mecklenburg-Vorpommern;DE
+20005991;Savinova;von Lemmermann;;žena;11.30.1982;56412;Stahlhofen;Rheinland-Pfalz;DE
+20004360;Atma;Best;;muž;11.30.1988;31542;Bad Nenndorf;Niedersachsen;DE
+20004483;Cosmina;Kote;;žena;11.30.1992;16775;Tornow;Brandenburg;DE
+20007538;Melena;Hertlin;;žena;11.31.1948;6895;BoĂźdorf;Sachsen-Anhalt;DE
+20002016;Eleanor;Mesterknecht;;žena;11.31.1948;15913;GroĂź Leine;Brandenburg;DE
+20008666;Amaro;Olschofski;;muž;11.31.1951;18445;Prohn;Mecklenburg-Vorpommern;DE
+20003193;Kazimir;Faist;;muž;11.31.1967;22085;Hamburg Uhlenhorst;Hamburg;DE
+20008632;Filia;Hoevelberndt;;žena;11.31.1988;30900;Wedemark;Niedersachsen;DE
+20004511;Eldan;MeyerjĂĽrgens;;muž;11.32.1920;94527;Aholming;Bayern;DE
+20006241;Ibrahim;Stoecklin;;muž;11.32.1922;66901;SchĂ¶nenberg-KĂĽbelberg;Rheinland-Pfalz;DE
+20001660;Majken;Beerenwinkel;;žena;11.32.1923;44141;Dortmund;Nordrhein-Westfalen;DE
+20003188;Loureiro;Stolz;;muž;11.32.1955;25554;Nortorf;Schleswig-Holstein;DE
+20008106;Saidolimkhon'ovna;Wozniak;;žena;11.32.2004;15848;Friedland Lindow;Brandenburg;DE
+20003880;Donovan;TemizyĂĽrek;;muž;11.32.2004;99634;Schwerstedt;ThĂĽringen;DE
+20006003;Alain;Klausner;;muž;11.32.2005;67823;Sitters;Rheinland-Pfalz;DE
+20004390;Hjort;Dornstauder;;muž;11.33.1920;18356;Pruchten;Mecklenburg-Vorpommern;DE
+20005033;Poupette;Burkhardt;;žena;11.33.1935;48356;Nordwalde;Nordrhein-Westfalen;DE
+20004421;Jan-Georg;Nieschmidt;;muž;11.33.1950;54675;Utscheid;Rheinland-Pfalz;DE
+20006263;Mar;Sewzik;;žena;11.33.1954;25554;Kleve;Schleswig-Holstein;DE
+20005440;Herbart;Linnekogel;;muž;11.33.1998;17217;Puchow;Mecklenburg-Vorpommern;DE
+20005963;Angeljano;Klessinger;;muž;11.34.1928;45289;Essen;Nordrhein-Westfalen;DE
+20003930;Este;Balthes;;muž;11.34.1946;90419;NĂĽrnberg;Bayern;DE
+20004083;Zeynepnaz;Justi;;žena;11.34.1950;1816;Bad Gottleuba-BerggieĂźhĂĽbel;Sachsen;DE
+20005760;Alifa;FrĂ¤rks;;žena;11.34.1968;21357;Wittorf;Niedersachsen;DE
+20003554;Karl-Heinz;Hemmerle;;muž;11.34.2009;19217;Dechow;Mecklenburg-Vorpommern;DE
+20004748;Johnas;Gerstemeyer;;muž;11.35.1929;31542;Bad Nenndorf Waltringhausen;Niedersachsen;DE
+20001525;Egzon;GĂ¶nnawein;;muž;11.35.1970;15848;Friedland Pieskow;Brandenburg;DE
+20006139;Marie-Sophie;Suerbier;;žena;11.36.1931;47559;Kranenburg;Nordrhein-Westfalen;DE
+20006527;Onella;WĂ¶rndle;;žena;11.36.1957;72285;Pfalzgrafenweiler;Baden-WĂĽrttemberg;DE
+20001298;Matheus;Tessars;;muž;11.36.1964;99634;GangloffsĂ¶mmern;ThĂĽringen;DE
+20000272;Ingwa;PekgĂ¶z;;muž;11.36.1974;54518;Hupperath;Rheinland-Pfalz;DE
+20007498;Jolina;van Dyk;;žena;11.36.2001;30982;Pattensen;Niedersachsen;DE
+20006641;Blossom;VĂ¶gle;;žena;11.36.2005;26465;Langeoog;Niedersachsen;DE
+20003127;Alyson;Nimzik;;žena;11.37.1945;35390;GieĂźen;Hessen;DE
+20001716;Aicha;Hansjuergens;;muž;11.37.1979;20537;Hamburg Hamm-SĂĽd;Hamburg;DE
+20005384;Nicklas;Fietze;;muž;11.37.1993;6896;Straach;Sachsen-Anhalt;DE
+20004309;Kecy;Gysler;;žena;11.37.1995;91475;Lonnerstadt;Bayern;DE
+20002235;Kali;Szymanzig;;muž;11.37.2002;66851;Linden;Rheinland-Pfalz;DE
+20009816;Roxy-Leonie;Rosenfelder;;žena;11.38.1939;77652;Offenburg;Baden-WĂĽrttemberg;DE
+20007829;Kasia;FernkeĂź;;žena;11.38.1943;82293;Mittelstetten;Bayern;DE
+20000322;Patrick;Wisockyte;;muž;11.38.1962;35686;Dillenburg;Hessen;DE
+20008805;Shereen;Hofberger;;žena;11.38.1999;83224;Grassau;Bayern;DE
+20009506;Manina;Feidt;;žena;11.38.2005;95652;Waldsassen;Bayern;DE
+20007601;Philias;Stoehrer;;muž;11.39.1928;77704;Oberkirch;Baden-WĂĽrttemberg;DE
+20004089;Jalik;Diederichsen;;muž;11.39.1949;77654;Offenburg;Baden-WĂĽrttemberg;DE
+20003689;Muthoni;Rosenbruch;;žena;11.39.1950;9125;Chemnitz;Sachsen;DE
+20002400;AnaĂŻs;Wassilenko;;žena;11.39.1962;39365;Harbke;Sachsen-Anhalt;DE
+20004836;Afan;Schimanzik;;muž;11.39.1996;23845;Grabau;Schleswig-Holstein;DE
+20002513;Mietz;Henn;;žena;11.40.1929;91595;Burgoberbach;Bayern;DE
+20002305;Mary-Jane;Saeltzer;;žena;11.40.1933;39443;FĂ¶rderstedt;Sachsen-Anhalt;DE
+20007597;Stephie;Klausner;;žena;11.40.1957;19217;Utecht;Mecklenburg-Vorpommern;DE
+20002507;Sudarerdene;Kubatzsch;;muž;11.40.1959;6556;MĂ¶nchpfiffel-Nikolausrieth;ThĂĽringen;DE
+20009734;Wenas;Stanislao;;žena;11.40.1974;7570;HohenĂ¶lsen;ThĂĽringen;DE
+20004869;Fatimah;Haeger;;žena;11.40.2001;86845;GroĂźaitingen;Bayern;DE
+20005694;AbdullmĂĽ;Oestereich;;muž;11.41.1934;22527;Hamburg Stellingen;Hamburg;DE
+20004915;Alessia;Ruschitzka;;žena;11.41.1934;56379;Horhausen;Rheinland-Pfalz;DE
+20000854;Efua;Bersing;;žena;11.41.1951;19217;Carlow;Mecklenburg-Vorpommern;DE
+20000708;Nasir;Wedekink;;muž;11.41.1986;50670;KĂ¶ln;Nordrhein-Westfalen;DE
+20002894;Aliyana;Jakobek;;žena;11.42.1924;52372;Kreuzau;Nordrhein-Westfalen;DE
+20006191;Kamga;LĂ¶flath;;muž;11.42.1986;55130;Mainz;Rheinland-Pfalz;DE
+20007237;Leia;Weisleder;;žena;11.42.1987;54675;Kruchten;Rheinland-Pfalz;DE
+20001212;Dayra;Stenkamp;;žena;11.42.1997;15738;Zeuthen;Brandenburg;DE
+20005413;Abrar;Klauhs;;muž;11.43.1955;21765;Nordleda;Niedersachsen;DE
+20008983;EzzĂŞddin;Gasthuys;;muž;11.43.1978;19357;KarstĂ¤dt;Brandenburg;DE
+20006610;Angelova;Kraudzun;;žena;11.44.1925;55481;Kirchberg;Rheinland-Pfalz;DE
+20003436;Gideon;Noltus;;muž;11.44.1936;14656;Brieselang;Brandenburg;DE
+20008508;Femi;MeiĂźnest;;muž;11.44.1945;22587;Hamburg Rissen;Hamburg;DE
+20006904;Til;Steidele;;muž;11.44.1964;97688;Bad Kissingen;Bayern;DE
+20004577;Suse;Gajovski;;žena;11.44.1972;21357;Bardowick;Niedersachsen;DE
+20006277;Manuel;Dollischall;;muž;11.44.1976;20249;Hamburg Hoheluft-Ost;Hamburg;DE
+20003704;Gabriele;Avcilar;;muž;11.44.1999;14129;Berlin;Berlin;DE
+20003275;Amatul-Ali;Voigt;;žena;11.45.1925;18569;Neuenkirchen;Mecklenburg-Vorpommern;DE
+20001679;Sarantuya;HĂĽrst;;žena;11.45.1926;18569;Ummanz;Mecklenburg-Vorpommern;DE
+20007336;Aziza;Hayirli;;žena;11.45.1949;41460;Neuss;Nordrhein-Westfalen;DE
+20006463;GĂĽlĹźah;Alexeyenko;;žena;11.45.1960;29367;Steinhorst;Niedersachsen;DE
+20006902;Fallon;Mickeley;;muž;11.45.1975;72144;DuĂźlingen;Baden-WĂĽrttemberg;DE
+20008870;Lior;Frischmeier;;muž;11.45.1984;56766;Filz;Rheinland-Pfalz;DE
+20003869;Jin-Uh;FrĂ¶mmgen;;muž;11.45.1985;31556;WĂ¶lpinghausen Bergkirchen;Niedersachsen;DE
+20005591;Ann-Lyane;Gruenen;;žena;11.45.1997;3205;Ogrosen;Brandenburg;DE
+20005480;Dung;Genswein;;žena;11.46.1927;26452;Sande Mariensiel;Niedersachsen;DE
+20001514;Efrosini;Schneidereidt;;žena;11.46.1935;56112;Lahnstein;Rheinland-Pfalz;DE
+20003363;Irebowale;Koslowsky;;muž;11.46.1942;25348;GlĂĽckstadt;Schleswig-Holstein;DE
+20000679;Odysseas;Yalcindag;;muž;11.46.1942;1796;Struppen;Sachsen;DE
+20004857;Yasma;Hagenbucher;;žena;11.46.1944;55288;Schornsheim;Rheinland-Pfalz;DE
+20006721;Nanouk;HĂ¤mmerl;;muž;11.46.1954;2681;Schirgiswalde;Sachsen;DE
+20004467;Julienne;Kammers;;žena;11.46.1968;99439;Hottelstedt;ThĂĽringen;DE
+20008843;Eelis;Rothaug;;muž;11.46.1995;22765;Hamburg;Hamburg;DE
+20005566;Devis;Schmiedicke;;muž;11.47.1940;54611;Hallschlag;Rheinland-Pfalz;DE
+20007228;Angelito;Holzapfl;;muž;11.47.1972;38228;Salzgitter Reppner;Niedersachsen;DE
+20005544;Uku-Abasi;Kleinklaus;;žena;11.47.1984;33184;Altenbeken;Nordrhein-Westfalen;DE
+20004538;Zijad;Kolen;;muž;11.47.1994;98634;Mehmels;ThĂĽringen;DE
+20003634;Adhira;Willin;;žena;11.48.1943;6420;Lebendorf;Sachsen-Anhalt;DE
+20008542;Muxin;Sebastian;;žena;11.48.1965;15848;Friedland Lindow;Brandenburg;DE
+20000453;Marthe;Vichtl;;žena;11.48.1989;55469;Horn;Rheinland-Pfalz;DE
+20008466;IstvĂˇn;Wingartz;;muž;11.48.2001;57636;SĂ¶rth;Rheinland-Pfalz;DE
+20003809;Archie;Koepfer;;muž;11.49.1924;76831;Ilbesheim bei Landau in der Pfalz;Rheinland-Pfalz;DE
+20003441;DavidoviÄŤ;Springborn;;muž;11.49.1969;14641;Pausin;Brandenburg;DE
+20006950;Xiafei;Mertin;;muž;11.49.1973;26384;Wilhelmshaven;Niedersachsen;DE
+20004841;Luise-Katharina;Schwaerzel;;žena;11.49.2006;53426;Schalkenbach;Rheinland-Pfalz;DE
+20003426;Hanne;Sauerbrey;;žena;11.50.1925;48527;Nordhorn;Niedersachsen;DE
+20001571;Madline;Ă–lschlĂ¤ger;;žena;11.50.1928;72414;Rangendingen;Baden-WĂĽrttemberg;DE
+20003473;Sofica;Treugebrodt;;žena;11.50.1957;26629;GroĂźefehn Bagband;Niedersachsen;DE
+20008635;Hailay;Szyma;;žena;11.50.1960;22765;Hamburg Altona-Altstadt;Hamburg;DE
+20007519;Yorn;Schammetat;;muž;11.50.1962;4849;Bad DĂĽben;Sachsen;DE
+20003811;AimeĂ©;Charvat;;žena;11.50.1974;89365;RĂ¶fingen;Bayern;DE
+20008277;Umea;Snajdr;;žena;11.50.1994;24392;Nottfeld;Schleswig-Holstein;DE
+20004955;Turab;Weyhers;;muž;11.50.2004;4936;Schlieben;Brandenburg;DE
+20006665;Fenrir;Reiterer;;muž;11.51.1931;95179;GeroldsgrĂĽn;Bayern;DE
+20004855;Eska;GroĂźklas;;muž;11.51.1953;18574;Poseritz;Mecklenburg-Vorpommern;DE
+20008418;Nene;Witkopp;;žena;11.51.1961;7768;Lindig;ThĂĽringen;DE
+20009929;Tiit;Kottmayer;;muž;11.51.1982;56746;Hohenleimbach;Rheinland-Pfalz;DE
+20003285;Harro;SchĂĽr;;muž;11.52.1958;24217;HĂ¶hndorf;Schleswig-Holstein;DE
+20001521;Houssainatov;Haindle;;žena;11.52.1977;17498;Hinrichshagen;Mecklenburg-Vorpommern;DE
+20004384;Alys;GeisendĂ¶rfer;;žena;11.52.1980;84097;Herrngiersdorf;Bayern;DE
+20005594;Jaline;Bischhofs;;žena;11.53.1947;39387;Schermcke;Sachsen-Anhalt;DE
+20000032;Ilyes;Pypers;;muž;11.53.1965;91469;HagenbĂĽchach;Bayern;DE
+20001538;Alessandra;Claessen;;muž;11.53.1986;3238;Lindena;Brandenburg;DE
+20009561;Fromhold;Mattheisen;;muž;11.53.2006;17329;Krackow;Mecklenburg-Vorpommern;DE
+20004514;Ibragim;Steckemetz;;muž;11.53.2007;37339;Tastungen;ThĂĽringen;DE
+20008145;Kekan;Siebensohn;;muž;11.54.1941;6667;LeiĂźling;Sachsen-Anhalt;DE
+20001415;Oluwaferanmi;Tolkmidt;;muž;11.54.1948;56379;Geilnau;Rheinland-Pfalz;DE
+20001424;Orlinova;Hentzchen;;žena;11.54.1951;56283;Gondershausen;Rheinland-Pfalz;DE
+20004313;Dijle;Trolle;;žena;11.54.1963;80997;MĂĽnchen;Bayern;DE
+20003573;Katjuscha;Stenkat;;žena;11.54.1964;55627;Merxheim;Rheinland-Pfalz;DE
+20000524;Faiza;von Alberti;;žena;11.54.1966;39517;Sandbeiendorf;Sachsen-Anhalt;DE
+20002000;Lendi;Bethmann;;muž;11.54.1994;24644;Loop;Schleswig-Holstein;DE
+20006519;Eeli;Obernhuber;;muž;11.55.1928;63179;Obertshausen;Hessen;DE
+20008068;Lotta-Lilou;Maenz;;žena;11.55.1950;32756;Detmold;Nordrhein-Westfalen;DE
+20000565;Pacey;Schniederjahn;;muž;11.55.1988;73569;Eschach;Baden-WĂĽrttemberg;DE
+20009639;Isaac;Kosfeld;;muž;11.55.2000;7819;Miesitz;ThĂĽringen;DE
+20001747;Janne;Szwiec;;muž;11.56.1920;17391;Neuendorf B;Mecklenburg-Vorpommern;DE
+20001770;Zerrin;SteinstrĂ¤sser;;žena;11.56.1930;54636;Messerich;Rheinland-Pfalz;DE
+20001268;Codel;Baraniak;;muž;11.56.1974;37197;Hattorf am Harz;Niedersachsen;DE
+20006032;Arden;Feuchtmeyer;;muž;11.56.1975;25337;KĂ¶lln-Reisiek;Schleswig-Holstein;DE
+20001850;Annastassia;Kiphardt;;žena;11.56.1975;12489;Berlin;Berlin;DE
+20003545;Avrest;Paksoy;;žena;11.56.1978;20148;Hamburg Harvestehude;Hamburg;DE
+20003873;Can-Nebi;Springhorn;;muž;11.56.1982;23883;Hollenbek;Schleswig-Holstein;DE
+20008306;Vital'eviÄŤ;Rolwers;;muž;11.57.1925;39638;Letzlingen;Sachsen-Anhalt;DE
+20004982;Al-Amir;Kloweit;;muž;11.57.1939;84571;Reischach;Bayern;DE
+20007308;Gerhart;Seitl;;muž;11.57.1949;21256;Handeloh;Niedersachsen;DE
+20002640;Bolke;Meierjohann;;muž;11.57.1972;22087;Hamburg;Hamburg;DE
+20007605;Max-Leon;von MĂĽller;;muž;11.57.1973;14109;Berlin;Berlin;DE
+20009313;Lotta;Lytvynenko;;žena;11.57.1974;97280;Remlingen;Bayern;DE
+20003062;Taisija;Krauzick;;žena;11.57.1998;86473;Ziemetshausen;Bayern;DE
+20004573;Jill;Duvel;;žena;11.58.1923;95709;TrĂ¶stau;Bayern;DE
+20006658;Rubi;Schwallie;;žena;11.58.1959;99428;BechstedtstraĂź;ThĂĽringen;DE
+20002514;Eliya;Frischmeier;;žena;11.58.1963;16766;Kremmen;Brandenburg;DE
+20001803;Tushig;Klingel;;muž;11.58.1979;53518;Adenau;Rheinland-Pfalz;DE
+20008776;Kenvin;Clawes;;muž;11.58.2009;6258;Schkopau Korbetha;Sachsen-Anhalt;DE
+20001573;Afsane;Solovev;;žena;11.59.1922;68642;BĂĽrstadt;Hessen;DE
+20002717;Yumer;VĂ¶lz;;žena;11.59.1939;7955;Auma;ThĂĽringen;DE
+20009608;Eduard;Klingsohr;;žena;11.59.1967;70599;Stuttgart;Baden-WĂĽrttemberg;DE
+20004917;Caspar-Felix;Winkels;;muž;11.59.1974;24619;BornhĂ¶ved;Schleswig-Holstein;DE
+20009918;LinnĂ©us;Klusner;;muž;11.59.1990;2906;MĂĽcka;Sachsen;DE
+20001394;GĂĽlzehra;Nikerl;;žena;11.59.1996;56337;Arzbach;Rheinland-Pfalz;DE
+20001600;Lybomir;Jakub;;muž;12.00.1980;96489;NiederfĂĽllbach;Bayern;DE
+20000439;Osa;WĂĽlfrath;;žena;12.00.1996;99735;Wolkramshausen;ThĂĽringen;DE
+20007475;Nelson;Kaesermann;;muž;12.13.1939;54570;Oberstadtfeld;Rheinland-Pfalz;DE
+20005893;Ronin;Cananoglu;;muž;12.13.1978;23881;Alt MĂ¶lln;Schleswig-Holstein;DE
+20001104;Ajsa;Ayaz;;žena;12.13.1981;14728;Gollenberg;Brandenburg;DE
+20002083;Olsen;Jankovsky;;muž;12.13.2004;37308;Heilbad Heiligenstadt;ThĂĽringen;DE
+20000310;AĹ„uri;Reuver;;žena;12.14.2004;39517;WeiĂźewarte;Sachsen-Anhalt;DE
+20001173;Aybike;Eichler;;žena;12.15.1934;97080;WĂĽrzburg;Bayern;DE
+20000399;Doris;ThieĂźe;;žena;12.15.1964;17375;Vogelsang-Warsin;Mecklenburg-Vorpommern;DE
+20001229;Cass;Klimaitis;;muž;12.15.1966;25774;Hemme;Schleswig-Holstein;DE
+20001012;Murenzi;BuchwĂ¤lder;;muž;12.15.1980;57339;ErndtebrĂĽck;Nordrhein-Westfalen;DE
+20002070;Timm;Muhler;;muž;12.15.2003;70437;Stuttgart Zazenhausen;Baden-WĂĽrttemberg;DE
+20003370;Sahar;Dietinger;;žena;12.16.1951;90562;Kalchreuth;Bayern;DE
+20006270;Abdallah;Weitzenkorn;;muž;12.16.1961;29451;Dannenberg (Elbe) Neu Tramm;Niedersachsen;DE
+20008028;Thies;Atar;;muž;12.16.1985;15890;Schlaubetal Kieselwitz;Brandenburg;DE
+20009070;Per;Cromer;;muž;12.16.1986;35576;Wetzlar;Hessen;DE
+20008723;Rayan;Erthle;;muž;12.16.1988;57629;MĂĽschenbach;Rheinland-Pfalz;DE
+20000934;Wenyue;Koalick;;muž;12.17.1928;15848;Ragow-Merz Merz;Brandenburg;DE
+20005476;Soumas;Krachtus;;muž;12.17.1929;25368;Kiebitzreihe;Schleswig-Holstein;DE
+20006848;Christophine;Liess;;žena;12.17.1930;67459;BĂ¶hl-Iggelheim;Rheinland-Pfalz;DE
+20003379;LenĂĽ;Klewe;;žena;12.17.1934;74243;Langenbrettach;Baden-WĂĽrttemberg;DE
+20007536;Jurayis;Seithel;;muž;12.17.1942;21037;Hamburg Ochsenwerder;Hamburg;DE
+20006427;Natassa;Springefeld;;žena;12.17.1950;55481;Metzenhausen;Rheinland-Pfalz;DE
+20009700;Donik;Altindal;;muž;12.17.1951;55546;Volxheim;Rheinland-Pfalz;DE
+20000526;Tuulikki;Baldus;;žena;12.17.1951;15848;Rietz-Neuendorf Birkholz;Brandenburg;DE
+20005540;Rohi;Weyerhauser;;muž;12.17.1960;25364;Brande-HĂ¶rnerkirchen;Schleswig-Holstein;DE
+20005902;Caesar;Germerott;;muž;12.17.1970;15528;Spreenhagen Markgrafpieske;Brandenburg;DE
+20003429;Anatoliev;Heyter;;muž;12.17.1995;24358;HĂĽtten;Schleswig-Holstein;DE
+20000079;Elisabetha;BĂ¤uerlen;;žena;12.17.1999;16356;SchĂ¶nfeld;Brandenburg;DE
+20007598;Brida;Manglkrammer;;žena;12.18.1936;26629;GroĂźefehn MittegroĂźefehn;Niedersachsen;DE
+20001052;Shysell;Ondrus;;žena;12.18.1964;14772;Brandenburg an der Havel;Brandenburg;DE
+20002374;Maisovna;Gloggner;;žena;12.18.1965;44225;Dortmund;Nordrhein-Westfalen;DE
+20008238;Tecumseh;Errenst;;muž;12.18.1967;54597;Schwirzheim;Rheinland-Pfalz;DE
+20000748;Ivar;Heynes;;muž;12.18.1985;91361;Pinzberg;Bayern;DE
+20004737;Osazomwogie;John;;žena;12.18.2009;39638;Breitenfeld;Sachsen-Anhalt;DE
+20004238;Aspyn-Key;Carell;;muž;12.19.1967;92540;Altendorf;Bayern;DE
+20006456;Widad;Lammer;;žena;12.19.1971;44267;Dortmund;Nordrhein-Westfalen;DE
+20003073;Joure;MeierjĂĽrgen;;žena;12.19.1976;31638;StĂ¶ckse;Niedersachsen;DE
+20008214;Delroy;Schloenvoigt;;muž;12.19.1996;1108;Weixdorf;Sachsen;DE
+20000759;Safetova;Antwerpes;;žena;12.19.1996;74915;Waibstadt;Baden-WĂĽrttemberg;DE
+20001540;Sahanma;Hartjens;;žena;12.20.1932;45899;Gelsenkirchen;Nordrhein-Westfalen;DE
+20005216;Lluna;Hosaeus;;žena;12.20.1983;15752;Streganz;Brandenburg;DE
+20000220;Jolien-Marie;Pastor;;žena;12.20.1986;55481;Todenroth;Rheinland-Pfalz;DE
+20009418;Osa;Karzmarzik;;žena;12.20.1992;86866;Mickhausen;Bayern;DE
+20001337;UyĂŞn;Guillaume;;žena;12.20.1996;65203;Wiesbaden;Hessen;DE
+20001887;Zia;Griga;;žena;12.21.1929;14167;Berlin;Berlin;DE
+20004338;Merle;BiĂźwurm;;žena;12.21.1948;38550;IsenbĂĽttel;Niedersachsen;DE
+20004564;Tijda;GuddaĂź;;žena;12.21.1963;70376;Stuttgart Burgholzhof;Baden-WĂĽrttemberg;DE
+20001800;Juruul;GĂ¶tzler;;muž;12.21.1966;93477;GleiĂźenberg;Bayern;DE
+20008485;Jean-Paul;Schnemilich;;muž;12.21.1985;57610;Michelbach;Rheinland-Pfalz;DE
+20000182;Firdevs;Groth;;žena;12.22.1930;31592;Stolzenau;Niedersachsen;DE
+20004192;Emiljan;Saray;;muž;12.22.1932;70180;Stuttgart;Baden-WĂĽrttemberg;DE
+20005479;Nalisha;Trauthmann;;žena;12.22.1954;57319;Bad Berleburg Schwarzenau;Nordrhein-Westfalen;DE
+20001605;Hristov;Langmantl;;muž;12.22.1970;6926;MĂ¶nchenhĂ¶fe;Sachsen-Anhalt;DE
+20007718;Malak;Bonerz;;muž;12.22.1971;67297;Marnheim;Rheinland-Pfalz;DE
+20002198;Dania;Preiszig;;žena;12.22.1980;12057;Berlin;Berlin;DE
+20004734;Belle;Drewes;;žena;12.23.1986;38239;Salzgitter Bleckenstedt;Niedersachsen;DE
+20002241;Weiwei;Waagener;;žena;12.23.2002;6179;Schochwitz;Sachsen-Anhalt;DE
+20005443;Sylvi;Wekesser;;žena;12.24.1949;73463;Westhausen;Baden-WĂĽrttemberg;DE
+20000243;Valeria;Burgmaier;;žena;12.24.1973;8233;Treuen;Sachsen;DE
+20009980;Enrik;Rosenbach;;muž;12.24.1990;84092;Bayerbach;Bayern;DE
+20004593;Cebrail;Kurpius;;muž;12.24.2002;1998;Schipkau Klettwitz;Brandenburg;DE
+20005655;Aina;Moosmeyer;;žena;12.24.2009;98617;Stepfershausen;ThĂĽringen;DE
+20001586;Neylah;Freyboth;;žena;12.25.1968;26736;KrummhĂ¶rn Groothusen;Niedersachsen;DE
+20000962;Antoinette;Jakoubek;;žena;12.26.1921;54574;Birresborn;Rheinland-Pfalz;DE
+20005648;NisayaÄźmur;StĂ¶rchel;;žena;12.26.1969;86453;Dasing;Bayern;DE
+20000660;Loona;Kothmeier;;žena;12.26.1980;37355;Deuna;ThĂĽringen;DE
+20001230;Dilsa;von Janssen;;žena;12.26.1981;92536;Pfreimd Untersteinbach;Bayern;DE
+20006074;Filipa;Schaffarczyk;;žena;12.26.1984;56244;KrĂĽmmel;Rheinland-Pfalz;DE
+20007472;Orestes;Schollmayer;;muž;12.27.1927;54664;Auw an der Kyll;Rheinland-Pfalz;DE
+20005858;Wencke-Elina;Demircioglu;;žena;12.27.1933;6888;Abtsdorf;Sachsen-Anhalt;DE
+20005634;Farayola;Herigslack;;žena;12.27.1956;67294;Morschheim;Rheinland-Pfalz;DE
+20001973;Mendi;Casparius;;žena;12.27.2001;87671;Ronsberg;Bayern;DE
+20004215;Bryce;Paulmann;;muž;12.27.2008;66133;SaarbrĂĽcken;Saarland;DE
+20002887;Willis;Geil;;muž;12.28.1929;37359;KĂĽllstedt;ThĂĽringen;DE
+20005289;Soundi;Teisz;;muž;12.29.1930;24354;Rieseby;Schleswig-Holstein;DE
+20000780;Kwadwo;Waid;;muž;12.29.1950;39291;Friedensau;Sachsen-Anhalt;DE
+20006156;LĂązen;Engell;;muž;12.29.1959;7819;Triptis;ThĂĽringen;DE
+20002221;Hanoun;Hertgens;;muž;12.29.1963;93087;Alteglofsheim;Bayern;DE
+20009483;Santijana;Oggenfuss;;žena;12.29.1971;67271;Mertesheim;Rheinland-Pfalz;DE
+20004521;Loik;Wondrazek;;muž;12.29.1986;17506;Breechen;Mecklenburg-Vorpommern;DE
+20007819;Doanla;Stolt;;muž;12.29.1994;58553;Halver;Nordrhein-Westfalen;DE
+20005557;Tareq;Hosseus;;žena;12.29.2009;56729;Virneburg;Rheinland-Pfalz;DE
+20002130;Ody;Klinkebiel;;muž;12.30.1928;55624;Schwerbach;Rheinland-Pfalz;DE
+20000387;AbigĂ©l;JonĂźon;;žena;12.30.1936;8107;Hirschfeld;Sachsen;DE
+20007797;Roni;MalcomeĂź;;muž;12.30.1941;54647;Gondorf;Rheinland-Pfalz;DE
+20000932;Marieke;Urbscheid;;žena;12.30.1946;99638;Griefstedt;ThĂĽringen;DE
+20009536;Faye;Cornmesser;;žena;12.30.1958;82441;Ohlstadt;Bayern;DE
+20007263;Beatrix;Matschijewsky;;žena;12.30.1973;85467;Neuching;Bayern;DE
+20008032;Jean-Elias;Kuechler;;muž;12.30.2000;10585;Berlin;Berlin;DE
+20000511;Muadh;Clausing;;muž;12.31.1929;15377;Oberbarnim Grunow;Brandenburg;DE
+20001033;Mikel;WĂĽlfing;;muž;12.31.1935;88379;Guggenhausen;Baden-WĂĽrttemberg;DE
+20002460;SerhiioviÄ‡;Grigatis;;muž;12.31.1946;54526;Landscheid;Rheinland-Pfalz;DE
+20009042;Finn-Jonathan;Nicolayson;;muž;12.31.1968;71729;Erdmannhausen;Baden-WĂĽrttemberg;DE
+20005654;Saskia;Busatis;;žena;12.31.1976;20459;Hamburg Sankt Pauli;Hamburg;DE
+20003151;Adil-Ayaan;Deinhardt;;muž;12.31.2000;97277;Neubrunn;Bayern;DE
+20008280;Konstancja;Reinkensmeier;;žena;12.31.2002;24616;Sarlhusen;Schleswig-Holstein;DE
+20009487;Keiko;Sievert;;žena;12.31.2003;2979;Spreetal;Sachsen;DE
+20005625;MĂ©lodie;Fundheller;;žena;12.31.2006;88631;Beuron;Baden-WĂĽrttemberg;DE
+20004910;Azar;Durben;;muž;12.32.1923;49328;Melle;Niedersachsen;DE
+20006438;Imeni;Woltzel;;žena;12.32.1968;56564;Neuwied;Rheinland-Pfalz;DE
+20000191;Vadimovna;Willkens;;žena;12.33.1927;56244;Steinen;Rheinland-Pfalz;DE
+20000168;Saaliha;Kristensson;;žena;12.33.1942;19372;Ziegendorf;Mecklenburg-Vorpommern;DE
+20004144;Ericka;Pezoldt;;žena;12.33.1955;39175;Woltersdorf;Sachsen-Anhalt;DE
+20006893;Deniz;Lissi;;muž;12.33.1965;32584;LĂ¶hne;Nordrhein-Westfalen;DE
+20001765;Ă–mercan;Schmitt;;muž;12.33.1973;57539;FĂĽrthen;Rheinland-Pfalz;DE
+20001005;Dendera;Holzkamp;;žena;12.33.1975;17440;Hohendorf;Mecklenburg-Vorpommern;DE
+20001624;Emel;Hopfstock;;žena;12.34.1921;55481;Womrath;Rheinland-Pfalz;DE
+20008611;LomĂ©;Rosenthal;;muž;12.34.1946;23627;GroĂź GrĂ¶nau;Schleswig-Holstein;DE
+20002581;Awley;FĂĽchtener;;muž;12.35.1945;15370;Petershagen-Eggersdorf;Brandenburg;DE
+20008610;Ebrahima;Pollag;;muž;12.35.1974;94374;Schwarzach;Bayern;DE
+20002322;Evla;Eckardt;;žena;12.35.1974;73105;DĂĽrnau;Baden-WĂĽrttemberg;DE
+20003501;Christophine;Rober;;žena;12.35.2006;24848;Klein Rheide;Schleswig-Holstein;DE
+20001871;Aneliova;Mikoleiczyk;;žena;12.36.1946;14621;SchĂ¶nwalde;Brandenburg;DE
+20008563;Iain;Buchmeier;;muž;12.36.1970;17390;GroĂź Polzin;Mecklenburg-Vorpommern;DE
+20009870;Melik;Avcilar;;muž;12.36.1978;26446;Friedeburg Reepsholt;Niedersachsen;DE
+20008282;Fedor;LaukĂ¶tter;;muž;12.37.1922;76872;Erlenbach;Rheinland-Pfalz;DE
+20000016;Sada;Knauff;;žena;12.37.1935;84307;Eggenfelden;Bayern;DE
+20007278;Scarlett;Thielmeier;;žena;12.37.1975;30559;Hannover;Niedersachsen;DE
+20003305;Yitzchak;Schiesterl;;muž;12.37.1977;18258;Kassow;Mecklenburg-Vorpommern;DE
+20003396;Ä°zzet;von Jan;;muž;12.37.1993;39606;Dobberkau;Sachsen-Anhalt;DE
+20008616;Qusay;Scharnecki;;muž;12.37.2001;4741;RoĂźwein;Sachsen;DE
+20005581;Oluwadunmininu;Rotstock;;žena;12.38.1940;93099;MĂ¶tzing;Bayern;DE
+20008591;Ahmet;Voelkle;;muž;12.38.1956;8344;GrĂĽnhain;Sachsen;DE
+20007582;TomĂˇs;Wawrzenetz;;muž;12.38.1981;15306;Falkenhagen;Brandenburg;DE
+20009698;Lech;Raichle;;muž;12.38.1984;72479;StraĂźberg;Baden-WĂĽrttemberg;DE
+20003579;Laurel;Hanss;;muž;12.38.1995;97289;ThĂĽngen;Bayern;DE
+20001536;Priska;Cansiz;;žena;12.38.1997;24864;Goltoft;Schleswig-Holstein;DE
+20001801;Chidera;Josenhans;;žena;12.38.2000;95131;Schwarzenbach am Wald;Bayern;DE
+20000689;Filipo;Arap;;muž;12.38.2001;99988;Katharinenberg;ThĂĽringen;DE
+20005530;RubĂ©n;FlohrschĂĽtz;;muž;12.39.1926;79683;BĂĽrchau;Baden-WĂĽrttemberg;DE
+20004073;Rasal;Arai;;žena;12.39.1932;6268;Oechlitz;Sachsen-Anhalt;DE
+20009026;Nermina;Sajons;;žena;12.39.1967;21789;Wingst;Niedersachsen;DE
+20006988;GĂ¶ksu;Helmli;;žena;12.39.2002;15306;Vierlinden Friedersdorf;Brandenburg;DE
+20009320;Riki;Ormanci;;žena;12.40.1941;67742;Lauterecken;Rheinland-Pfalz;DE
+20007232;Philipp;Wawrzenitz;;muž;12.40.1945;22587;Hamburg Osdorf;Hamburg;DE
+20007452;Geon;von der Weiden;;muž;12.40.1950;38322;Hedeper;Niedersachsen;DE
+20008657;Iram;GieĂźe;;žena;12.40.1957;31174;Schellerten;Niedersachsen;DE
+20004648;Islem;Klappich;;muž;12.40.1973;66969;Lemberg;Rheinland-Pfalz;DE
+20005622;Lakbir;Weinbauer;;muž;12.40.1977;26629;GroĂźefehn Akelsbarg;Niedersachsen;DE
+20000603;Arijan-Milan;Bartelds;;muž;12.40.1980;39517;Schernebeck;Sachsen-Anhalt;DE
+20005301;Anil;Sandermann;;muž;12.40.1985;31683;Obernkirchen Gelldorf;Niedersachsen;DE
+20004042;Ohemaa;Thill;;žena;12.40.1992;67806;Marienthal;Rheinland-Pfalz;DE
+20000895;Gideon;Zellmer;;žena;12.40.2001;45138;Essen;Nordrhein-Westfalen;DE
+20004929;Michele;Wilcek;;muž;12.40.2008;76879;Knittelsheim;Rheinland-Pfalz;DE
+20004133;Leonel;Christoleit;;muž;12.40.2008;29465;Schnega Oldendorf;Niedersachsen;DE
+20008887;Villa;Fischermanns;;žena;12.41.1932;25495;Kummerfeld;Schleswig-Holstein;DE
+20006182;Peyam;KĂ¤ckenmester;;muž;12.41.1949;64739;HĂ¶chst im Odenwald;Hessen;DE
+20005613;Silvano;PĂ¤pst;;muž;12.41.1960;22927;GroĂźhansdorf;Schleswig-Holstein;DE
+20009106;Alesandro;Vorbrink;;muž;12.41.2006;17091;Altenhagen;Mecklenburg-Vorpommern;DE
+20000955;Thjelle;Matteis;;muž;12.42.1945;55595;Sankt Katharinen;Rheinland-Pfalz;DE
+20000795;Rasema;Feisst;;žena;12.42.1946;26316;Varel Dangastermoor;Niedersachsen;DE
+20002946;Ilja;Martini;;muž;12.42.1955;94372;Rattiszell;Bayern;DE
+20000286;Naivalu;Caesperlein;;muž;12.42.1960;95180;Berg;Bayern;DE
+20007044;Ul;Eggerder;;muž;12.42.2000;31634;Steimbke Wendenborstel;Niedersachsen;DE
+20006516;Vien;Kowalzick;;žena;12.43.1941;37079;GĂ¶ttingen;Niedersachsen;DE
+20003729;ElĂ­a;MĂ¶lchior;;muž;12.43.1951;36456;Barchfeld;ThĂĽringen;DE
+20007681;Tanyanov;Pfister;;muž;12.43.1957;67150;Niederkirchen bei Deidesheim;Rheinland-Pfalz;DE
+20000469;Wesam;Sawatzky;;muž;12.43.1961;97355;Abtswind;Bayern;DE
+20009128;Muyo;Deimling;;muž;12.43.1964;84069;Schierling;Bayern;DE
+20007172;Maylo;Wood;;muž;12.43.1966;67482;Altdorf;Rheinland-Pfalz;DE
+20001874;Fina;Frentzel;;žena;12.43.1973;85413;HĂ¶rgertshausen;Bayern;DE
+20006699;Athos;Clus;;muž;12.44.1927;24816;Luhnstedt;Schleswig-Holstein;DE
+20004216;Cameron;Schur;;muž;12.44.1966;6712;KĂ¶nderitz;Sachsen-Anhalt;DE
+20006026;Ivor;Henricy;;muž;12.44.1985;98617;Ellingshausen;ThĂĽringen;DE
+20007992;Rosenblum;Ehrardt;;muž;12.44.2008;72202;Nagold;Baden-WĂĽrttemberg;DE
+20006486;Edvard;VĂ¶geli;;muž;12.45.1959;71332;Waiblingen;Baden-WĂĽrttemberg;DE
+20006136;Kadriye;Spenkoch;;žena;12.45.1962;76779;Scheibenhardt;Rheinland-Pfalz;DE
+20009544;Jury;Hintz;;žena;12.45.1976;39167;Niederndodeleben;Sachsen-Anhalt;DE
+20006065;Shaker;Pollchristoph;;žena;12.45.2009;79618;Rheinfelden;Baden-WĂĽrttemberg;DE
+20006915;Bernward;Schwegerl;;muž;12.46.1929;24376;Arnis;Schleswig-Holstein;DE
+20000485;Innocentia;Meulenkamp;;žena;12.46.1943;95030;Hof;Bayern;DE
+20004784;Lenn;Mikolaiczyk;;muž;12.46.1944;24321;Hohwacht;Schleswig-Holstein;DE
+20005657;Konstantinovna;Teslov;;žena;12.46.1970;18246;Neuendorf;Mecklenburg-Vorpommern;DE
+20001858;Opoku;Rheinholz;;muž;12.46.1985;38486;Ristedt;Sachsen-Anhalt;DE
+20004479;NĂşria;Thomaschewsky;;žena;12.46.1999;9477;JĂ¶hstadt;Sachsen;DE
+20002815;Denisa;Sakschewsky;;žena;12.47.1932;54689;Irrhausen;Rheinland-Pfalz;DE
+20007260;Amouni;Muehlner;;žena;12.47.1940;80807;MĂĽnchen;Bayern;DE
+20001744;Masal;WullschlĂ¤ger;;žena;12.47.1942;27499;Hamburg Neuwerk;Hamburg;DE
+20004905;Elisabeth;Woizik;;žena;12.47.1960;27308;Kirchlinteln;Niedersachsen;DE
+20002862;Ahsennur;Liebehenze;;žena;12.47.1968;15859;Rieplos;Brandenburg;DE
+20009728;Hadeel;Schoute;;žena;12.47.1988;16348;Ruhlsdorf;Brandenburg;DE
+20007513;Esilya;Tautriem;;žena;12.48.1952;4928;DĂ¶llingen;Brandenburg;DE
+20009604;EnaĂ«l;von Poppe;;muž;12.48.1962;98634;HĂĽmpfershausen;ThĂĽringen;DE
+20001544;Raffaela;Meinerzhagen;;žena;12.48.1982;38486;DĂ¶nitz;Sachsen-Anhalt;DE
+20001037;Johanna-Sophia;Kowaczek;;žena;12.48.1995;88515;Langenenslingen;Baden-WĂĽrttemberg;DE
+20007179;Abolfazl;Stamer;;muž;12.49.1937;54570;Kirchweiler;Rheinland-Pfalz;DE
+20001620;Huyá»n;Mei;;žena;12.49.1977;4769;Naundorf;Sachsen;DE
+20005509;Vitalia;MeyerjĂĽrgens;;žena;12.49.1980;23749;Grube;Schleswig-Holstein;DE
+20008335;Yorik;Heiligentag;;muž;12.50.1927;31558;Hagenburg;Niedersachsen;DE
+20000844;Luca;Doerfler;;žena;12.50.1928;57076;Siegen;Nordrhein-Westfalen;DE
+20002698;Yoram;Heibrock;;muž;12.50.1932;98646;Trostadt;ThĂĽringen;DE
+20001066;Castiel;Kralick;;muž;12.50.1975;19309;Mellen;Brandenburg;DE
+20003046;Kurtlyn;Gseller;;žena;12.50.1980;45892;Gelsenkirchen;Nordrhein-Westfalen;DE
+20004064;Shinenila;HĂ¤rtkorn;;žena;12.50.2006;75389;Neuweiler;Baden-WĂĽrttemberg;DE
+20002659;Hartmann;Birnbach;;muž;12.50.2007;56244;Ă–tzingen;Rheinland-Pfalz;DE
+20007004;Tsvetalinova;Oettle;;žena;12.51.1982;89129;Ă–llingen;Baden-WĂĽrttemberg;DE
+20008864;Sarmad;Mitzloff;;žena;12.51.1984;33129;DelbrĂĽck;Nordrhein-Westfalen;DE
+20003415;HonorĂ©;Schaffar;;muž;12.51.1997;65189;Wiesbaden;Hessen;DE
+20003122;Su;FĂ¶llen;;žena;12.51.2004;94347;Ascha;Bayern;DE
+20009919;Weingart;Lenzen;;muž;12.51.2005;31789;Hameln;Niedersachsen;DE
+20002800;Marela;GroĂźklos;;žena;12.52.1938;55606;Oberhausen;Rheinland-Pfalz;DE
+20009923;Delacaridad;Vollmary;;žena;12.52.1952;52146;WĂĽrselen;Nordrhein-Westfalen;DE
+20008921;Curtis;Hofeditz;;muž;12.52.1965;29473;GĂ¶hrde Nadlitz;Niedersachsen;DE
+20007528;Desmond;Kiessewetter;;muž;12.52.1990;75389;Neuweiler;Baden-WĂĽrttemberg;DE
+20001925;Cayden;Schwagerus;;muž;12.52.1993;27248;Ehrenburg;Niedersachsen;DE
+20006811;Hellen;Mikolasch;;žena;12.52.1998;85232;Bergkirchen;Bayern;DE
+20001510;Ib;Voitle;;muž;12.53.1920;7819;Triptis;ThĂĽringen;DE
+20004213;Else;Gerstemeyer;;žena;12.53.1932;76477;Elchesheim-Illingen;Baden-WĂĽrttemberg;DE
+20000801;Lord;Klaesius;;muž;12.53.1945;34289;Zierenberg;Hessen;DE
+20001929;Samantha-Leonie;Sybrecht;;žena;12.53.1947;73345;Drackenstein;Baden-WĂĽrttemberg;DE
+20006587;Ă–zgĂĽr;Neweczerzal;;muž;12.53.1958;37632;Eschershausen;Niedersachsen;DE
+20001124;Seyohn;Steck;;muž;12.53.1963;91795;Dollnstein;Bayern;DE
+20006059;Ennie;Feiertag;;žena;12.53.1966;56867;Briedel;Rheinland-Pfalz;DE
+20003572;Shahveer;Ewerhard;;muž;12.53.1968;82449;Uffing am Staffelsee;Bayern;DE
+20004008;Rocio;Arslaner;;žena;12.53.1989;77933;Lahr/Schwarzwald;Baden-WĂĽrttemberg;DE
+20004769;Ayah;Neimeijer;;žena;12.53.2004;17459;Ăśckeritz;Mecklenburg-Vorpommern;DE
+20007509;LeoniĂ©;Prevoo;;žena;12.54.1925;20537;Hamburg Borgfelde;Hamburg;DE
+20004250;Bilal;Burgmayer;;muž;12.54.1926;55487;Niedersohren;Rheinland-Pfalz;DE
+20000209;Youri;Hoelzl;;muž;12.54.1931;57635;Fiersbach;Rheinland-Pfalz;DE
+20005681;Aynur;Schindeldecker;;žena;12.54.1954;54317;Herl;Rheinland-Pfalz;DE
+20000928;Leodegar;Wittmayer;;muž;12.54.1960;86381;Krumbach;Bayern;DE
+20005791;Zamir;Hillesheim;;muž;12.54.1970;26446;Friedeburg Etzel;Niedersachsen;DE
+20000088;Leilah;von den Berg;;žena;12.54.1983;37696;MarienmĂĽnster;Nordrhein-Westfalen;DE
+20000334;ChĂ©kou;von Reichel;;muž;12.54.1990;15910;Kuschkow;Brandenburg;DE
+20009273;Romiro;Gerhardsen;;muž;12.55.1929;57610;Ingelbach;Rheinland-Pfalz;DE
+20003737;Sokol;Benes;;muž;12.55.1940;66919;Hettenhausen;Rheinland-Pfalz;DE
+20002577;Iven-Thor;Spitzbarth;;muž;12.55.1942;73033;GĂ¶ppingen;Baden-WĂĽrttemberg;DE
+20006756;Kumia;Kleih;;žena;12.55.1954;29416;Liesten;Sachsen-Anhalt;DE
+20007456;Rodney;Tkaczenko;;muž;12.55.1956;41199;MĂ¶nchengladbach;Nordrhein-Westfalen;DE
+20006795;Efe;Chevalier;;muž;12.55.1973;29471;Gartow Laasche;Niedersachsen;DE
+20002424;Matias;Haensse;;muž;12.55.1981;22415;Hamburg HummelsbĂĽttel;Hamburg;DE
+20003249;Sufia;Schmelzpfennig;;žena;12.55.1982;73271;Holzmaden;Baden-WĂĽrttemberg;DE
+20004796;Emmi;FlotkĂ¶tter;;žena;12.55.1999;6686;GroĂźgĂ¶rschen;Sachsen-Anhalt;DE
+20009992;Haya;Schuchart;;žena;12.56.1922;6198;Neutz-Lettewitz;Sachsen-Anhalt;DE
+20009907;Gracilla;Larens;;žena;12.56.1923;23777;Heringsdorf;Schleswig-Holstein;DE
+20003267;Cajus;Heitmeir;;muž;12.56.1935;49565;Bramsche;Niedersachsen;DE
+20007047;Piya;RittmĂ¶ller;;žena;12.56.1955;23569;LĂĽbeck;Schleswig-Holstein;DE
+20008880;Pema;WĂ¶llermann;;žena;12.56.1967;29456;Hitzacker Pussade;Niedersachsen;DE
+20000584;Athra;WeinbĂ¶rner;;žena;12.56.1983;66996;Schindhard;Rheinland-Pfalz;DE
+20009491;Lovis;Kallweitt;;žena;12.56.1991;22607;Hamburg Nienstedten;Hamburg;DE
+20009946;Laurel;JĂĽrgenlohmann;;muž;12.57.1922;89191;Nellingen Oppingen;Baden-WĂĽrttemberg;DE
+20002408;Zuri;Himmelsbach;;muž;12.57.1959;39359;Eickendorf;Sachsen-Anhalt;DE
+20004327;Houefa;Hadamzick;;žena;12.57.1962;55768;HoppstĂ¤dten-Weiersbach;Rheinland-Pfalz;DE
+20003170;Cleofe;Schafarik;;žena;12.57.1967;24235;Wendtorf;Schleswig-Holstein;DE
+20009462;Thordis;Hammans;;žena;12.57.1986;93486;Runding;Bayern;DE
+20009806;Hamit;DĂ¶ppenschmied;;muž;12.57.1990;16775;Schulzendorf;Brandenburg;DE
+20002428;Andra;Nobars;;žena;12.57.2000;19386;Wahlstorf;Mecklenburg-Vorpommern;DE
+20009281;John-Jamie;von Wysocki;;muž;12.57.2008;54456;Tawern;Rheinland-Pfalz;DE
+20004630;Merin;KĂĽnstl;;žena;12.58.1922;76889;Kapsweyer;Rheinland-Pfalz;DE
+20002243;Coleen;Navratyil;;žena;12.58.1934;39579;Dahlen;Sachsen-Anhalt;DE
+20008946;Lavel;Nickles;;muž;12.58.1953;31714;Lauenhagen HĂĽlshagen;Niedersachsen;DE
+20007713;Dominion;Goebe;;žena;12.58.2005;28209;Bremen;Bremen;DE
+20003208;Erkinovna;Coolhaas;;žena;12.59.1928;29353;Ahnsbeck;Niedersachsen;DE
+20005151;TĂĽlay;Tscheschlok;;žena;12.59.1931;16775;Blumenow;Brandenburg;DE
+20002328;Maximilyan;Hesters;;muž;12.59.1982;38239;Salzgitter Watenstedt;Niedersachsen;DE
+20004072;Tigran;Krtschmarsch;;muž;12.59.1998;8527;Plauen;Sachsen;DE
+20009305;Orla;Werneke;;muž;12.59.2006;48477;HĂ¶rstel;Nordrhein-Westfalen;DE
+20006572;Daliyah-Shahira;Canli;;žena;12.59.2009;26904;BĂ¶rger;Niedersachsen;DE
+20000764;WeiĂź;Stocksiefen;;muž;13.00.1934;23936;Testorf-Steinfort;Mecklenburg-Vorpommern;DE
+20008338;RomanoviÄŤ;Heldebrand;;muž;13.00.1938;6682;GrĂ¶ben;Sachsen-Anhalt;DE
+20007321;Mailow;Kuns;;muž;13.00.1954;17089;Breest;Mecklenburg-Vorpommern;DE
+20003951;Kleopatra;VĂ¶lkes;;žena;13.00.1954;29499;Zernien;Niedersachsen;DE
+20001707;Flavjo;Dietle;;muž;13.00.1966;99759;Rehungen;ThĂĽringen;DE
+20004193;Chimezie;Eisenschmid;;muž;13.00.1975;18184;Thulendorf;Mecklenburg-Vorpommern;DE
+20004187;Eyla;Baltruszat;;žena;13.00.1976;19071;Grambow;Mecklenburg-Vorpommern;DE
+20000301;Kaspar;Schroers;;muž;13.00.1989;56814;Beilstein;Rheinland-Pfalz;DE
+20003233;Mudasir;Durkob;;muž;13.13.1989;74376;Gemmrigheim;Baden-WĂĽrttemberg;DE
+20004516;Adnit;Schimmelpennig;;muž;13.13.2001;53520;Senscheid;Rheinland-Pfalz;DE
+20008043;Macerius;StĂ¤ubli;;muž;13.13.2002;98749;Scheibe-Alsbach;ThĂĽringen;DE
+20008416;Alamo;Kohlhausen;;muž;13.14.1951;99869;BrĂĽheim;ThĂĽringen;DE
+20005699;Sasithorn;Jack;;žena;13.14.1951;89191;Nellingen Oppingen;Baden-WĂĽrttemberg;DE
+20007041;Marlene;BrĂ¤udigam;;žena;13.14.1952;12167;Berlin;Berlin;DE
+20000666;Shyheim;Wittekopf;;muž;13.14.1975;23701;Eutin;Schleswig-Holstein;DE
+20001937;Illjan;BeckersjĂĽrgen;;muž;13.14.1977;19300;Steesow;Mecklenburg-Vorpommern;DE
+20006250;Tien;Oechslein;;žena;13.15.1930;70567;Stuttgart;Baden-WĂĽrttemberg;DE
+20001061;Jibriel;AblaĂźmaier;;muž;13.15.1957;91747;Westheim;Bayern;DE
+20005202;Edis;Pergen;;žena;13.15.1960;97342;Marktsteft;Bayern;DE
+20007765;Bakr;Schwarzhuber;;muž;13.15.1981;55481;Hecken;Rheinland-Pfalz;DE
+20008788;Maioum;Mejcher;;žena;13.16.1942;1445;Radebeul;Sachsen;DE
+20007453;Leo;Hendreich;;žena;13.16.1955;29482;KĂĽsten Saggrian;Niedersachsen;DE
+20001057;Lotta-Valentina;Kuiper;;žena;13.16.1956;56332;LĂ¶f;Rheinland-Pfalz;DE
+20007353;Sherin;Fleischner;;žena;13.16.1986;54636;Weidingen;Rheinland-Pfalz;DE
+20004820;Tabassum;Wolferts;;žena;13.16.1990;7950;GĂ¶hren-DĂ¶hlen;ThĂĽringen;DE
+20007320;Ayanda;Kettener;;žena;13.16.1999;25764;Wesselburener-Deichhausen;Schleswig-Holstein;DE
+20005401;Martino;Groszer;;muž;13.16.2009;8393;SchĂ¶nberg;Sachsen;DE
+20002431;Jeannina;Bozdemir;;žena;13.17.1923;30826;Garbsen;Niedersachsen;DE
+20007073;Mizzi;OhlemĂĽller;;žena;13.17.1967;16928;Boddin-Langnow;Brandenburg;DE
+20008295;Adhim;Ceyhan;;muž;13.18.1939;7551;Gera;ThĂĽringen;DE
+20002984;Cajus;Varenholt;;muž;13.18.1978;4617;LĂ¶dla;ThĂĽringen;DE
+20007306;Xhensila;Holtebrink;;žena;13.18.1998;84323;Massing;Bayern;DE
+20003244;Evrim;Mark;;žena;13.18.2001;67258;HeĂźheim;Rheinland-Pfalz;DE
+20002555;Lia-Nour;Janzon;;žena;13.18.2007;13583;Berlin;Berlin;DE
+20007042;Ecesu;Kuhnert;;žena;13.19.1922;88289;Waldburg;Baden-WĂĽrttemberg;DE
+20007756;Jan-Simon;Jakobson;;muž;13.19.1941;23923;SchĂ¶nberg;Mecklenburg-Vorpommern;DE
+20004394;Lillianna;Ennulath;;žena;13.19.1945;90768;FĂĽrth;Bayern;DE
+20008769;Olalekan;Ispir;;muž;13.19.1950;92699;Irchenrieth;Bayern;DE
+20008075;Alparslan-Emin;EllsĂ¤Ăźer;;muž;13.19.1961;4603;Saara;ThĂĽringen;DE
+20007914;Aseel;Dolezel;;žena;13.19.1979;90765;FĂĽrth;Bayern;DE
+20005576;Gweth;Thomaschowski;;muž;13.19.1991;25718;Friedrichskoog;Schleswig-Holstein;DE
+20007991;Marlien;Dreefs;;žena;13.19.1994;45879;Gelsenkirchen;Nordrhein-Westfalen;DE
+20005198;InĂ©s;Poljack;;žena;13.19.1999;54649;Manderscheid;Rheinland-Pfalz;DE
+20007470;Kal-El;Settelmeyer;;muž;13.20.1935;6618;GĂ¶rschen;Sachsen-Anhalt;DE
+20000477;Syed;Nolder;;muž;13.20.1957;61352;Bad Homburg vor der HĂ¶he;Hessen;DE
+20004207;Clasina;GrĂ¶sslein;;žena;13.20.1959;20539;Hamburg;Hamburg;DE
+20009232;Mariama;Ludewigs;;žena;13.20.1966;24398;DĂ¶rphof;Schleswig-Holstein;DE
+20004780;Randall;Woitczik;;muž;13.20.1977;39291;MĂ¶ser;Sachsen-Anhalt;DE
+20001845;Kaisa;RĂĽpp;;žena;13.20.1980;23774;Heiligenhafen;Schleswig-Holstein;DE
+20007148;Josias;Schweinefuss;;muž;13.20.1987;74385;Pleidelsheim;Baden-WĂĽrttemberg;DE
+20001457;Tuyen;Isenhuth;;žena;13.20.2003;91346;Wiesenttal;Bayern;DE
+20004890;Bedir;Jantzon;;muž;13.21.1937;54439;Saarburg;Rheinland-Pfalz;DE
+20005517;Rashkov;Lexen;;muž;13.21.1958;21784;Geversdorf;Niedersachsen;DE
+20004887;Lajan;Goetzcke;;žena;13.21.2003;29499;Zernien;Niedersachsen;DE
+20005117;Husam;de Buhr;;muž;13.21.2006;95339;Neuenmarkt;Bayern;DE
+20009526;Ilianova;Jesheit;;žena;13.22.1948;18574;Zudar;Mecklenburg-Vorpommern;DE
+20007873;Winwayu;HĂ¤berlin;;muž;13.22.1950;7426;Oberhain;ThĂĽringen;DE
+20003611;Twan;NiclauĂź;;muž;13.22.1959;76707;HambrĂĽcken;Baden-WĂĽrttemberg;DE
+20001089;Sofiane;GĂ¶belt;;muž;13.22.1959;6493;Dankerode;Sachsen-Anhalt;DE
+20009353;AymĂ©e;Frohwieser;;žena;13.22.1971;91608;Geslau;Bayern;DE
+20007705;Alexandrine;Bargen;;žena;13.23.1930;3253;Hennersdorf;Brandenburg;DE
+20007255;Oluwatolani;Altuntop;;žena;13.23.1969;37293;Herleshausen;Hessen;DE
+20004222;Dorothy;Maerkl;;žena;13.23.1991;15831;GroĂź Kienitz;Brandenburg;DE
+20002260;Jupiter;Niemeier;;muž;13.23.1995;6420;Golbitz;Sachsen-Anhalt;DE
+20009173;Sampito;Petermair;;muž;13.24.1964;7924;EĂźbach;ThĂĽringen;DE
+20008549;Hilaria;Szymzsak;;žena;13.24.2006;39638;JĂ¤venitz;Sachsen-Anhalt;DE
+20007162;Kiyomi;Scheuble;;žena;13.25.1940;21382;Brietlingen;Niedersachsen;DE
+20009277;Amonn;Leisner;;muž;13.25.1946;17091;Wolde;Mecklenburg-Vorpommern;DE
+20008795;Cristina;RietmĂĽller;;žena;13.25.1972;56424;Ebernhahn;Rheinland-Pfalz;DE
+20006520;Nic;Blumenberger;;muž;13.25.1974;66903;Dittweiler;Rheinland-Pfalz;DE
+20008954;Edeltraut;MĂĽhlenkamp;;žena;13.25.2000;24326;Ascheberg;Schleswig-Holstein;DE
+20003740;Palmer;Weidl;;muž;13.26.1921;7589;MĂĽnchenbernsdorf;ThĂĽringen;DE
+20000746;Veskova;BĂ¤umers;;žena;13.26.1935;76889;Steinfeld;Rheinland-Pfalz;DE
+20009614;Sonnah;BĂ¶ffel;;žena;13.26.1943;35232;Dautphetal;Hessen;DE
+20007408;Ueto;Giermanns;;muž;13.26.1975;14823;MĂĽhlenflieĂź;Brandenburg;DE
+20006926;Skyler-Horatio;AltemĂĽller;;muž;13.26.1982;35619;Braunfels Tiefenbach;Hessen;DE
+20002527;Kena;Dreiseidler;;žena;13.26.2002;49424;Goldenstedt;Niedersachsen;DE
+20008690;Jula;Feiden;;žena;13.26.2003;17237;Carpin;Mecklenburg-Vorpommern;DE
+20000732;Arthas;Hochgreve;;muž;13.27.1937;54317;Korlingen;Rheinland-Pfalz;DE
+20000118;Logan;Faul;;žena;13.27.1938;7318;Saalfeld/Saale;ThĂĽringen;DE
+20008060;Fatima-Reem;Neugebaur;;žena;13.27.1947;79802;Dettighofen;Baden-WĂĽrttemberg;DE
+20004921;Letta;Rudkowski;;žena;13.27.1948;56729;Arft;Rheinland-Pfalz;DE
+20007763;Sandrine;Okumus;;žena;13.27.1961;79292;Pfaffenweiler;Baden-WĂĽrttemberg;DE
+20006075;Kelig;TheĂźmann;;muž;13.27.1968;23730;Schashagen;Schleswig-Holstein;DE
+20009641;Relja;Salcan;;muž;13.27.1973;18195;Zarnewanz;Mecklenburg-Vorpommern;DE
+20008021;Zoe;von Janson;;žena;13.27.1985;24145;Kiel;Schleswig-Holstein;DE
+20004475;AlexsandroviÄŤ;Rolf;;muž;13.27.1994;31622;Heemsen;Niedersachsen;DE
+20000449;Wolfred;Eckkardt;;muž;13.28.1925;8107;Hirschfeld;Sachsen;DE
+20000745;Esma;Guntram;;žena;13.28.1932;17213;GĂ¶hren-Lebbin;Mecklenburg-Vorpommern;DE
+20002557;Nurettin;FaĂźbaender;;muž;13.28.1970;71282;Hemmingen;Baden-WĂĽrttemberg;DE
+20001613;Amanuel;JĂ¶tzlaff;;muž;13.28.1976;95138;Bad Steben;Bayern;DE
+20009900;Wenzira;GĂĽlsoy;;žena;13.28.1982;13057;Berlin;Berlin;DE
+20006248;Stian;Kolodziejczyk;;muž;13.28.1993;88636;Illmensee;Baden-WĂĽrttemberg;DE
+20000926;Jenny;Kools;;žena;13.28.1998;6429;Pobzig;Sachsen-Anhalt;DE
+20005093;AslÄ±-Nezafet;Kaffka;;žena;13.29.1932;84573;SchĂ¶nberg;Bayern;DE
+20004951;FatmĂ©;Schimmek;;žena;13.29.1944;67808;WĂĽrzweiler;Rheinland-Pfalz;DE
+20002969;Marie-Louise;Weisschu;;žena;13.29.1944;80336;MĂĽnchen;Bayern;DE
+20008216;Antonyo;Lindele;;muž;13.29.1963;86706;Weichering;Bayern;DE
+20007773;Richard;Traud;;žena;13.29.1966;24241;Grevenkrug;Schleswig-Holstein;DE
+20000512;Sonia;Lambardt;;žena;13.29.1971;65189;Wiesbaden;Hessen;DE
+20008597;Kalla;Kaminzky;;žena;13.29.1978;99439;Neumark;ThĂĽringen;DE
+20006329;Tundzhay;Duehrkoop;;žena;13.29.1986;25938;Utersum;Schleswig-Holstein;DE
+20002793;Tyler;Jatzlauck;;žena;13.29.1990;38479;Tappenbeck;Niedersachsen;DE
+20008505;Kadar;Jungclaushen;;žena;13.29.1996;74420;Oberrot;Baden-WĂĽrttemberg;DE
+20000360;Queen;Karlin;;žena;13.29.1999;67596;Dittelsheim-HeĂźloch;Rheinland-Pfalz;DE
+20004868;Anaya;Jakubik;;žena;13.29.2001;18292;Bellin;Mecklenburg-Vorpommern;DE
+20008973;Aalijah-Joleen;Seebert;;žena;13.29.2004;84030;Ergolding;Bayern;DE
+20007698;Yelbi;Schwarzien;;žena;13.30.1926;65197;Wiesbaden;Hessen;DE
+20009307;Yasa;Demirhan;;muž;13.30.1941;8459;Neukirchen/PleiĂźe;Sachsen;DE
+20001403;Chaja;Seyppel;;žena;13.30.1947;29471;Gartow;Niedersachsen;DE
+20000364;Walther;HoffschrĂ¶r;;muž;13.30.1953;7950;Merkendorf;ThĂĽringen;DE
+20006531;YiÄźit;Schummers;;muž;13.30.1961;15345;Oberbarnim Klosterdorf;Brandenburg;DE
+20002316;Phaedra;GerstkĂ¤mper;;žena;13.30.1966;22111;Hamburg Billstedt;Hamburg;DE
+20002889;Aurora-Serena;Nehling;;žena;13.30.1993;97753;Karlstadt;Bayern;DE
+20002881;Gereon;Heringer;;muž;13.31.1961;2999;Lohsa;Sachsen;DE
+20001068;Carla;Uhlemeier;;žena;13.31.1965;24376;Kappeln;Schleswig-Holstein;DE
+20003044;Efsun;MĂ¶rtelmeier;;žena;13.31.1969;94143;Grainet;Bayern;DE
+20000461;Yuno;Vasilenko;;žena;13.31.1978;54597;Lascheid;Rheinland-Pfalz;DE
+20009051;Franca;Devecioglu;;žena;13.31.1987;85296;Rohrbach;Bayern;DE
+20008432;Nasir;Wienmeister;;muž;13.32.1949;47589;Uedem;Nordrhein-Westfalen;DE
+20004643;Simine;Kretschmar;;žena;13.32.1957;39629;Bismark (Altmark);Sachsen-Anhalt;DE
+20000210;Lee-Loo;Eberschneider;;žena;13.32.1958;97993;Creglingen;Baden-WĂĽrttemberg;DE
+20001635;Sheila;Ernsting;;žena;13.32.1984;17091;Rosenow;Mecklenburg-Vorpommern;DE
+20001942;Austra;Kluegl;;žena;13.32.2005;95652;Waldsassen;Bayern;DE
+20008716;Izoduwa;SoytĂĽrk;;muž;13.33.1950;39393;Am GroĂźen Bruch;Sachsen-Anhalt;DE
+20002643;Elias;Volker;;žena;13.33.1974;21077;Hamburg EiĂźendorf;Hamburg;DE
+20007234;Emanuele;Pechtold;;muž;13.33.1976;57632;Orfgen;Rheinland-Pfalz;DE
+20004889;Ă‡esur;Stanislawek;;muž;13.33.2005;89361;Landensberg;Bayern;DE
+20001804;Hawwa;Tissen;;žena;13.34.1993;50127;Bergheim;Nordrhein-Westfalen;DE
+20004802;Marissa;Bendyk;;žena;13.35.1923;89179;Beimerstetten;Baden-WĂĽrttemberg;DE
+20001150;Thida;BĂĽhmann;;žena;13.35.1940;38229;Salzgitter Calbecht;Niedersachsen;DE
+20005824;Andy;Ondra;;muž;13.35.1942;92545;Niedermurach;Bayern;DE
+20000725;Khomsan;Dether;;muž;13.35.1965;4936;ProĂźmarke;Brandenburg;DE
+20003970;Royda;von Hayn;;žena;13.35.1967;85238;Petershausen;Bayern;DE
+20000896;Semyan;Ammann;;muž;13.35.1982;63069;Offenbach;Hessen;DE
+20001105;Tiwaz;DrĂ¶ge;;muž;13.35.1989;37647;Vahlbruch;Niedersachsen;DE
+20002364;Rhoda;Landsmann;;žena;13.36.1941;8132;MĂĽlsen Wulm;Sachsen;DE
+20009452;Shachar;Fraede;;žena;13.36.1954;18510;Stoltenhagen;Mecklenburg-Vorpommern;DE
+20005746;Gwendoline;Michaely;;žena;13.36.1960;70597;Stuttgart;Baden-WĂĽrttemberg;DE
+20004637;Osawonamen;Makowsky;;žena;13.36.1970;19357;MankmuĂź;Brandenburg;DE
+20003672;Maram;Motzkat;;žena;13.36.1987;38239;Salzgitter Ăśfingen;Niedersachsen;DE
+20001900;Sina;Virhus;;žena;13.36.2003;56479;HĂĽblingen;Rheinland-Pfalz;DE
+20003636;Ruth;Angerer;;žena;13.36.2004;64686;Lautertal;Hessen;DE
+20008099;Evgenia;Bruin;;žena;13.36.2005;37139;Adelebsen;Niedersachsen;DE
+20004709;VĂ˘n;Seitz;;žena;13.37.1932;37127;Niemetal;Niedersachsen;DE
+20005232;Aspyn-Key;Horstkoetter;;muž;13.37.1946;66292;Riegelsberg;Saarland;DE
+20003610;Meleknaz;Vrabec;;žena;13.37.1962;18314;LĂĽdershagen;Mecklenburg-Vorpommern;DE
+20004410;Tjara;Kontauts;;žena;13.37.1973;9526;Pfaffroda;Sachsen;DE
+20008952;SamĂ­n;Grodtmann;;muž;13.37.1974;16225;Eberswalde;Brandenburg;DE
+20004513;Stratos;Kolberger;;muž;13.38.1920;6917;Jessen (Elster) Schadewalde;Sachsen-Anhalt;DE
+20007712;AlaĂŻa;Hendrich;;žena;13.38.1925;1809;MĂĽglitztal;Sachsen;DE
+20005708;Celiya;Kalay;;žena;13.38.1952;83361;Kienberg;Bayern;DE
+20001198;Yáşżn;Caemmerer;;žena;13.38.1955;4668;Grimma;Sachsen;DE
+20003145;Traychov;Zelinski;;muž;13.38.1998;22415;Hamburg;Hamburg;DE
+20003803;Linus-Matheo;Wojciechowska;;muž;13.38.2000;20144;Hamburg Hoheluft-Ost;Hamburg;DE
+20007748;Ă‡ansu;Diestelhorst;;žena;13.39.1935;8134;LangenweiĂźbach Langenbach;Sachsen;DE
+20008112;Ayuna;Haemmerle;;žena;13.39.1991;32339;Espelkamp;Nordrhein-Westfalen;DE
+20003291;Ankrambom;Noehles;;muž;13.39.1998;24894;Tolk;Schleswig-Holstein;DE
+20009306;Lijan;BĂ¶sswetter;;muž;13.39.2005;94554;Moos;Bayern;DE
+20009218;YuĹźa;Schemeitat;;muž;13.40.1938;3253;Friedersdorf;Brandenburg;DE
+20006573;Alonso;Pfingsttag;;muž;13.40.1973;72631;Aichtal;Baden-WĂĽrttemberg;DE
+20009339;Lean;Faschinger;;žena;13.40.2000;19217;BĂĽlow;Mecklenburg-Vorpommern;DE
+20008441;Hayam;Fisser;;žena;13.40.2005;51371;Leverkusen;Nordrhein-Westfalen;DE
+20003141;Preston;Gaworski;;muž;13.41.1932;37339;Haynrode;ThĂĽringen;DE
+20002330;Chloe;Westfehling;;žena;13.41.1954;23974;Blowatz;Mecklenburg-Vorpommern;DE
+20006077;Evangelos;Onusseit;;muž;13.41.1981;35649;Bischoffen;Hessen;DE
+20003040;Nolian;Rudis;;muž;13.41.1995;95466;Kirchenpingarten;Bayern;DE
+20001001;Terrance;Stohldreyer;;muž;13.42.1935;24558;Wakendorf II;Schleswig-Holstein;DE
+20007618;Yoshua;VĂ¶lcke;;muž;13.42.1942;54636;Echtershausen;Rheinland-Pfalz;DE
+20000495;Justine-Monique;Hendrikx;;žena;13.42.1973;89129;Langenau;Baden-WĂĽrttemberg;DE
+20005757;Ă‡aÄźtay;Gobbe;;muž;13.42.1986;6712;Schellbach;Sachsen-Anhalt;DE
+20000098;Farzin;Mayboom;;muž;13.42.1989;17321;PlĂ¶wen;Mecklenburg-Vorpommern;DE
+20004530;Kevser;Frerck;;žena;13.43.1925;18347;Wustrow;Mecklenburg-Vorpommern;DE
+20005896;Fryderyk;DiestelkĂ¤mper;;muž;13.43.1968;7548;Gera;ThĂĽringen;DE
+20002712;Loris;BĂ¤ssler;;muž;13.43.2004;3058;GroĂź DĂ¶bbern;Brandenburg;DE
+20000330;Mirchev;Mikolajzack;;muž;13.43.2004;56281;Hungenroth;Rheinland-Pfalz;DE
+20005797;Ecem;ĂśnlĂĽtĂĽrk;;žena;13.44.1930;31715;Meerbeck Volksdorf;Niedersachsen;DE
+20002001;Anastasja-Leonie;Springwald;;žena;13.44.1932;3139;Terpe;Brandenburg;DE
+20007994;Rosalia;Siebelt;;žena;13.44.1949;4828;Bennewitz;Sachsen;DE
+20005687;Natthakon;Biernot;;muž;13.44.1974;56754;Binningen;Rheinland-Pfalz;DE
+20005002;Merrit;Geerke;;žena;13.44.1997;42699;Solingen;Nordrhein-Westfalen;DE
+20001379;Bennet;Jenhsen;;muž;13.45.1941;66909;Nanzdietschweiler;Rheinland-Pfalz;DE
+20006789;Aydah;Barisik;;žena;13.45.1942;39615;SchĂ¶nberg;Sachsen-Anhalt;DE
+20000754;Merkel;Quiatek;;žena;13.45.1947;6917;Jessen (Elster) Reicho;Sachsen-Anhalt;DE
+20004126;ÄĂ´ng;Mittelmayer;;muž;13.45.1956;24601;Wankendorf;Schleswig-Holstein;DE
+20003301;Rino;Schmelzlein;;muž;13.45.1965;91793;Alesheim;Bayern;DE
+20003555;MĂ©lodie;Direk;;žena;13.45.1971;4916;Werchau;Brandenburg;DE
+20001700;Simeonne;Jacubowski;;žena;13.45.1974;26532;GroĂźheide Menstede-Coldinne;Niedersachsen;DE
+20009433;Ylvie;Novikov;;žena;13.45.2002;86507;Oberottmarshausen;Bayern;DE
+20003385;Wanja;Schymonski;;žena;13.45.2006;63454;Hanau;Hessen;DE
+20006158;Eni;Kopmans;;muž;13.46.1927;35119;Rosenthal;Hessen;DE
+20008329;Dionys;Wehner;;muž;13.46.1951;29496;Waddeweitz Salderatzen;Niedersachsen;DE
+20007376;Osman;TĂĽrkan;;muž;13.46.1980;76891;Nothweiler;Rheinland-Pfalz;DE
+20007660;CĂ©sar;Notbohm;;muž;13.46.1981;23627;GroĂź GrĂ¶nau;Schleswig-Holstein;DE
+20000508;Ora;Henssen;;žena;13.46.1993;25875;SchobĂĽll;Schleswig-Holstein;DE
+20007027;Shehadeh;Feuchtl;;muž;13.47.1930;15320;Neutrebbin;Brandenburg;DE
+20004584;Teilo;Follmer;;muž;13.47.1930;77790;Steinach;Baden-WĂĽrttemberg;DE
+20008957;Leonia-Leilani;Taepper;;žena;13.47.1963;15306;Vierlinden Diedersdorf;Brandenburg;DE
+20005030;Katriel;Walterskoetter;;žena;13.47.1969;24357;Fleckeby;Schleswig-Holstein;DE
+20002331;Veskov;Mikulle;;muž;13.48.1944;66989;NĂĽnschweiler;Rheinland-Pfalz;DE
+20003191;Esila;Geerts;;žena;13.48.1951;66904;BĂ¶rsborn;Rheinland-Pfalz;DE
+20003166;Bronia;Westermann;;žena;13.48.1953;17194;Jabel;Mecklenburg-Vorpommern;DE
+20002343;Romi;SchĂ¤fermeier;;muž;13.48.1953;19294;Gorlosen;Mecklenburg-Vorpommern;DE
+20004364;Nelia;Drexlmeier;;žena;13.48.1954;13407;Berlin;Berlin;DE
+20005309;Momo;Koeler;;muž;13.48.1991;27404;Elsdorf;Niedersachsen;DE
+20002632;Edi;Feger;;muž;13.49.1930;17237;Klein Vielen;Mecklenburg-Vorpommern;DE
+20005433;Sumeja;Winklmayer;;žena;13.49.1939;89444;Villenbach;Bayern;DE
+20000385;Ayesh;Dentzer;;muž;13.49.1942;55629;Schwarzerden;Rheinland-Pfalz;DE
+20005276;Gimena;Kemmerer;;žena;13.49.1964;19386;Kritzow;Mecklenburg-Vorpommern;DE
+20008393;Nadine;Nikoleitzik;;muž;13.49.1973;37281;Wanfried;Hessen;DE
+20008270;Julia-Sophie;Ekizoglu;;žena;13.49.1986;57319;Bad Berleburg Berghausen;Nordrhein-Westfalen;DE
+20001191;Lyativ;Oberhansl;;muž;13.49.1989;48149;MĂĽnster;Nordrhein-Westfalen;DE
+20002187;Theadora;Balschunn;;žena;13.49.1998;23628;Krummesse;Schleswig-Holstein;DE
+20004882;Aayan;Rolff;;muž;13.49.2006;24220;Boksee;Schleswig-Holstein;DE
+20001534;Min-Ho;Henreich;;muž;13.50.1920;29413;Langenapel;Sachsen-Anhalt;DE
+20000086;Amy-Joline;Kleinknecht;;žena;13.50.1938;22299;Hamburg;Hamburg;DE
+20007591;Emmett;Osoling;;muž;13.50.1980;37124;Rosdorf;Niedersachsen;DE
+20005403;Ziv;Buescher;;žena;13.50.1999;25779;Wiemerstedt;Schleswig-Holstein;DE
+20001627;May-Lai;Jungmayer;;žena;13.51.2003;85591;Vaterstetten;Bayern;DE
+20001130;Rania;Siegmunt;;žena;13.52.1946;68642;BĂĽrstadt;Hessen;DE
+20004162;Sivert;Zaumueller;;muž;13.52.1948;31675;BĂĽckeburg Evesen;Niedersachsen;DE
+20008705;Mehmetovna;HĂ¶lzemann;;žena;13.52.1956;23539;LĂĽbeck;Schleswig-Holstein;DE
+20008688;Thessa;Kesler;;žena;13.52.1957;54413;Geisfeld;Rheinland-Pfalz;DE
+20000212;Mahir-MiraĂ§;Weckbrodt;;muž;13.52.1968;97640;Stockheim;Bayern;DE
+20002087;Eyleen;HĂĽgen;;žena;13.53.1940;39448;Etgersleben;Sachsen-Anhalt;DE
+20006631;Hatan;Fawer;;muž;13.53.1962;51503;RĂ¶srath;Nordrhein-Westfalen;DE
+20006959;NaĂŻm;Eysfeld;;muž;13.53.1987;56253;Treis-Karden;Rheinland-Pfalz;DE
+20002898;Ali;Baer;;muž;13.54.1933;3185;Teichland;Brandenburg;DE
+20003594;Nicolaos;Schirmer;;muž;13.54.1958;69118;Heidelberg;Baden-WĂĽrttemberg;DE
+20007539;Mbu;Steponath;;muž;13.54.1959;8301;Schlema;Sachsen;DE
+20008103;Elisa-Marie;Tenbusch;;žena;13.54.1981;29693;BĂ¶hme;Niedersachsen;DE
+20002251;Sidney;SĂĽĂź;;žena;13.54.1982;95490;Mistelgau;Bayern;DE
+20000624;Serif;Amberge;;muž;13.54.2004;80636;MĂĽnchen;Bayern;DE
+20002156;Adenike;Horatschek;;žena;13.54.2009;87653;Eggenthal;Bayern;DE
+20005203;Eyla;Geilfuhs;;žena;13.55.1936;66497;Contwig;Rheinland-Pfalz;DE
+20001543;Robin;Waidmann;;muž;13.55.1938;38304;WolfenbĂĽttel;Niedersachsen;DE
+20006410;Jona-Gabriel;Jansens;;muž;13.55.1940;99834;Oberellen;ThĂĽringen;DE
+20006942;Melak;Canak;;žena;13.55.1955;27356;Rotenburg (WĂĽmme);Niedersachsen;DE
+20002865;Luqmanulhakim;Ahlfs;;muž;13.55.1968;21465;Reinbek;Schleswig-Holstein;DE
+20001608;Mikhael;Kollodzeiski;;muž;13.56.1958;94436;Simbach;Bayern;DE
+20007445;Ngá»Ťc;Hartlein;;žena;13.56.1965;39291;KrĂĽssau;Sachsen-Anhalt;DE
+20004145;Alexandra;MĂ¶ser;;žena;13.56.1965;25704;Nordermeldorf;Schleswig-Holstein;DE
+20006373;Amatus;Wietschorek;;muž;13.56.1972;25767;WennbĂĽttel;Schleswig-Holstein;DE
+20003152;Jamain;Rausch;;muž;13.56.1986;56412;Welschneudorf;Rheinland-Pfalz;DE
+20005972;Jamaier;Maretzek;;muž;13.57.1961;66500;Hornbach;Rheinland-Pfalz;DE
+20008426;Dylan;Adamse;;muž;13.57.1967;19089;Tramm;Mecklenburg-Vorpommern;DE
+20002667;Leon;Hauck;;žena;13.57.2003;39175;Woltersdorf;Sachsen-Anhalt;DE
+20006800;Arein;Everard;;muž;13.57.2005;96369;WeiĂźenbrunn;Bayern;DE
+20001082;Teoman;Akpolat;;muž;13.58.1927;26452;Sande CĂ¤ciliengroden;Niedersachsen;DE
+20003185;Samina;Knoblock;;žena;13.58.1937;21640;Neuenkirchen;Niedersachsen;DE
+20002045;Hirohisa;Wulfern;;muž;13.58.1965;87616;Wald;Bayern;DE
+20004721;Seyed;Fettweis;;muž;13.58.1980;55288;Udenheim;Rheinland-Pfalz;DE
+20007018;Odilia;Dawid;;žena;13.58.1981;79280;Au;Baden-WĂĽrttemberg;DE
+20008553;Shon;Kuenzer;;muž;13.58.2006;6780;LĂ¶beritz;Sachsen-Anhalt;DE
+20002641;Ronahi;Sezer;;žena;13.58.2009;90587;Tuchenbach;Bayern;DE
+20005964;Nazra;Andress;;žena;13.59.1921;37217;Witzenhausen;Hessen;DE
+20001209;Aynur;Fredrich;;muž;13.59.1925;69259;Wilhelmsfeld;Baden-WĂĽrttemberg;DE
+20006842;Keali;Wybranitz;;žena;13.59.1977;97529;Sulzheim;Bayern;DE
+20005790;Ndeh;HolzĂ¤pfel;;muž;13.59.1985;60486;Frankfurt am Main;Hessen;DE
+20008268;Emran;KlĂĽsserath;;muž;13.59.1993;4932;Reichenhain;Brandenburg;DE
+20008455;Aid;Tasdemir;;muž;14.00.1942;29482;KĂĽsten TĂĽschau;Niedersachsen;DE
+20001509;Sevde-HĂĽma;Renault;;žena;14.00.1971;27446;Selsingen;Niedersachsen;DE
+20001015;Noel-Finnley;VĂ¶tterle;;muž;14.00.1977;84103;Postau;Bayern;DE
+20007742;Takoia;Cirsten;;žena;14.00.1981;57612;Volkerzen;Rheinland-Pfalz;DE
+20004478;Dulijana;RĂ¶ttgerding;;žena;14.00.1983;56355;Diethardt;Rheinland-Pfalz;DE
+20007055;Jayce-Thomas;HĂ¤berl;;muž;14.00.1995;16928;Lindenberg;Brandenburg;DE
+20008755;Purity;Ahleff;;žena;14.13.1942;22159;Hamburg;Hamburg;DE
+20008717;Marali;Wolfrath;;žena;14.13.1956;24326;Nehmten;Schleswig-Holstein;DE
+20009839;Lamine;Kranwetvogel;;muž;14.13.1959;19067;Langen BrĂĽtz;Mecklenburg-Vorpommern;DE
+20008007;Tomoshi;Kemnitzer;;muž;14.13.1984;15910;GrĂ¶ditsch;Brandenburg;DE
+20008390;Simeonne;Eckhart;;žena;14.13.2003;55234;Bechtolsheim;Rheinland-Pfalz;DE
+20000605;Shiloah;Sonnentag;;žena;14.13.2003;7646;Trockenborn-Wolfersdorf;ThĂĽringen;DE
+20000989;Una;FlurschĂĽtz;;žena;14.13.2008;54595;Weinsheim;Rheinland-Pfalz;DE
+20007160;Charlie-Bo;Goedecke;;muž;14.14.1934;56370;Biebrich;Rheinland-Pfalz;DE
+20006123;Ăine;Enderlein;;žena;14.14.1964;17268;Boitzenburger Land;Brandenburg;DE
+20009344;SĆˇn;Kriegk;;muž;14.15.1931;67294;Oberwiesen;Rheinland-Pfalz;DE
+20007474;Florentin;Scherpenstein;;muž;14.15.1978;30449;Hannover;Niedersachsen;DE
+20008577;Etta;HĂ¶ffel;;žena;14.15.2001;37633;Dielmissen;Niedersachsen;DE
+20005789;Samina;Herding;;žena;14.15.2002;66346;PĂĽttlingen;Saarland;DE
+20007621;Yiannis;Hartwieger;;muž;14.15.2004;22851;Norderstedt;Schleswig-Holstein;DE
+20007091;Alaeha;Hansmair;;žena;14.16.1940;13055;Berlin;Berlin;DE
+20005213;Mailow;Freerichs;;muž;14.16.1967;99947;Kirchheilingen;ThĂĽringen;DE
+20008104;Jood;Zabke;;žena;14.16.1984;38723;Seesen;Niedersachsen;DE
+20002056;Odera;Blumbergs;;žena;14.16.1991;64850;Schaafheim;Hessen;DE
+20004204;Darin;Jungnikel;;muž;14.17.1923;28237;Bremen;Bremen;DE
+20009671;Melina-Celine;Lindler;;žena;14.17.1947;25876;Wisch;Schleswig-Holstein;DE
+20009883;Nouran;StĂ¶cklhuber;;žena;14.17.1953;55595;Sankt Katharinen;Rheinland-Pfalz;DE
+20009086;Tijan;Klaesius;;muž;14.17.1960;95496;GlashĂĽtten;Bayern;DE
+20007117;Cadie;TĂ¶nneĂźen;;žena;14.17.1962;15848;Friedland LeiĂźnitz;Brandenburg;DE
+20008594;Suad;GrĂ¶nwaldt;;muž;14.17.1996;67823;Lettweiler;Rheinland-Pfalz;DE
+20007365;Mert-Metin;BĂ¶ddicker;;muž;14.18.1920;88255;Baindt;Baden-WĂĽrttemberg;DE
+20001762;Kabelo;Stegmueller;;žena;14.18.1930;39624;Winkelstedt;Sachsen-Anhalt;DE
+20006989;Thang;JannĂźen;;muž;14.18.1941;25767;Arkebek;Schleswig-Holstein;DE
+20004176;Georgieva;Blechschmidt;;žena;14.18.1950;39638;Gardelegen;Sachsen-Anhalt;DE
+20004034;AsmĂ®n;Hackenschmid;;žena;14.18.1976;67229;Gerolsheim;Rheinland-Pfalz;DE
+20008596;Takoia;Meschede;;žena;14.18.1983;75248;Ă–lbronn-DĂĽrrn;Baden-WĂĽrttemberg;DE
+20006022;Marilen;KĂ¶rtje;;žena;14.18.2003;10178;Berlin;Berlin;DE
+20003937;Felte;Mallinovsky;;muž;14.19.1932;21785;Neuhaus an der Oste;Niedersachsen;DE
+20002493;Lexi;Beumers;;žena;14.19.1977;25582;Looft;Schleswig-Holstein;DE
+20009356;Jorick;PrĂĽfer;;muž;14.19.1998;87739;Breitenbrunn;Bayern;DE
+20009445;Damianos;Sedlak;;muž;14.19.2002;99610;Kleinbrembach;ThĂĽringen;DE
+20009118;Ajdin;LĂĽtzenburger;;muž;14.20.1922;34497;Korbach;Hessen;DE
+20001488;Erick;Krawiecka;;muž;14.20.1965;84533;Stammham;Bayern;DE
+20005279;Elisa-Zara;de Haen;;žena;14.20.1978;14550;Krielow;Brandenburg;DE
+20003316;San;BethfĂĽhr;;muž;14.20.2000;94439;RoĂźbach;Bayern;DE
+20006548;Gal;Klages;;muž;14.21.1937;56220;Sankt Sebastian;Rheinland-Pfalz;DE
+20004508;Nikkita;Veit;;žena;14.21.1939;22337;Hamburg Ohlsdorf;Hamburg;DE
+20004419;Fritjof;Berghout;;muž;14.21.1956;33803;Steinhagen;Nordrhein-Westfalen;DE
+20003000;Mascha;Aktepe;;žena;14.21.1956;54673;Muxerath;Rheinland-Pfalz;DE
+20005374;Chantal;Vorbrod;;žena;14.21.1988;23816;Bebensee;Schleswig-Holstein;DE
+20004852;Gal;BĂ¶hm;;muž;14.21.2004;6869;WĂ¶rpen;Sachsen-Anhalt;DE
+20003422;Amilya;Schulmeister;;žena;14.22.1922;6369;GroĂźbadegast;Sachsen-Anhalt;DE
+20004171;Billy;Simonides;;muž;14.22.1932;35287;AmĂ¶neburg;Hessen;DE
+20008859;Yemoley;Stankewicz;;žena;14.22.1951;85406;Zolling;Bayern;DE
+20005270;Sekina;Leonhards;;žena;14.22.1977;25364;Westerhorn;Schleswig-Holstein;DE
+20002420;Saja;HĂĽg;;žena;14.22.2000;97258;Hemmersheim;Bayern;DE
+20007556;Jovo-BeĹˇo;Fojcik;;muž;14.22.2004;53520;MĂĽllenbach;Rheinland-Pfalz;DE
+20003542;Ă‰louann;KortĂĽmm;;muž;14.23.1920;39606;Behrendorf;Sachsen-Anhalt;DE
+20003345;Anastasios;Siebott;;muž;14.23.1930;36160;Dipperz;Hessen;DE
+20004227;Emmely;Mikolajczyk;;žena;14.23.1941;12099;Berlin;Berlin;DE
+20004961;Eyyub-Hasan;BrunnenmĂĽller;;muž;14.23.1947;22395;Hamburg Sasel;Hamburg;DE
+20002953;Stina;Kothes;;žena;14.23.1957;73765;Neuhausen auf den Fildern;Baden-WĂĽrttemberg;DE
+20000401;Cordula;Haasse;;žena;14.23.1959;26474;Spiekeroog;Niedersachsen;DE
+20002715;Succes;Tiel;;žena;14.23.1963;53520;Wershofen;Rheinland-Pfalz;DE
+20004995;Reba;Nikolov;;žena;14.23.1972;85757;Karlsfeld;Bayern;DE
+20005268;Nazdar;ScholtiĂźek;;žena;14.23.2007;3172;Gastrose-Kerkwitz;Brandenburg;DE
+20000138;Quyhn-Malia;WeiĂźert;;žena;14.24.1956;97078;WĂĽrzburg;Bayern;DE
+20003500;Loic;Bertrand;;muž;14.24.1960;88637;Leibertingen;Baden-WĂĽrttemberg;DE
+20003628;Thá»‹nh;Joist;;muž;14.24.1966;84095;Furth;Bayern;DE
+20002636;Olouwafoumi;Kreickenbom;;žena;14.24.1993;6917;Jessen (Elster) Arnsdorf;Sachsen-Anhalt;DE
+20005562;Tibor;Frik;;muž;14.25.1929;24811;Owschlag;Schleswig-Holstein;DE
+20000627;Jasha;GĂ¶tzlaff;;muž;14.25.1930;6724;Spora;Sachsen-Anhalt;DE
+20009131;Hasim;Otjen;;muž;14.25.1935;85764;OberschleiĂźheim;Bayern;DE
+20004704;Fynn-Lucas;Hoch;;muž;14.25.1942;16348;Stolzenhagen;Brandenburg;DE
+20005177;Maritta;Legrand;;žena;14.25.1952;1994;Schipkau;Brandenburg;DE
+20008808;Anuri;Wodars;;žena;14.25.1993;93099;MĂ¶tzing;Bayern;DE
+20002181;Amy-Louisa;SchloĂźhauer;;žena;14.25.1993;34121;Kassel;Hessen;DE
+20003560;Shahzad;Havner;;muž;14.25.1997;4357;Leipzig;Sachsen;DE
+20008784;Philip;Paulus;;žena;14.25.2000;79682;Todtmoos;Baden-WĂĽrttemberg;DE
+20004540;Emelie-Sophie;Schaepers;;žena;14.25.2002;92259;Neukirchen bei Sulzbach-Rosenberg;Bayern;DE
+20005217;Winby;Wetekamp;;muž;14.26.1922;78647;Trossingen;Baden-WĂĽrttemberg;DE
+20000361;Linnart;Erler;;muž;14.26.1961;25774;Krempel;Schleswig-Holstein;DE
+20004500;Suzette;Maelzner;;žena;14.26.1991;64405;Fischbachtal;Hessen;DE
+20006716;Polykarp;Wassilewsky;;muž;14.27.1936;70499;Stuttgart Zuffenhausen;Baden-WĂĽrttemberg;DE
+20002157;Lalith;Gust;;muž;14.27.1981;87782;Unteregg;Bayern;DE
+20001293;Sayani;Thijssen;;muž;14.28.1921;83209;Prien am Chiemsee;Bayern;DE
+20005054;Reema;DiezelmĂĽller;;žena;14.28.1982;67808;Imsweiler;Rheinland-Pfalz;DE
+20003347;Hui-Hsin;Stokman;;žena;14.28.1986;81243;MĂĽnchen;Bayern;DE
+20005369;Quáşż;Grasskemper;;muž;14.28.1989;80937;MĂĽnchen;Bayern;DE
+20002822;Viktorovna;Prusas;;žena;14.28.1990;98617;ObermaĂźfeld-Grimmenthal;ThĂĽringen;DE
+20003195;Stavro;Rosenlacher;;muž;14.29.1960;18586;Gager;Mecklenburg-Vorpommern;DE
+20003251;Zainab;Kowalew;;žena;14.29.1962;7429;DĂ¶schnitz;ThĂĽringen;DE
+20001447;Can-Nebi;Wendt;;muž;14.29.1981;6258;Schkopau Korbetha;Sachsen-Anhalt;DE
+20007108;Lindiwe;Mevihsen;;žena;14.29.1982;26316;Varel GrĂĽnenkamp;Niedersachsen;DE
+20008356;Jamin;MĂĽnstermann;;muž;14.30.1933;21035;Hamburg AllermĂ¶he;Hamburg;DE
+20001386;NoĂ¨lie;HĂĽg;;žena;14.30.1936;79215;Elzach;Baden-WĂĽrttemberg;DE
+20007295;Laea;Sebastiano;;žena;14.30.1953;29465;Schnega Gielauer MĂĽhle;Niedersachsen;DE
+20005291;Chahrazed;Klinglmayr;;žena;14.30.1958;6429;Gerbitz;Sachsen-Anhalt;DE
+20005839;Jaylen;Kurtscheidt;;muž;14.31.1926;79194;Heuweiler;Baden-WĂĽrttemberg;DE
+20005487;LorĂˇnd;GramĂĽller;;muž;14.31.1938;99955;HaussĂ¶mmern;ThĂĽringen;DE
+20009956;Alanis;MuĂźil;;žena;14.31.1951;6766;Wolfen;Sachsen-Anhalt;DE
+20004470;Raees;MĂ¤usnest;;muž;14.31.1976;33106;Paderborn;Nordrhein-Westfalen;DE
+20000486;Khadre;Eichelhart;;muž;14.31.2001;57629;Limbach;Rheinland-Pfalz;DE
+20008940;Tiwi;WĂ¤lder;;žena;14.32.1933;46537;Dinslaken;Nordrhein-Westfalen;DE
+20005488;Natalia-Alicja;Willecken;;žena;14.32.1936;56291;Steinbach;Rheinland-Pfalz;DE
+20008159;Yume;Forstner;;muž;14.32.1964;55234;Erbes-BĂĽdesheim;Rheinland-Pfalz;DE
+20009688;Milen;Segenschmid;;muž;14.32.1965;74523;SchwĂ¤bisch Hall;Baden-WĂĽrttemberg;DE
+20007686;Excellent;Speckle;;žena;14.32.1970;39319;Jerichow;Sachsen-Anhalt;DE
+20005204;Noomi-Sophie;Bohnhardt;;žena;14.32.1970;58455;Witten;Nordrhein-Westfalen;DE
+20002262;Arnas;Meissgeyer;;muž;14.32.1973;44145;Dortmund;Nordrhein-Westfalen;DE
+20007772;Reema;Ditze;;žena;14.32.1974;67808;Bayerfeld-Steckweiler;Rheinland-Pfalz;DE
+20006863;Gjulijano;Mevihsen;;muž;14.32.1979;54597;Reuth;Rheinland-Pfalz;DE
+20008035;Alia;Stadlmair;;žena;14.33.1937;99338;NeusiĂź;ThĂĽringen;DE
+20005295;Esmanur;Stocking;;žena;14.33.1955;27327;Martfeld;Niedersachsen;DE
+20006797;Dionis;WeyersmĂĽller;;muž;14.33.1963;67685;Weilerbach;Rheinland-Pfalz;DE
+20007393;John-Paul;Siedel;;muž;14.33.1970;56076;Koblenz;Rheinland-Pfalz;DE
+20008752;Nymeria;Benzmann;;žena;14.33.2003;56349;Kaub;Rheinland-Pfalz;DE
+20001866;Amoako;Ayten;;muž;14.34.1930;3246;Gahro;Brandenburg;DE
+20003568;Maris;Holtzmann;;muž;14.34.1932;40595;DĂĽsseldorf;Nordrhein-Westfalen;DE
+20003832;Jiyan;Seiferle;;muž;14.34.1934;58093;Hagen;Nordrhein-Westfalen;DE
+20005190;Charbel;Seyffart;;muž;14.34.1965;6869;Buko;Sachsen-Anhalt;DE
+20003576;ZoĂ©-Amiya;SchĂ¤rff;;žena;14.34.1977;16248;Hohenfinow;Brandenburg;DE
+20000419;Nefeli;Boehnert;;žena;14.34.1987;25436;Neuendeich;Schleswig-Holstein;DE
+20001691;Marcela;GrĂĽnthaler;;žena;14.35.1926;91094;Langensendelbach;Bayern;DE
+20007049;Wofa;Rheinhard;;muž;14.35.1927;21640;Bliedersdorf;Niedersachsen;DE
+20002348;Eliud;Kuen;;muž;14.35.1927;16928;Kemnitz;Brandenburg;DE
+20006283;Essam;Henskes;;muž;14.35.1967;31008;Elze;Niedersachsen;DE
+20006093;Vinko;Odentahl;;muž;14.35.1974;26897;Hilkenbrook;Niedersachsen;DE
+20001738;Coraline;Suleiman;;žena;14.36.1936;36323;Grebenau;Hessen;DE
+20006656;Joule;Boedger;;žena;14.36.1944;37073;GĂ¶ttingen;Niedersachsen;DE
+20000618;AwĹźin;JanaĂźek;;žena;14.36.1969;14715;Nitzahn;Brandenburg;DE
+20003136;Anouk;Lebedew;;žena;14.36.1996;1824;Rosenthal-Bielatal;Sachsen;DE
+20006043;Bernado;Zens;;muž;14.37.1921;82194;GrĂ¶benzell;Bayern;DE
+20002739;Damir;van de Berg;;muž;14.37.1923;7646;Rausdorf;ThĂĽringen;DE
+20007888;Yorn;NiklaaĂźen;;muž;14.37.1924;83661;Lenggries;Bayern;DE
+20003531;Benan;Steinmiller;;muž;14.37.1938;1609;Nauwalde;Sachsen;DE
+20005658;Maimiti;Zornickel;;žena;14.37.1953;97725;Elfershausen;Bayern;DE
+20004045;Khady;Rosenmeier;;žena;14.37.1966;88147;Achberg;Baden-WĂĽrttemberg;DE
+20008005;Josch;Kunerth;;muž;14.37.2008;14715;Kriele;Brandenburg;DE
+20004959;Emi;Dannel;;žena;14.38.1962;3249;GroĂźkrausnik;Brandenburg;DE
+20005114;Cornell;Hiersekorn;;muž;14.38.1998;15324;GroĂź Neuendorf;Brandenburg;DE
+20001192;Isis;Joosten;;žena;14.39.1923;67701;Schallodenbach;Rheinland-Pfalz;DE
+20007328;Denna;Jungbaeck;;žena;14.39.1927;55481;RĂ¶dern;Rheinland-Pfalz;DE
+20004644;Octavius;Korthals;;muž;14.39.1963;80796;MĂĽnchen;Bayern;DE
+20007993;Feili;Absenger;;žena;14.39.1967;8056;Zwickau;Sachsen;DE
+20002298;Bailey-Maria;KĂĽstenmacher;;žena;14.39.1969;22453;Hamburg;Hamburg;DE
+20001271;Kristan;Uschkereit;;muž;14.39.1992;4288;Leipzig;Sachsen;DE
+20008680;Roni;Sparber;;žena;14.39.2004;99986;Niederdorla;ThĂĽringen;DE
+20000366;Fatima;Ebben;;žena;14.40.1930;15377;Oberbarnim Grunow;Brandenburg;DE
+20000100;Micha;Hartzheim;;muž;14.40.1964;71111;Waldenbuch;Baden-WĂĽrttemberg;DE
+20002261;Sejdo;Olschowsky;;muž;14.40.1982;67693;Fischbach;Rheinland-Pfalz;DE
+20008195;Hannah-Sophie;Ovzarek;;žena;14.41.1937;9430;Venusberg;Sachsen;DE
+20004432;Danial;Moewius;;muž;14.41.1943;67814;Jakobsweiler;Rheinland-Pfalz;DE
+20006851;Krojan;Lebedew;;muž;14.41.1960;65223;Taunusstein;Hessen;DE
+20005651;Harvir;Leyndecker;;muž;14.41.1989;38644;Goslar Hahndorf;Niedersachsen;DE
+20009781;Yanek;Stiskal;;muž;14.41.2003;56865;Walhausen;Rheinland-Pfalz;DE
+20006778;Lijan;VĂ¶lck;;muž;14.42.1925;21258;Heidenau;Niedersachsen;DE
+20007280;Hansel;BlĂĽhm;;muž;14.42.1965;16259;Oderaue;Brandenburg;DE
+20009912;Mawi;Suter;;muž;14.42.1973;17192;Klink;Mecklenburg-Vorpommern;DE
+20006682;Giannis;Weissermel;;muž;14.42.1973;8373;Remse;Sachsen;DE
+20003431;Rune;Neukaeter;;žena;14.42.1984;16321;SchĂ¶now;Brandenburg;DE
+20007184;Haja;Ebens;;žena;14.42.2002;24321;LĂĽtjenburg;Schleswig-Holstein;DE
+20007398;Masombe;Solovei;;žena;14.43.1929;57614;Niederwambach;Rheinland-Pfalz;DE
+20009958;Joudi;Boiara;;žena;14.43.1951;79292;Pfaffenweiler;Baden-WĂĽrttemberg;DE
+20001151;Ma;Anuth;;žena;14.43.1955;76467;Bietigheim;Baden-WĂĽrttemberg;DE
+20006133;Aiko;Bartolome;;muž;14.43.1958;72474;Winterlingen;Baden-WĂĽrttemberg;DE
+20001187;Aleslam;Manze;;muž;14.43.1967;17237;Godendorf;Mecklenburg-Vorpommern;DE
+20004426;Istvan;Kiersten;;muž;14.43.1977;84567;Perach;Bayern;DE
+20006103;JĂĽri;Bestmann;;muž;14.43.1991;31595;Steyerberg DĂĽdinghausen;Niedersachsen;DE
+20004382;Merle;Kahyaoglu;;žena;14.43.1992;33175;Bad Lippspringe;Nordrhein-Westfalen;DE
+20001732;Senada;Lisseck;;žena;14.43.2008;72585;Riederich;Baden-WĂĽrttemberg;DE
+20002809;Hyronima;Eisfeld;;žena;14.44.1920;73434;Aalen;Baden-WĂĽrttemberg;DE
+20000772;Brigitte;KleiĂźer;;žena;14.44.1921;6896;Straach;Sachsen-Anhalt;DE
+20008410;ZÄ±nar;Nageler;;muž;14.44.1922;39448;Westeregeln;Sachsen-Anhalt;DE
+20002788;Marlon-Franz;Paukstadt;;muž;14.44.1934;67598;Gundersheim;Rheinland-Pfalz;DE
+20007970;Chekeber;Boettinger;;žena;14.44.1957;53173;Bonn;Nordrhein-Westfalen;DE
+20004895;Wojtek;Mielnikel;;muž;14.44.1979;79695;Wieden;Baden-WĂĽrttemberg;DE
+20003835;Meliha;StĂĽmpke;;žena;14.44.2005;54655;Etteldorf;Rheinland-Pfalz;DE
+20007132;Betel;Szymiczek;;muž;14.45.1976;50935;KĂ¶ln;Nordrhein-Westfalen;DE
+20008399;Ghaliya;Schmeltzpfennig;;žena;14.45.1985;41066;MĂ¶nchengladbach;Nordrhein-Westfalen;DE
+20005049;Emmelie;HĂ¤ussl;;žena;14.45.1988;64720;Michelstadt;Hessen;DE
+20008839;Bahescht;Blauschmidt;;žena;14.45.1994;2827;GĂ¶rlitz;Sachsen;DE
+20000982;Sali;Paustiann;;muž;14.45.2005;27243;GroĂź Ippener;Niedersachsen;DE
+20006686;Arjan;Freydag;;muž;14.46.1922;17440;Buddenhagen;Mecklenburg-Vorpommern;DE
+20004730;Devin-Pascal;Printzen;;muž;14.46.1935;4603;Windischleuba;ThĂĽringen;DE
+20007443;AĹ„uri;Lemlein;;žena;14.46.1967;6254;GĂĽnthersdorf;Sachsen-Anhalt;DE
+20005929;Cassian;WĂĽrmlin;;muž;14.46.1982;37081;GĂ¶ttingen;Niedersachsen;DE
+20001376;Neri;SchĂ¶nkes;;žena;14.46.1988;84419;Obertaufkirchen;Bayern;DE
+20008625;Melysza;Herdling;;žena;14.46.1992;3058;Laubsdorf;Brandenburg;DE
+20003598;Sarina;Pinkerneil;;žena;14.47.1950;53534;Wirft;Rheinland-Pfalz;DE
+20003443;Kendy;Pollatscheck;;muž;14.47.1966;54441;Kastel-Staadt;Rheinland-Pfalz;DE
+20008914;Jalilah;Schuldis;;žena;14.47.1968;56276;Stebach;Rheinland-Pfalz;DE
+20002771;Fruma;Kolodziey;;žena;14.47.1968;1945;GrĂĽnewald;Brandenburg;DE
+20005148;Thoran;Frauendienst;;muž;14.47.1999;29459;Clenze MeuĂźlieĂźen;Niedersachsen;DE
+20005744;Egbe;Boomfalk;;muž;14.48.1920;17168;Lelkendorf;Mecklenburg-Vorpommern;DE
+20002911;Eliane;Kubotz;;žena;14.48.1923;56237;Oberhaid;Rheinland-Pfalz;DE
+20002837;Leylan;Peterhoff;;žena;14.48.1944;19417;Warin;Mecklenburg-Vorpommern;DE
+20007619;Nicky;Morozova;;muž;14.48.1969;3159;NeiĂźe-Malxetal;Brandenburg;DE
+20003839;Ăślfiye;Ă–zcelik;;žena;14.48.1973;28359;Bremen;Bremen;DE
+20007449;Dian;Rosencranz;;žena;14.48.1979;22761;Hamburg Bahrenfeld;Hamburg;DE
+20003632;Lynn-Fay;Heyne;;žena;14.49.1924;25779;SĂĽderheistedt;Schleswig-Holstein;DE
+20003128;Lendi;Saydl;;muž;14.49.1930;56479;Irmtraut;Rheinland-Pfalz;DE
+20009455;Nuenglutai;Roperz;;žena;14.49.1931;21423;Drage;Niedersachsen;DE
+20008497;Ruiqi;Montanus;;muž;14.49.1945;17129;Kruckow;Mecklenburg-Vorpommern;DE
+20002503;Zaina;Tausendteufel;;žena;14.49.1946;26831;Bunderhee;Niedersachsen;DE
+20009861;Rojhat;Meinhard;;muž;14.49.1957;74599;Wallhausen;Baden-WĂĽrttemberg;DE
+20000057;Zohra;Holzbrinck;;žena;14.49.1965;73669;Lichtenwald;Baden-WĂĽrttemberg;DE
+20004812;HaĹźim;Ennulat;;muž;14.49.1967;85368;Moosburg;Bayern;DE
+20008070;Ariya;StĂĽrmer;;žena;14.49.1996;31683;Obernkirchen RĂ¶hrkasten;Niedersachsen;DE
+20005860;Kenya;Stennes;;muž;14.50.1926;50968;KĂ¶ln;Nordrhein-Westfalen;DE
+20006348;Bempah;Weisert;;muž;14.50.1944;20359;Hamburg;Hamburg;DE
+20000424;Anastazja;BlĂ¶dorn;;žena;14.50.1990;89143;Blaubeuren Sonderbuch;Baden-WĂĽrttemberg;DE
+20007161;Kimanthi;Rademakers;;muž;14.50.1993;58511;LĂĽdenscheid;Nordrhein-Westfalen;DE
+20005458;Rabi;Thielen;;muž;14.51.1925;54340;Longuich;Rheinland-Pfalz;DE
+20004827;Zubejr;Knobloch;;muž;14.51.1956;82057;Icking;Bayern;DE
+20009193;Caytlin;Lenser;;žena;14.51.1962;19067;Cambs;Mecklenburg-Vorpommern;DE
+20005661;Marita;Scharschmidt;;muž;14.51.1966;54552;Neichen;Rheinland-Pfalz;DE
+20008314;Claudius;Konietzna;;muž;14.51.1986;23923;Menzendorf;Mecklenburg-Vorpommern;DE
+20007949;Karla;Holzwardt;;žena;14.51.2006;20038;Hamburg;Hamburg;DE
+20006159;Zhiyu;Shevchenko;;žena;14.52.1942;37136;Seeburg;Niedersachsen;DE
+20007099;Satomi;Wehland;;žena;14.52.1944;51065;KĂ¶ln;Nordrhein-Westfalen;DE
+20007564;Toluwalase;Heitzmann;;muž;14.52.1947;3139;Terpe;Brandenburg;DE
+20006862;Augusto;Horlacher;;muž;14.52.1976;58579;SchalksmĂĽhle;Nordrhein-Westfalen;DE
+20004134;Levy-Sailom;Hilal;;muž;14.52.1981;7570;Harth-PĂ¶llnitz Wetzdorf;ThĂĽringen;DE
+20006807;Lykke;Hermsmeyer;;žena;14.53.1958;99713;HolzsuĂźra;ThĂĽringen;DE
+20001393;Thilo;Neimeyer;;muž;14.53.1960;15757;Halbe;Brandenburg;DE
+20005666;Mohammadreda;Spitschuh;;žena;14.53.1984;27419;Hamersen;Niedersachsen;DE
+20000529;Josaphat;Kaulbersch;;muž;14.53.2004;78166;Donaueschingen;Baden-WĂĽrttemberg;DE
+20002141;Ada-Rose;Mollner;;žena;14.54.1927;55283;Nierstein;Rheinland-Pfalz;DE
+20007953;Ece;Kares;;žena;14.54.1952;19217;Rieps;Mecklenburg-Vorpommern;DE
+20004539;Lotje;Markuse;;žena;14.54.1954;18292;KuchelmiĂź;Mecklenburg-Vorpommern;DE
+20000986;Atim;Jesaitis;;muž;14.54.1966;71106;Magstadt;Baden-WĂĽrttemberg;DE
+20009441;Arno;KĂ¶nigbaur;;muž;14.54.1985;97274;Leinach;Bayern;DE
+20001264;Albena;Ewer;;žena;14.54.2003;26446;Friedeburg Wiesede;Niedersachsen;DE
+20004014;Miky;Clossmann;;žena;14.54.2006;34630;Gilserberg;Hessen;DE
+20003331;MatĂş;Rosendal;;muž;14.54.2007;25709;Kaiser-Wilhelm-Koog;Schleswig-Holstein;DE
+20001312;Daroen;Christl;;muž;14.54.2007;67363;Lustadt;Rheinland-Pfalz;DE
+20004699;MiraĂ§;Engele;;muž;14.54.2009;88090;Immenstaad am Bodensee;Baden-WĂĽrttemberg;DE
+20004546;Nareen;Schneiderat;;žena;14.55.1949;86480;Aletshausen;Bayern;DE
+20000105;Eleyna-July;Brandel;;žena;14.55.1966;16866;Wutike;Brandenburg;DE
+20003903;Pavels;Wiener;;muž;14.55.1987;56244;Niedersayn;Rheinland-Pfalz;DE
+20002028;Elien;Gorsky;;žena;14.55.1998;64291;Darmstadt;Hessen;DE
+20001772;Samita;Tokay;;žena;14.55.2004;76835;Weyher in der Pfalz;Rheinland-Pfalz;DE
+20005233;Sedaket;Wetterau;;žena;14.56.1930;23779;Neukirchen;Schleswig-Holstein;DE
+20005136;Davey;Gustke;;muž;14.56.1931;27367;Ahausen;Niedersachsen;DE
+20005848;Devin;Andreasen;;muž;14.56.1954;15898;Neuzelle GĂ¶hlen;Brandenburg;DE
+20009204;Riana;Gutberlet;;žena;14.56.1970;10717;Berlin;Berlin;DE
+20008896;Juna-Antonia;Pranckaitis;;žena;14.56.1994;47051;Duisburg;Nordrhein-Westfalen;DE
+20007460;Taqi;Perktold;;muž;14.56.1997;95683;Ebnath;Bayern;DE
+20009057;Ahmet-Asaf;Ondrackova;;muž;14.57.1920;95466;Kirchenpingarten;Bayern;DE
+20007933;Kyra-Joleen;Oberheidt;;žena;14.57.1934;30459;Hannover;Niedersachsen;DE
+20005729;Dubois;Fronmaier;;muž;14.57.1938;6369;Zehbitz;Sachsen-Anhalt;DE
+20005705;Tihomirov;Kretz;;muž;14.57.1949;33100;Paderborn;Nordrhein-Westfalen;DE
+20001526;Firanoly;El;;žena;14.57.1951;55278;Friesenheim;Rheinland-Pfalz;DE
+20005779;Denni;Kubacek;;muž;14.57.1964;18569;Trent;Mecklenburg-Vorpommern;DE
+20009842;Karan;Weinard;;muž;14.57.1980;15910;Unterspreewald;Brandenburg;DE
+20008893;Sookie;Perchtold;;žena;14.57.2009;18573;Dreschvitz;Mecklenburg-Vorpommern;DE
+20007735;Zarina;van den Busch;;žena;14.58.1924;89183;Holzkirch;Baden-WĂĽrttemberg;DE
+20003943;Henryk;Hackenschmidt;;muž;14.58.1926;48157;MĂĽnster;Nordrhein-Westfalen;DE
+20007875;Elenora;Bastke;;žena;14.58.1929;38855;Danstedt;Sachsen-Anhalt;DE
+20006960;Jackomo;SchĂ¶nfleisch;;muž;14.58.1936;56377;Schweighausen;Rheinland-Pfalz;DE
+20006758;Sarmad;von Martens;;muž;14.58.1943;54552;Dreis-BrĂĽck;Rheinland-Pfalz;DE
+20000073;Anna-Emilia;Roerig;;žena;14.58.1969;54426;Naurath;Rheinland-Pfalz;DE
+20003667;Eilhard;Ruppert;;muž;14.58.1976;55595;Hargesheim;Rheinland-Pfalz;DE
+20008718;TuÄźraalp-MiraĂ§;Quiatkowski;;muž;14.59.1925;83626;Valley;Bayern;DE
+20006791;Elifsu;Drommelschmidt;;žena;14.59.1941;54634;Birtlingen;Rheinland-Pfalz;DE
+20009542;Daher;Scheffczyk;;muž;14.59.1952;7389;GĂ¶ssitz;ThĂĽringen;DE
+20009264;Pippa;Toenges;;žena;14.59.1971;88524;Uttenweiler;Baden-WĂĽrttemberg;DE
+20008923;Ilaiya;Vencel;;muž;14.59.1972;23730;Sierksdorf;Schleswig-Holstein;DE
+20002971;Emilie-Estelle;Clesius;;žena;14.59.1985;21781;Cadenberge;Niedersachsen;DE
+20004417;Vornamen;Markgraf;;muž;14.59.1995;39624;Kalbe (Milde);Sachsen-Anhalt;DE
+20005415;Olympia;HeissenbĂĽttel;;žena;15.00.1925;36129;Gersfeld;Hessen;DE
+20009270;Jakup;Cakmak;;muž;15.00.1935;96224;Burgkunstadt;Bayern;DE
+20006115;Seray;Keskiner;;žena;15.00.1937;2894;Reichenbach/Oberlausitz;Sachsen;DE
+20005908;Homare;Stollenwerk;;žena;15.00.1939;6632;Zeuchfeld;Sachsen-Anhalt;DE
+20001917;Yad;Faull;;muž;15.00.1944;38312;BĂ¶rĂźum;Niedersachsen;DE
+20006978;Armen;Kolesnikova;;muž;15.00.1957;66969;Lemberg;Rheinland-Pfalz;DE
+20001682;Yuliya;Breide;;žena;15.00.1993;3238;Finsterwalde;Brandenburg;DE
+20001968;Batuhan;Mann;;muž;15.00.1996;87727;Babenhausen;Bayern;DE
+20008641;Josephina-Christina;Zemath;;žena;15.00.2004;78136;Schonach im Schwarzwald;Baden-WĂĽrttemberg;DE
+20002567;Jim-Hugo;Pehlivanoglu;;muž;15.13.1983;51377;Leverkusen;Nordrhein-Westfalen;DE
+20004261;Leoni-Alexa;KirchhĂ¶ffel;;žena;15.13.1993;83454;Anger;Bayern;DE
+20006099;Tochukwu;Frantzmann;;muž;15.13.2002;49843;Uelsen;Niedersachsen;DE
+20004440;Eugen;Sommerkorn;;muž;15.14.1921;52066;Aachen;Nordrhein-Westfalen;DE
+20007293;Famke;Szoltysik;;žena;15.14.1956;18195;Tessin;Mecklenburg-Vorpommern;DE
+20009464;Yusniev;DittmĂ¤r;;muž;15.14.1962;28359;Bremen;Bremen;DE
+20002937;Monic;Siebenherl;;žena;15.14.2000;72461;Albstadt;Baden-WĂĽrttemberg;DE
+20001378;Laurena;Kuehhirt;;žena;15.14.2000;6774;Tornau;Sachsen-Anhalt;DE
+20007191;Yanneck;Onuszeit;;muž;15.15.1930;16831;Rheinsberg ZĂĽhlen;Brandenburg;DE
+20005644;Josefine-Hope;Wiesbauer;;žena;15.15.1936;21397;Barendorf;Niedersachsen;DE
+20003382;Milanna;Prinzlin;;žena;15.15.1940;23812;Wahlstedt;Schleswig-Holstein;DE
+20008351;Nuolin;Mikolajtschik;;muž;15.15.1957;82282;Pischertshofen;Bayern;DE
+20001202;Annemieke;VĂ¶lk;;žena;15.15.1976;55278;Hahnheim;Rheinland-Pfalz;DE
+20004076;AĂŻcha;NeuhĂ¤usser;;žena;15.15.2003;71409;Schwaikheim;Baden-WĂĽrttemberg;DE
+20003021;Kastiel;Merthin;;muž;15.15.2004;66649;Oberthal;Saarland;DE
+20005522;Runhild;Herding;;žena;15.16.1924;65207;Wiesbaden;Hessen;DE
+20005513;Ceryl;Oberdieck;;muž;15.16.1931;97855;Triefenstein;Bayern;DE
+20001604;Pela;KleiĂźle;;žena;15.16.1958;22962;Siek;Schleswig-Holstein;DE
+20005020;Luca-Fabien;Franzki;;muž;15.16.1961;70192;Stuttgart Feuerbach;Baden-WĂĽrttemberg;DE
+20004642;Darion-Lucas;RĂ¶sele;;muž;15.16.1974;39343;Ostingersleben;Sachsen-Anhalt;DE
+20009060;Kumiko;Vogels;;žena;15.17.1921;77887;Sasbachwalden;Baden-WĂĽrttemberg;DE
+20005245;Birgit;Sakai;;žena;15.17.1979;57612;Volkerzen;Rheinland-Pfalz;DE
+20004804;Loufina;Seyberth;;žena;15.18.1921;21514;Hornbek;Schleswig-Holstein;DE
+20005375;Mayron;Henhsen;;muž;15.18.1958;56254;MĂĽden;Rheinland-Pfalz;DE
+20009198;Wilbert;Setzer;;muž;15.18.1992;76831;Heuchelheim-Klingen;Rheinland-Pfalz;DE
+20004693;Esmee;Kiljan;;žena;15.18.2003;76857;Ramberg;Rheinland-Pfalz;DE
+20000653;Era;Neumeir;;žena;15.19.1938;8396;Oberwiera;Sachsen;DE
+20000966;Aniekan;Thiesemann;;muž;15.19.1942;58256;Ennepetal;Nordrhein-Westfalen;DE
+20006247;Atrissa;Leihs;;žena;15.19.1958;55469;Altweidelbach;Rheinland-Pfalz;DE
+20004624;Kaukab;Witthaupt;;žena;15.19.1966;87757;Kirchheim in Schwaben;Bayern;DE
+20006306;Savas;Jungk;;muž;15.19.1972;16307;Radekow;Brandenburg;DE
+20009627;Cornelius;Wentzel;;muž;15.19.1987;15517;FĂĽrstenwalde/Spree FĂĽrstenwalde;Brandenburg;DE
+20001806;Siddhant;Karacaoglu;;muž;15.19.1999;41061;MĂ¶nchengladbach;Nordrhein-Westfalen;DE
+20003509;Evgen'evna;Leichtweiss;;žena;15.19.2004;6246;Delitz am Berge;Sachsen-Anhalt;DE
+20002941;Desanka;Volz;;žena;15.20.1937;4886;Beilrode;Sachsen;DE
+20002680;Soulaf;MĂĽlner;;žena;15.20.1953;19348;Nebelin;Brandenburg;DE
+20004649;Deljan;Braxator;;muž;15.20.1971;55606;BĂ¤rweiler;Rheinland-Pfalz;DE
+20003270;TrĆ°Ćˇng;SchĂ¶fisch;;žena;15.20.1980;19230;Toddin;Mecklenburg-Vorpommern;DE
+20007853;HoĂ i;Karadavut;;muž;15.20.1994;38448;Wolfsburg;Niedersachsen;DE
+20006218;Florian;Dreyssig;;muž;15.21.1921;99334;Ichtershausen;ThĂĽringen;DE
+20007613;Bodiel;Vulpes;;žena;15.21.1925;16278;Mark Landin;Brandenburg;DE
+20003742;Arjo;Frische;;muž;15.21.1935;92696;FlossenbĂĽrg;Bayern;DE
+20006955;Furkan-Efe;Roskam;;muž;15.21.1991;31700;HeuerĂźen;Niedersachsen;DE
+20009932;Colin;MĂ¶hlenbrok;;muž;15.21.2008;35799;Merenberg;Hessen;DE
+20006429;Ewan;Vollers;;muž;15.22.1926;24975;Husby;Schleswig-Holstein;DE
+20005948;Genius-Alvaro;Nikolajsen;;muž;15.22.1927;64407;FrĂ¤nkisch-Crumbach;Hessen;DE
+20007710;Widad;Heinrichmaier;;žena;15.22.1967;76356;Weingarten;Baden-WĂĽrttemberg;DE
+20008299;Cullen;Frommjohann;;muž;15.22.1970;37327;Breitenbach;ThĂĽringen;DE
+20005361;Alvina;Schickor;;žena;15.22.1985;17389;Anklam;Mecklenburg-Vorpommern;DE
+20006952;Miroslav;Matthijssen;;muž;15.22.1987;23719;Glasau;Schleswig-Holstein;DE
+20001841;Juliena;Koyuncu;;žena;15.23.1920;25497;Prisdorf;Schleswig-Holstein;DE
+20006630;Bafuta;Marxmann;;žena;15.23.1938;36157;Ebersburg;Hessen;DE
+20006723;FedoroviÄŤ;Menzelius;;muž;15.23.1949;53579;Erpel;Rheinland-Pfalz;DE
+20000663;Kristion;Jahndel;;muž;15.23.1972;15518;SteinhĂ¶fel Hasenfelde;Brandenburg;DE
+20000774;Milla-Maria;Wannieck;;žena;15.23.1973;16818;Basdorf;Brandenburg;DE
+20002294;Kian-Malik;Faland;;muž;15.23.1989;57319;Bad Berleburg SchĂĽllar;Nordrhein-Westfalen;DE
+20009656;Benel;RĂ¶slen;;muž;15.23.1992;21035;Hamburg Bergedorf;Hamburg;DE
+20001664;Nataly;Kalchbrenner;;žena;15.23.2002;15366;Neuenhagen bei Berlin;Brandenburg;DE
+20000276;Shaida;Kortkamp;;žena;15.24.1933;56291;Lingerhahn;Rheinland-Pfalz;DE
+20006754;Jaylin;Rotschadel;;žena;15.24.1952;97274;Leinach;Bayern;DE
+20005377;Charlie;Feidl;;muž;15.24.1970;22609;Hamburg Nienstedten;Hamburg;DE
+20001737;Wladimir;Kentzler;;muž;15.24.1975;88319;Aitrach;Baden-WĂĽrttemberg;DE
+20007128;Hettie;GrĂĽnhage;;žena;15.24.1985;17139;Duckow;Mecklenburg-Vorpommern;DE
+20008374;Kathy;Oellrich;;žena;15.24.1993;6343;Mansfeld;Sachsen-Anhalt;DE
+20001316;Ilkim-Berrin;BraukmĂĽller;;žena;15.25.1926;54538;Bengel;Rheinland-Pfalz;DE
+20001809;Mera;Groeneweg;;žena;15.25.1928;54497;Horath;Rheinland-Pfalz;DE
+20008372;Milad;TheyĂźen;;muž;15.25.1933;94560;Offenberg;Bayern;DE
+20000862;Josephin;Novizki;;žena;15.25.1954;94130;Obernzell;Bayern;DE
+20007406;Ntale;Dickmayer;;žena;15.25.1965;54439;Saarburg;Rheinland-Pfalz;DE
+20004805;PhĂş;Sedlatzek;;muž;15.25.1984;15528;GrĂĽnheide (Mark) MĂ¶nchwinkel;Brandenburg;DE
+20008871;Meliha;Michalska;;žena;15.25.1989;6268;Querfurt;Sachsen-Anhalt;DE
+20009853;Wei;Neubart;;muž;15.25.2002;16798;FĂĽrstenberg/Havel;Brandenburg;DE
+20000400;Nafula;KĂ¤rst;;žena;15.25.2008;85598;Baldham;Bayern;DE
+20003875;Habibullah;DĂ¶rpmund;;muž;15.26.1958;73660;Urbach;Baden-WĂĽrttemberg;DE
+20000323;Pavle;Clawsing;;muž;15.27.1921;65326;Aarbergen;Hessen;DE
+20001708;Erfan;Feltkamp;;muž;15.27.1935;31553;Auhagen;Niedersachsen;DE
+20002623;Kirsten;Evren;;žena;15.27.1945;74372;Sersheim;Baden-WĂĽrttemberg;DE
+20003967;Esme;Joist;;žena;15.27.1983;25813;Husum;Schleswig-Holstein;DE
+20009831;Tiffany;Jungmann;;žena;15.27.1990;24799;Friedrichsholm;Schleswig-Holstein;DE
+20002826;Eias;Amend;;muž;15.27.2003;92665;Altenstadt an der Waldnaab;Bayern;DE
+20007085;Ege;Stadlhuber;;muž;15.27.2004;88481;Balzheim;Baden-WĂĽrttemberg;DE
+20000939;Wynter;Einfinger;;žena;15.28.1920;63829;Krombach;Bayern;DE
+20004520;Jill;SchĂ¶nyan;;žena;15.28.1962;75337;EnzklĂ¶sterle;Baden-WĂĽrttemberg;DE
+20007788;Awes;Schmittbauer;;muž;15.28.1964;7778;Zimmern;ThĂĽringen;DE
+20001118;Yo;Zawadzky;;žena;15.28.1975;22589;Hamburg Osdorf;Hamburg;DE
+20001618;Hiam;Kupperschmidt;;žena;15.28.1978;8359;Breitenbrunn/Erzgebirge;Sachsen;DE
+20008937;Sahr;Szimkat;;muž;15.28.2002;3058;Roggosen;Brandenburg;DE
+20005700;Ashley;Teubl;;žena;15.28.2002;54290;Trier;Rheinland-Pfalz;DE
+20002808;Njuguna;CĂ¶mez;;muž;15.29.1938;6917;KlĂ¶den;Sachsen-Anhalt;DE
+20000349;Ĺ arlote;Mates;;žena;15.29.1939;48369;Saerbeck;Nordrhein-Westfalen;DE
+20007432;Tiernan;Mathisen;;muž;15.29.1950;92551;Stulln;Bayern;DE
+20002544;Sejo;Voitle;;muž;15.29.1953;10997;Berlin Kreuzberg;Berlin;DE
+20007101;Arliss;Scheuert;;muž;15.29.1984;58135;Hagen;Nordrhein-Westfalen;DE
+20009333;Ener;Uschkureit;;muž;15.30.1970;31629;Estorf Estorf;Niedersachsen;DE
+20007833;TĂş;KĂ¶ktas;;muž;15.30.1996;15831;GroĂźziethen;Brandenburg;DE
+20004621;Batul;Raimond;;žena;15.30.1998;84166;Adlkofen;Bayern;DE
+20005882;Vasilisa;RĂ¶hr;;žena;15.31.1938;66879;Steinwenden;Rheinland-Pfalz;DE
+20007131;Sofie-Marie;KrĂ¤tschmann;;žena;15.31.1942;80802;MĂĽnchen;Bayern;DE
+20009640;EnĂ©;Mewes;;žena;15.31.1951;26506;Norden Westermarsch I;Niedersachsen;DE
+20001820;Enea;Rupprecht;;muž;15.31.1999;35444;Biebertal;Hessen;DE
+20008352;Daritza;KĂĽng;;žena;15.32.1930;66119;SaarbrĂĽcken;Saarland;DE
+20002850;Rikkard;Weinber;;muž;15.32.1931;73488;Ellenberg;Baden-WĂĽrttemberg;DE
+20003952;Mats-Eddi;BĂ¶s;;muž;15.32.1935;24340;Goosefeld;Schleswig-Holstein;DE
+20005880;Baraa;Andries;;muž;15.32.1938;83132;Pittenhart;Bayern;DE
+20005040;Sira;Caspary;;žena;15.32.1939;74736;Hardheim;Baden-WĂĽrttemberg;DE
+20002227;GĂĽneĹź;Mairhans;;žena;15.32.1947;21514;Hornbek;Schleswig-Holstein;DE
+20007371;Esben;Reuters;;muž;15.32.2003;56379;Scheidt;Rheinland-Pfalz;DE
+20004626;Leonhardt;Kallinowsky;;muž;15.33.1977;55758;Hellertshausen;Rheinland-Pfalz;DE
+20003286;Evalotte;GĂĽlcicek;;žena;15.33.2005;7937;Silberfeld;ThĂĽringen;DE
+20006423;Aykut;Uttenweiler;;muž;15.34.1929;84032;Altdorf;Bayern;DE
+20008730;Fergus;Barfusz;;muž;15.34.1932;24960;GlĂĽcksburg;Schleswig-Holstein;DE
+20004114;Tihomirov;TĂ¶nsjost;;muž;15.34.1938;1612;NĂĽnchritz;Sachsen;DE
+20002608;Fabiola;Greca;;žena;15.34.1949;26624;SĂĽdbrookmerland Forlitz-Blaukirchen;Niedersachsen;DE
+20005577;Philippa;Gumbert;;žena;15.34.1962;84367;Zeilarn;Bayern;DE
+20009964;Arijola;Isenhuth;;žena;15.34.1971;53520;DĂĽmpelfeld;Rheinland-Pfalz;DE
+20004736;Akosua;Filips;;žena;15.34.1973;25436;GroĂź Nordende;Schleswig-Holstein;DE
+20006474;AteĹź;BĂ¤uerlin;;muž;15.34.1981;94532;AuĂźernzell;Bayern;DE
+20000609;Russoun;Teichfischer;;žena;15.35.1922;72519;Veringenstadt;Baden-WĂĽrttemberg;DE
+20002749;Haleth;Wischnewske;;žena;15.35.1946;25842;Ockholm;Schleswig-Holstein;DE
+20002074;Deja-Evelyn;Alexeenco;;žena;15.35.1947;99441;Umpferstedt;ThĂĽringen;DE
+20005069;Hansong;Ostrovskyy;;muž;15.35.1952;93437;Furth im Wald;Bayern;DE
+20002004;Karma;NiĂź;;muž;15.35.1970;66919;Weselberg;Rheinland-Pfalz;DE
+20000408;Sadettin;Nemeczek;;muž;15.35.1978;89293;KellmĂĽnz;Bayern;DE
+20007093;Nuriel;Schrei;;žena;15.36.1959;6502;Thale;Sachsen-Anhalt;DE
+20005048;Anno;Sonnentag;;muž;15.36.1971;16792;Wesendorf;Brandenburg;DE
+20009072;Elaina-Sheri;Eritt;;žena;15.36.1977;8606;Oelsnitz;Sachsen;DE
+20003201;Stefana;Tasci;;žena;15.36.1978;37318;WĂĽstheuterode;ThĂĽringen;DE
+20000980;Adela;SchlipkĂ¶ter;;žena;15.36.2002;26624;SĂĽdbrookmerland Moordorf;Niedersachsen;DE
+20004383;Sahin;Linsenmayr;;muž;15.36.2009;54340;KĂ¶werich;Rheinland-Pfalz;DE
+20003010;LĂ©o;Reddingius;;muž;15.37.1937;37412;HĂ¶rden;Niedersachsen;DE
+20006088;Widad;SĂĽderkamp;;žena;15.37.1983;97647;Sondheim vor der RhĂ¶n;Bayern;DE
+20007086;Stylianos;Nikolaus;;muž;15.37.1998;95698;Neualbenreuth;Bayern;DE
+20005629;Kathi;Scholtyszak;;žena;15.37.2005;29496;Waddeweitz GroĂź Gaddau;Niedersachsen;DE
+20001640;Tschetan;Breidert;;muž;15.37.2006;25596;Gribbohm;Schleswig-Holstein;DE
+20000388;Kyrill;Bierwisch;;muž;15.38.1924;7586;Hartmannsdorf;ThĂĽringen;DE
+20005583;Noa;Saenger;;muž;15.38.1939;56761;Zettingen;Rheinland-Pfalz;DE
+20005518;Marcus;SchloĂźnagel;;muž;15.38.1947;18246;Klein Belitz;Mecklenburg-Vorpommern;DE
+20009695;Mia-Luise;Walterschen;;žena;15.38.1977;89361;Landensberg;Bayern;DE
+20008838;Karl-Willy;GaĂźenhuber;;muž;15.38.1986;86579;Waidhofen;Bayern;DE
+20004297;Isajoy;Fabricius;;žena;15.38.1989;55234;Kettenheim;Rheinland-Pfalz;DE
+20008113;Frejya;GrĂĽnzinger;;žena;15.38.1999;73344;Gruibingen;Baden-WĂĽrttemberg;DE
+20004212;Theophil;Pfistner;;muž;15.39.1928;95356;Grafengehaig;Bayern;DE
+20002978;Ă›r'evna;Schalkalwis;;žena;15.39.1937;4159;Leipzig;Sachsen;DE
+20004903;Hatice;Neundeubel;;žena;15.39.1944;74582;Gerabronn;Baden-WĂĽrttemberg;DE
+20007779;Claus;Korbjuhn;;muž;15.39.1949;6642;Reinsdorf;Sachsen-Anhalt;DE
+20006815;Lea-Marie;Pinkerneil;;žena;15.39.1960;21781;Cadenberge;Niedersachsen;DE
+20007080;SĂĽreyya;Brinken;;žena;15.39.1969;18461;Gremersdorf-Buchholz;Mecklenburg-Vorpommern;DE
+20001272;Elizaveta;Kraushaar;;žena;15.39.1987;84061;Ergoldsbach;Bayern;DE
+20006442;Luba;Dorfhuber;;žena;15.40.1935;39291;Tryppehna;Sachsen-Anhalt;DE
+20001046;Luan-Janot;Herding;;muž;15.40.1940;54314;Hentern;Rheinland-Pfalz;DE
+20008052;Katalina;Nasswetter;;žena;15.40.1949;59174;Kamen;Nordrhein-Westfalen;DE
+20004315;Mayea;KrĂ¤mmer;;žena;15.40.1952;99880;TrĂĽgleben;ThĂĽringen;DE
+20009702;Zisan;Drewes;;žena;15.40.1967;31552;Apelern Soldorf;Niedersachsen;DE
+20002163;Kyano;GeisdĂ¶rfer;;muž;15.40.1979;57539;HĂ¶vels;Rheinland-Pfalz;DE
+20000564;Kordian;Kristian;;muž;15.40.1981;26529;Upgant-Schott;Niedersachsen;DE
+20008118;Nadim;Rosenstock;;žena;15.40.1985;57636;SĂ¶rth;Rheinland-Pfalz;DE
+20009416;Taisa;Zerkiebel;;žena;15.40.1998;29496;Waddeweitz Marlin;Niedersachsen;DE
+20007247;Taitu;Jungmeier;;žena;15.41.1926;3048;Cottbus;Brandenburg;DE
+20007520;Johan;DemirtĂĽrk;;muž;15.41.1932;39291;WĂĽstenjerichow;Sachsen-Anhalt;DE
+20006219;Zinet;Cloes;;žena;15.41.1933;25836;Vollerwiek;Schleswig-Holstein;DE
+20002693;Silvio;Fedorov;;muž;15.41.1953;15345;Rehfelde;Brandenburg;DE
+20009395;Gusti;Sternekicker;;muž;15.41.1958;3172;Pinnow-Heideland;Brandenburg;DE
+20009768;Mizzi;Cananoglu;;žena;15.41.1960;6543;Braunschwende;Sachsen-Anhalt;DE
+20008259;Abdoulaye;Owzarek;;muž;15.41.1969;38368;Querenhorst;Niedersachsen;DE
+20003772;Leto;NagelkrĂ¤mer;;žena;15.41.1973;88436;Eberhardzell FĂĽramoos;Baden-WĂĽrttemberg;DE
+20002843;Kyrill;Riech;;muž;15.41.1975;19217;Schlagsdorf;Mecklenburg-Vorpommern;DE
+20009892;Irmgard;Graul;;žena;15.41.1985;39279;Loburg;Sachsen-Anhalt;DE
+20004112;Caesar;Gebhardi;;muž;15.41.1991;39291;LĂĽbars;Sachsen-Anhalt;DE
+20003723;Nezey;Hochkirchen;;žena;15.41.1992;35418;Buseck;Hessen;DE
+20006560;Tommy;Weeverink;;muž;15.41.1994;15926;GĂ¶rlsdorf;Brandenburg;DE
+20008586;Anthony;Kirchmair;;muž;15.42.1921;54309;Newel;Rheinland-Pfalz;DE
+20003627;Ben-Lennert;Aeplinius;;muž;15.42.1945;24790;Schacht-Audorf;Schleswig-Holstein;DE
+20003234;Sofica;Spangenberger;;žena;15.42.1963;79837;Ibach;Baden-WĂĽrttemberg;DE
+20006341;Antwiwaa;Viez;;žena;15.43.1943;31691;Helpsen;Niedersachsen;DE
+20009473;Parvati;KĂ¤mmer;;žena;15.43.1958;89191;Nellingen Aichen;Baden-WĂĽrttemberg;DE
+20002660;Jurate;Franzkeit;;žena;15.43.1958;29465;Schnega Solkau;Niedersachsen;DE
+20002695;Crispin;JĂ¤ndel;;muž;15.43.1964;56357;Obertiefenbach;Rheinland-Pfalz;DE
+20000283;Gaffari;Deschmann;;muž;15.43.1966;34266;Niestetal;Hessen;DE
+20007651;Femke;Michelsson;;žena;15.44.1953;88527;Unlingen;Baden-WĂĽrttemberg;DE
+20008038;Irinel;Ballikaya;;muž;15.44.1963;38375;RĂ¤bke;Niedersachsen;DE
+20007898;Luitpold;Schnittcker;;muž;15.44.1983;87772;Pfaffenhausen;Bayern;DE
+20007767;Erianna;GrĂĽnheidt;;žena;15.44.1987;34471;Volkmarsen;Hessen;DE
+20002536;Tilli;Hegenbart;;žena;15.45.1979;54413;Damflos;Rheinland-Pfalz;DE
+20008403;Hinata;Rothgiesser;;žena;15.45.1983;94146;Hinterschmiding;Bayern;DE
+20001108;Israel;Hartwigsen;;muž;15.46.1931;7646;Geisenhain;ThĂĽringen;DE
+20009672;Sonya;Schiegel;;žena;15.46.1963;58579;SchalksmĂĽhle;Nordrhein-Westfalen;DE
+20009959;Ihsan;Meyerdress;;žena;15.46.1973;56294;Gierschnach;Rheinland-Pfalz;DE
+20002052;Siddhi;Masurek;;muž;15.46.1977;74254;Offenau;Baden-WĂĽrttemberg;DE
+20006014;Larsen;Reinkemeyer;;muž;15.46.1987;66123;SaarbrĂĽcken;Saarland;DE
+20002206;Tabitha;Lindenmaier;;žena;15.46.1991;65189;Wiesbaden;Hessen;DE
+20000814;Suhejla;HochmĂĽller;;žena;15.46.1994;21647;Moisburg;Niedersachsen;DE
+20009211;Gabrijel;Siegel;;muž;15.46.2006;9337;Hohenstein-Ernstthal;Sachsen;DE
+20002689;JĂ¶rnson;SchweinefuĂź;;muž;15.47.1944;18299;Liessow;Mecklenburg-Vorpommern;DE
+20009443;Nike;Engelbreth;;žena;15.47.1955;52222;Stolberg (Rheinland);Nordrhein-Westfalen;DE
+20007960;LĂ©onor;Zielinski;;žena;15.47.1961;29413;Gieseritz;Sachsen-Anhalt;DE
+20009720;Hanah;Matherner;;žena;15.47.2001;16833;Fehrbellin Linum;Brandenburg;DE
+20004870;Yusef;Mickeleit;;muž;15.47.2005;79235;Vogtsburg im Kaiserstuhl;Baden-WĂĽrttemberg;DE
+20007455;Milan-Connar;Merseburg;;muž;15.48.1950;78662;BĂ¶singen;Baden-WĂĽrttemberg;DE
+20006536;Amsel;Gruendling;;žena;15.48.1951;39319;Wulkow;Sachsen-Anhalt;DE
+20002706;Tayyab;Meyn;;muž;15.49.1920;93444;KĂ¶tzting;Bayern;DE
+20008669;Eveleen;Voelkmann;;žena;15.49.1921;24894;Tolk;Schleswig-Holstein;DE
+20001341;Marin;MoĂźmann;;muž;15.49.1921;91796;Ettenstatt;Bayern;DE
+20000714;Taika;Brockers;;žena;15.49.1941;36457;Weilar;ThĂĽringen;DE
+20000389;Rejhan;Gaerber;;muž;15.49.1948;75389;Neuweiler;Baden-WĂĽrttemberg;DE
+20005724;Nezaket;Frikkel;;žena;15.49.1962;88376;KĂ¶nigseggwald;Baden-WĂĽrttemberg;DE
+20001641;Felisa;Nitzscher;;žena;15.49.1962;83329;Waging am See;Bayern;DE
+20002833;Welf;Johannesmeyer;;muž;15.49.2005;27570;Bremerhaven;Bremen;DE
+20004461;Shereen;Woltermann;;žena;15.50.1921;34260;Kaufungen;Hessen;DE
+20008735;Mourice;Mattheus;;muž;15.50.1928;92521;Schwarzenfeld;Bayern;DE
+20000082;Darleen;Barg;;žena;15.50.1932;21385;Oldendorf (Luhe);Niedersachsen;DE
+20001300;Manar;Hinzke;;muž;15.50.1940;69436;SchĂ¶nbrunn;Baden-WĂĽrttemberg;DE
+20002877;Ă–zay;Halfinger;;muž;15.50.1946;45889;Gelsenkirchen;Nordrhein-Westfalen;DE
+20000871;Ann;Hardtmann;;žena;15.50.1962;86919;Utting am Ammersee;Bayern;DE
+20001236;Yu-Jin;Helmeke;;žena;15.50.1985;67308;Niefernheim-Zellertal;Rheinland-Pfalz;DE
+20003768;Selay;Kastner;;žena;15.51.1922;66871;Ehweiler;Rheinland-Pfalz;DE
+20002033;ViacheslaviÄŤ;Ulreich;;muž;15.51.1946;6408;Aderstedt;Sachsen-Anhalt;DE
+20002692;Olympia;GraĂźkemper;;žena;15.51.1950;6526;Wippra;Sachsen-Anhalt;DE
+20009940;Mino;WeyĂźer;;žena;15.51.1964;37345;Steinrode;ThĂĽringen;DE
+20003378;Thao-Alea;Laurentsen;;žena;15.51.1995;77716;Hofstetten;Baden-WĂĽrttemberg;DE
+20007973;Nehir;Hlava;;muž;15.52.1921;26529;Upgant-Schott;Niedersachsen;DE
+20006430;Aniik;Scherper;;muž;15.52.1944;25376;Borsfleth;Schleswig-Holstein;DE
+20009845;Tahira;BalĂź;;žena;15.52.1985;37216;Witzenhausen;Hessen;DE
+20004518;Jakob-Luis;Proebstel;;muž;15.52.1988;25712;Hochdonn;Schleswig-Holstein;DE
+20004353;Saad;Schwalbe;;muž;15.52.2006;4509;Delitzsch;Sachsen;DE
+20006539;Chimkasi;Ă–hlhorn;;žena;15.52.2008;31691;Seggebruch Schierneichen-Deinsen;Niedersachsen;DE
+20004066;Klea;WiĂźkamp;;žena;15.53.1930;55494;MĂ¶rschbach;Rheinland-Pfalz;DE
+20008315;Takumi;Mermertas;;muž;15.53.1941;58332;Schwelm;Nordrhein-Westfalen;DE
+20000298;Jannic;Ahlfs;;muž;15.53.1949;66484;Dietrichingen;Rheinland-Pfalz;DE
+20000062;David-Samson;Weisbrot;;muž;15.53.1950;29584;Himbergen;Niedersachsen;DE
+20009094;Nilian;Pfannenschmidt;;žena;15.53.1957;96484;Meeder;Bayern;DE
+20003962;CĂ¤sar;Hilweg;;muž;15.53.1964;25764;ReinsbĂĽttel;Schleswig-Holstein;DE
+20002688;Daliyah-Shahira;Krawieczek;;žena;15.53.1967;85445;Oberding;Bayern;DE
+20005430;Taip;Schnellinger;;muž;15.53.1970;9322;Penig;Sachsen;DE
+20003779;Godiva-AmĂ©lie;Bergschmidt;;žena;15.53.1983;86502;Laugna;Bayern;DE
+20001494;Čiyar;Achtermann;;muž;15.54.1978;48369;Saerbeck;Nordrhein-Westfalen;DE
+20004391;Annika;Chmielowska;;žena;15.55.1934;67822;Oberhausen an der Appel;Rheinland-Pfalz;DE
+20000311;AmĂ©n;Schafbauer;;muž;15.55.1951;79713;Bad SĂ¤ckingen;Baden-WĂĽrttemberg;DE
+20004764;Caroline;GresskĂ¤mper;;žena;15.55.1953;53539;Bodenbach;Rheinland-Pfalz;DE
+20003522;Erikova;Torschmied;;žena;15.56.1922;74549;Wolpertshausen;Baden-WĂĽrttemberg;DE
+20002755;Akimasa;Binzel;;muž;15.56.1958;84100;Niederaichbach;Bayern;DE
+20003947;Fosu;Stoeke;;muž;15.56.1961;6347;FriedeburgerhĂĽtte;Sachsen-Anhalt;DE
+20009177;Nilan;Herschbach;;muž;15.56.1966;22605;Hamburg Bahrenfeld;Hamburg;DE
+20004127;Melahat;Bajohr;;žena;15.56.1989;6780;SpĂ¶ren;Sachsen-Anhalt;DE
+20007939;Ilyan;Tezlow;;muž;15.56.1992;16269;Wriezen;Brandenburg;DE
+20002268;Davorin;Thibaud;;muž;15.56.2009;27446;Deinstedt;Niedersachsen;DE
+20005409;Zori;Peheim;;žena;15.57.1922;39599;KĂ¤then;Sachsen-Anhalt;DE
+20004069;Phill;Wernli;;muž;15.57.1951;8371;Glauchau;Sachsen;DE
+20001999;Tumusiime;Karstaedt;;žena;15.57.1955;16348;Ruhlsdorf;Brandenburg;DE
+20002816;Arfa;DrockenmĂĽller;;žena;15.58.1925;7426;Bechstedt;ThĂĽringen;DE
+20000411;Aseye;BarthelmĂ¤;;žena;15.58.1932;89350;DĂĽrrlauingen;Bayern;DE
+20002399;Saeed;Hofherr;;muž;15.58.1949;24790;Rade bei Rendsburg;Schleswig-Holstein;DE
+20005722;Milija;SchĂ¤ncke;;muž;15.58.1954;96486;Lautertal;Bayern;DE
+20006204;Meyar;Bucher;;žena;15.58.1980;21787;Oberndorf;Niedersachsen;DE
+20000109;Pilvi;Aybar;;žena;15.59.1921;56204;Hillscheid;Rheinland-Pfalz;DE
+20003826;Sulfikar;Starkmann;;muž;15.59.1934;16909;Heiligengrabe Grabow bei Blumenthal;Brandenburg;DE
+20005777;DmitryeviÄŤ;Wietzorrek;;muž;15.59.1940;20144;Hamburg Rotherbaum;Hamburg;DE
+20004079;Spyridon;Wekesser;;muž;15.59.1948;67127;RĂ¶dersheim-Gronau;Rheinland-Pfalz;DE
+20006633;Bruno;Behrbom;;muž;15.59.1956;8321;Zschorlau;Sachsen;DE
+20005293;Emani;Brenten;;žena;15.59.1960;97288;Theilheim;Bayern;DE
+20000255;Alkan;Taskesen;;muž;15.59.1993;55765;Rimsberg;Rheinland-Pfalz;DE
+20006220;Sefika;KnackfuĂź;;žena;15.59.1996;89446;Ziertheim;Bayern;DE
+20007287;Blake;Christl;;muž;15.59.2005;47551;Bedburg-Hau;Nordrhein-Westfalen;DE
+20009927;Channa;Andre;;žena;16.00.1924;6279;FarnstĂ¤dt;Sachsen-Anhalt;DE
+20004973;Mira;GrĂĽnhut;;žena;16.00.1925;40211;DĂĽsseldorf;Nordrhein-Westfalen;DE
+20007397;Alve;Sternkicker;;muž;16.00.1936;93164;Brunn;Bayern;DE
+20002540;Raza;SchĂ¤uble;;muž;16.00.1977;9633;HalsbrĂĽcke;Sachsen;DE
+20006900;Natali;Schimetscheck;;muž;16.13.1966;18196;Damm;Mecklenburg-Vorpommern;DE
+20005307;Jigyasa;KĂ¶lbli;;žena;16.13.1974;57539;HĂ¶vels;Rheinland-Pfalz;DE
+20004280;Zeynep;FĂĽrstberger;;žena;16.13.1999;91320;Ebermannstadt;Bayern;DE
+20008267;IsaĂ­as;Anton;;muž;16.13.2003;24794;Borgstedt;Schleswig-Holstein;DE
+20001913;Naaman;Katschmarek;;muž;16.14.1921;69245;Bammental;Baden-WĂĽrttemberg;DE
+20001810;Mian;Breithut;;muž;16.14.1926;96523;Steinach;ThĂĽringen;DE
+20006866;Ody;KoeĂźler;;muž;16.14.1959;57629;Atzelgift;Rheinland-Pfalz;DE
+20006944;Jamison;Lampert;;muž;16.14.1972;4889;Schildau;Sachsen;DE
+20001075;Brand;Roesl;;muž;16.15.1928;20354;Hamburg Rotherbaum;Hamburg;DE
+20006674;Arielle;Jakobeit;;žena;16.15.1948;48496;Hopsten;Nordrhein-Westfalen;DE
+20003813;Hemera;Wolze;;žena;16.15.1952;24109;Melsdorf;Schleswig-Holstein;DE
+20006310;BeyazÄ±t;KĂĽhlenwind;;muž;16.15.1957;6688;GroĂźkorbetha;Sachsen-Anhalt;DE
+20000211;Dumebi;SĂ¶ltenfuhs;;žena;16.15.2000;88367;Hohentengen;Baden-WĂĽrttemberg;DE
+20002146;Marika;Rasmussen;;žena;16.15.2005;56412;Untershausen;Rheinland-Pfalz;DE
+20002192;Leonti;Darcan;;muž;16.16.1922;93476;Blaibach;Bayern;DE
+20002975;Merdian;BĂ¤uerle;;muž;16.16.1924;56283;Mermuth;Rheinland-Pfalz;DE
+20009398;Lilli;Englmayer;;žena;16.16.1943;73575;Leinzell;Baden-WĂĽrttemberg;DE
+20000674;Alyanna;CloĂźe;;žena;16.16.1962;54595;Gondenbrett;Rheinland-Pfalz;DE
+20001436;Tuan;Groenefeld;;muž;16.16.1966;17237;Userin;Mecklenburg-Vorpommern;DE
+20006194;Yllgon;Lorbeer;;muž;16.16.1972;91599;Dentlein am Forst;Bayern;DE
+20000377;Stern;von Runkel;;žena;16.16.1987;29496;Waddeweitz Maddau;Niedersachsen;DE
+20002612;Mar;Hensse;;žena;16.16.1998;64711;Erbach;Hessen;DE
+20008931;Maike;Malcherrek;;žena;16.16.2004;34590;Wabern;Hessen;DE
+20003448;Bonta;Strakerjahn;;žena;16.17.1927;97234;Reichenberg;Bayern;DE
+20009968;Soraja;Kirchenmajer;;žena;16.17.1940;29359;Habighorst;Niedersachsen;DE
+20002997;Bartlomiej;Beers;;muž;16.17.1956;55232;Alzey;Rheinland-Pfalz;DE
+20002394;Marie;Biernath;;muž;16.17.1999;97234;Reichenberg;Bayern;DE
+20005575;Ishini;Pfefferlein;;žena;16.17.2004;2681;Kirschau;Sachsen;DE
+20000383;Jordi;Safak;;muž;16.17.2008;6347;FriedeburgerhĂĽtte;Sachsen-Anhalt;DE
+20004294;Eleni;Kaltschmid;;žena;16.18.1926;31134;Hildesheim;Niedersachsen;DE
+20008595;Quetsche;Wrublewsky;;žena;16.18.1930;86447;Aindling;Bayern;DE
+20004909;Nanuk;Koopmann;;muž;16.18.1962;53179;Bonn;Nordrhein-Westfalen;DE
+20008781;Roderich;Lytvynov;;muž;16.18.1971;2747;Berthelsdorf;Sachsen;DE
+20001678;Lienard;Roedel;;muž;16.18.2005;19205;RĂ¶gnitz;Mecklenburg-Vorpommern;DE
+20001134;Korneel;GĂĽngĂ¶rmĂĽs;;muž;16.19.1925;57586;Weitefeld;Rheinland-Pfalz;DE
+20007948;Basille;MattmĂĽller;;žena;16.19.1931;84184;Tiefenbach;Bayern;DE
+20006497;Justas;Esposito;;muž;16.19.1944;99096;Erfurt;ThĂĽringen;DE
+20001485;Olouwafoumi;Karacelik;;žena;16.19.1946;17309;SchĂ¶nwalde;Mecklenburg-Vorpommern;DE
+20007221;Detlef;Heidenrich;;muž;16.19.1957;4874;Belgern;Sachsen;DE
+20002888;Friedalotte;Rassmuss;;žena;16.19.1964;79215;Elzach;Baden-WĂĽrttemberg;DE
+20004984;Darek;Scherfchen;;muž;16.19.1970;25767;OffenbĂĽttel;Schleswig-Holstein;DE
+20003081;Nefeli;Witzleb;;žena;16.19.1971;49681;Garrel;Niedersachsen;DE
+20002453;Mallory;Gehrlicher;;žena;16.19.1978;25368;Kiebitzreihe;Schleswig-Holstein;DE
+20008791;Ehi;Bientzle;;muž;16.19.1986;98617;Henneberg;ThĂĽringen;DE
+20008066;Harvir;Lieble;;muž;16.19.2003;31737;Rinteln Todenmann;Niedersachsen;DE
+20005302;Mihrimah;Strassmann;;žena;16.20.1928;73105;DĂĽrnau;Baden-WĂĽrttemberg;DE
+20003106;Kristoff;Tkotsch;;muž;16.20.1956;24861;Bergenhusen;Schleswig-Holstein;DE
+20006810;Marela;Henzelin;;žena;16.20.1959;54552;StrotzbĂĽsch;Rheinland-Pfalz;DE
+20006639;Heluandes;Oechslin;;muž;16.20.1960;22457;Hamburg Niendorf;Hamburg;DE
+20006297;Henner;SchĂ¶nekĂ¤s;;muž;16.20.1963;4860;PflĂĽckuff;Sachsen;DE
+20002444;Saad;StraĂźheim;;muž;16.20.1984;97255;Gelchsheim;Bayern;DE
+20004498;Tajana;Buhk;;žena;16.21.1937;28199;Bremen;Bremen;DE
+20008317;Lupa;Rybar;;žena;16.21.1947;54316;Franzenheim;Rheinland-Pfalz;DE
+20006736;TuÄźce;Niclaus;;žena;16.22.1920;19217;BĂĽlow;Mecklenburg-Vorpommern;DE
+20008913;Lotta-Lilou;Fogt;;žena;16.22.1937;9212;Limbach-Oberfrohna;Sachsen;DE
+20007531;Lorelei;Kaufels;;žena;16.22.1938;9618;GroĂźhartmannsdorf;Sachsen;DE
+20004901;MikhayiloviÄŤ;Saegebrecht;;muž;16.22.1941;6528;GroĂźleinungen;Sachsen-Anhalt;DE
+20007692;Runa;Willinck;;žena;16.22.1955;26345;Bockhorn Ellenserdammersiel;Niedersachsen;DE
+20009135;Suhejla;Bausewein;;žena;16.22.1988;4129;Leipzig;Sachsen;DE
+20007786;Yaron;Hinzman;;muž;16.22.2002;17375;Grambin;Mecklenburg-Vorpommern;DE
+20005569;Denisovna;Brunetti;;žena;16.23.1939;15848;Friedland Klein Muckrow;Brandenburg;DE
+20000527;Mia-Emilia;Andruleit;;žena;16.23.1940;84564;Oberbergkirchen;Bayern;DE
+20009500;Mahizer;Thebuss;;žena;16.23.1950;19300;Zierzow;Mecklenburg-Vorpommern;DE
+20007846;GĂĽldane;Wizoreck;;žena;16.23.1959;72291;Betzweiler-WĂ¤lde;Baden-WĂĽrttemberg;DE
+20000796;Lieske;Schmedding;;žena;16.23.1985;6110;Halle;Sachsen-Anhalt;DE
+20006551;Andrasch;Neumann;;muž;16.23.1990;63930;Neunkirchen;Bayern;DE
+20002559;Zayne;Schniderjan;;muž;16.23.2003;86477;Adelsried;Bayern;DE
+20005788;Altair;Clawsing;;muž;16.23.2005;74424;BĂĽhlertann;Baden-WĂĽrttemberg;DE
+20004019;Casandra;Zurlinden;;žena;16.23.2006;66907;Rehweiler;Rheinland-Pfalz;DE
+20008503;Rayyan;Tkatchenko;;muž;16.24.1933;90587;Tuchenbach;Bayern;DE
+20008361;Tiah;Widekind;;žena;16.24.1954;26624;SĂĽdbrookmerland Forlitz-Blaukirchen;Niedersachsen;DE
+20002790;Avelino;Habersaat;;muž;16.24.1986;16845;Sieversdorf-Hohenofen;Brandenburg;DE
+20004078;Raha;Fritzsch;;žena;16.24.1989;37699;FĂĽrstenberg;Niedersachsen;DE
+20009085;Julian-Paul;HĂ¶rtling;;muž;16.25.1953;79685;HĂ¤g-Ehrsberg;Baden-WĂĽrttemberg;DE
+20002107;Hellen;Budack;;žena;16.25.1984;37217;Witzenhausen;Hessen;DE
+20009430;Darlynn;Mohnsahm;;žena;16.25.2009;25997;HĂ¶rnum;Schleswig-Holstein;DE
+20002288;Macky;Yozgat;;muž;16.26.1976;41466;Neuss;Nordrhein-Westfalen;DE
+20006768;Alani;KlĂ¶Ăź;;žena;16.27.1935;67744;Homberg;Rheinland-Pfalz;DE
+20000265;Dariev;Ernstmeyer;;muž;16.27.1952;89185;HĂĽttisheim;Baden-WĂĽrttemberg;DE
+20007008;ZerĹźin;Akkaya;;žena;16.27.1966;6917;Jessen (Elster) Leipa;Sachsen-Anhalt;DE
+20002962;Walid;Linder;;žena;16.27.1968;3205;Lipten;Brandenburg;DE
+20001239;Thunyarut;Tinnemeier;;žena;16.27.1970;89040;Ulm;Baden-WĂĽrttemberg;DE
+20002258;Jenny-Vivien;ThomĂ©;;žena;16.27.2000;54518;Arenrath;Rheinland-Pfalz;DE
+20009696;Mladenova;Thiessel;;muž;16.28.1920;52477;Alsdorf;Nordrhein-Westfalen;DE
+20002142;Khalil-Abderrahmane;Moenck;;muž;16.28.1936;34121;Kassel;Hessen;DE
+20004599;Delnaz;Musil;;žena;16.28.1943;54472;Longkamp;Rheinland-Pfalz;DE
+20000487;Finn-Leon;Pfeffer;;muž;16.28.1953;36103;Flieden;Hessen;DE
+20000089;ÄÄng;Wedekindt;;muž;16.28.1955;23847;Meddewade;Schleswig-Holstein;DE
+20001402;Davey;Freercks;;muž;16.28.1974;67823;Obermoschel;Rheinland-Pfalz;DE
+20006839;AndrĂˇs;Fitzen;;muž;16.28.1975;24392;Brebel;Schleswig-Holstein;DE
+20005725;Duha;Scharschmidt;;žena;16.29.1937;21407;Deutsch Evern;Niedersachsen;DE
+20004806;Stamov;Katzmarski;;muž;16.29.1938;88145;Opfenbach;Bayern;DE
+20001974;Stellan;Krumschmid;;muž;16.29.1949;71543;WĂĽstenrot;Baden-WĂĽrttemberg;DE
+20000983;Ayrton;Knoller;;muž;16.29.1952;37345;Neustadt;ThĂĽringen;DE
+20009740;Putra;Kurbgeweit;;muž;16.29.1955;49356;Diepholz;Niedersachsen;DE
+20000271;Jia-Yan;Oehlerich;;muž;16.29.1972;66127;SaarbrĂĽcken;Saarland;DE
+20003985;Fanni;Frueauff;;žena;16.30.1931;8393;Meerane;Sachsen;DE
+20009481;Malini;Clasmeyer;;žena;16.30.1933;19067;Rubow;Mecklenburg-Vorpommern;DE
+20005107;Lilani;Kowalewitsch;;žena;16.30.1939;17099;Datzetal;Mecklenburg-Vorpommern;DE
+20009771;Nawal;Mukkenfuss;;žena;16.30.1946;4509;Zschortau;Sachsen;DE
+20003174;Louie;OberhĂ¤nsli;;žena;16.30.1960;88279;Amtzell;Baden-WĂĽrttemberg;DE
+20000664;Arne;Sitt;;muž;16.31.1929;42275;Wuppertal;Nordrhein-Westfalen;DE
+20006238;Tiana;Meyncke;;žena;16.31.1948;6809;Petersroda;Sachsen-Anhalt;DE
+20002406;Atman;Hebrok;;muž;16.31.1950;12055;Berlin;Berlin;DE
+20003956;Lyen;Hieronymi;;muž;16.31.1966;54340;Riol;Rheinland-Pfalz;DE
+20007111;Ana-Sophia;Siegerth;;žena;16.31.1980;90482;NĂĽrnberg;Bayern;DE
+20008250;Princessa;Collinet;;žena;16.31.2005;53123;Bonn;Nordrhein-Westfalen;DE
+20009304;Jenessa;Lindemaier;;žena;16.32.1956;89129;Nerenstetten;Baden-WĂĽrttemberg;DE
+20001200;Assia;Rudolphy;;žena;16.32.1956;80469;MĂĽnchen;Bayern;DE
+20009413;Rosabella;Ulucay;;žena;16.33.1942;15370;Petershagen-Eggersdorf;Brandenburg;DE
+20002870;Wubshet;Branz;;žena;16.33.1951;6647;Saubach;Sachsen-Anhalt;DE
+20008024;Amany;Viechtel;;žena;16.34.1927;66894;Langwieden;Rheinland-Pfalz;DE
+20007058;Bas;Pirrmann;;muž;16.34.1929;92263;Ebermannsdorf;Bayern;DE
+20002274;PatriĹŁiea;Tepecik;;žena;16.34.1937;83365;NuĂźdorf;Bayern;DE
+20009363;Mex;Bete;;muž;16.34.1940;78256;SteiĂźlingen;Baden-WĂĽrttemberg;DE
+20004590;Nilla;Anton;;žena;16.34.1948;70174;Stuttgart Stuttgart-Mitte;Baden-WĂĽrttemberg;DE
+20004526;Hadzera;Baeumle;;žena;16.34.1972;33605;Bielefeld;Nordrhein-Westfalen;DE
+20001918;Steffen;Konzemann;;muž;16.34.1990;7646;Rattelsdorf;ThĂĽringen;DE
+20002983;Marusev;Kitel;;muž;16.34.1994;20149;Hamburg;Hamburg;DE
+20000696;Valentinova;Seidenstecher;;žena;16.35.1922;67259;Heuchelheim bei Frankenthal;Rheinland-Pfalz;DE
+20008264;Äan;Betzoldt;;žena;16.35.1965;6528;Rotha;Sachsen-Anhalt;DE
+20004726;TherĂ©se;Doepfer;;žena;16.35.1968;55595;Burgsponheim;Rheinland-Pfalz;DE
+20002449;Yerdenovna;Romeika;;žena;16.35.1996;27474;Cuxhaven;Niedersachsen;DE
+20006761;Daviti;Lieberts;;žena;16.36.1922;79423;Heitersheim;Baden-WĂĽrttemberg;DE
+20007642;Thayler;Sznayder;;muž;16.36.1923;29468;Bergen (Dumme) WĂ¶hningen;Niedersachsen;DE
+20003749;Yoshua-Damian;Kuchenbecker;;muž;16.36.1983;29451;Dannenberg (Elbe) PredĂ¶hlsau;Niedersachsen;DE
+20005992;Bisan;Weldher;;žena;16.36.1987;45661;Recklinghausen;Nordrhein-Westfalen;DE
+20002143;Othman;Unterkoetter;;muž;16.36.2006;39291;Ziepel;Sachsen-Anhalt;DE
+20009824;Sieghild;Mukenhirn;;žena;16.37.1939;56355;Bettendorf;Rheinland-Pfalz;DE
+20002726;Naveen;Creutzer;;žena;16.37.1989;29473;GĂ¶hrde Kollase;Niedersachsen;DE
+20007677;Alif;Biernot;;muž;16.37.1992;14641;Ribbeck;Brandenburg;DE
+20000263;Xiya;Kirchmair;;žena;16.37.1997;23881;Koberg;Schleswig-Holstein;DE
+20001967;Ashton;BrĂĽderle;;muž;16.38.1922;25878;Seeth;Schleswig-Holstein;DE
+20000293;Ann-Lyane;Biyikli;;žena;16.38.1930;14641;Wustermark;Brandenburg;DE
+20006328;Pradyumn;Pfalzgraf;;muž;16.38.1936;98669;Veilsdorf;ThĂĽringen;DE
+20007687;Loan;Kovac;;muž;16.38.1965;78606;Seitingen-Oberflacht;Baden-WĂĽrttemberg;DE
+20009288;Osazee;Johnson;;muž;16.38.1985;85131;Pollenfeld;Bayern;DE
+20000326;Lucretia;Czarnecki;;žena;16.38.2005;88167;RĂ¶thenbach (AllgĂ¤u);Bayern;DE
+20006537;Lekysha;Wolters;;žena;16.38.2007;31032;Betheln;Niedersachsen;DE
+20005885;Emin-Noah;Haintze;;muž;16.39.1952;23845;Oering;Schleswig-Holstein;DE
+20009832;Laure;Kerstner;;žena;16.39.1975;7973;Greiz;ThĂĽringen;DE
+20001672;EnĂ©;Vahrenkamf;;žena;16.39.1996;54636;Biersdorf;Rheinland-Pfalz;DE
+20002325;Silvestarova;Siebald;;žena;16.39.2001;29581;Gerdau;Niedersachsen;DE
+20009653;Swift;Kwiatkowsky;;muž;16.39.2002;55469;Bergenhausen;Rheinland-Pfalz;DE
+20003452;Aad-Bo;Herdecke;;muž;16.40.1950;79341;Kenzingen;Baden-WĂĽrttemberg;DE
+20009327;Dijle;Backmeister;;žena;16.40.1955;96123;Litzendorf;Bayern;DE
+20002930;Ceyla;Hardwig;;žena;16.40.1966;71277;Rutesheim;Baden-WĂĽrttemberg;DE
+20006313;Hasanov;Wertz;;muž;16.40.1973;90441;NĂĽrnberg;Bayern;DE
+20006850;Marvins;Hainzlmayr;;muž;16.40.1992;60388;Frankfurt am Main;Hessen;DE
+20008916;Hevin;Marterstock;;žena;16.40.1999;67280;Quirnheim;Rheinland-Pfalz;DE
+20006240;Ahmed-Cherif;Kisacik;;muž;16.40.2005;38556;Bokensdorf;Niedersachsen;DE
+20009675;Alysa;Dietzmeyer;;žena;16.41.1930;90443;NĂĽrnberg;Bayern;DE
+20000348;Eleah;Nachbar;;žena;16.41.1950;83671;Benediktbeuern;Bayern;DE
+20004941;Vincent-Constantin;Behme;;muž;16.41.1956;71394;Kernen im Remstal;Baden-WĂĽrttemberg;DE
+20002919;Malte;Kleineke;;muž;16.41.1966;96155;Buttenheim;Bayern;DE
+20006741;Skyler-Horatio;Reineke;;muž;16.41.2004;31592;Stolzenau Holzhausen;Niedersachsen;DE
+20008700;Idia;Pavlowski;;muž;16.42.1955;26419;Schortens MiddelsfĂ¤hr;Niedersachsen;DE
+20005178;Aleksej;Erdem;;muž;16.42.1992;66882;HĂĽtschenhausen;Rheinland-Pfalz;DE
+20001242;Wioletta;Kurschat;;žena;16.43.1921;24986;RĂĽde;Schleswig-Holstein;DE
+20004219;Mathies;Hansjakob;;muž;16.43.1933;56858;Grenderich;Rheinland-Pfalz;DE
+20005851;AgnĂ¨s;Surbaeck;;žena;16.43.1947;94265;Patersdorf;Bayern;DE
+20004945;Emilia-Leni;Graesser;;žena;16.43.1952;6268;GrockstĂ¤dt;Sachsen-Anhalt;DE
+20006501;Themistoklis;Thywissen;;muž;16.43.1953;7580;Linda bei Weida;ThĂĽringen;DE
+20005649;Ain;Francois;;žena;16.43.1979;97285;Tauberrettersheim;Bayern;DE
+20001931;Gideon;Petrovic;;muž;16.43.1993;6773;Kemberg;Sachsen-Anhalt;DE
+20007965;Dones;Helmbold;;muž;16.43.1994;88368;Bergatreute;Baden-WĂĽrttemberg;DE
+20003694;Ardita;Helmschmidt;;žena;16.43.2005;41539;Dormagen;Nordrhein-Westfalen;DE
+20005342;Yakovlevna;Betzle;;žena;16.44.1927;72356;Dautmergen;Baden-WĂĽrttemberg;DE
+20001895;Lilit;Daenzer;;žena;16.44.1954;15913;Laasow;Brandenburg;DE
+20004947;Julen;GĂ¶ddecke;;žena;16.44.1977;31737;Rinteln Engern;Niedersachsen;DE
+20006129;Galime;von Manz;;žena;16.44.1979;66887;Rutsweiler am Glan;Rheinland-Pfalz;DE
+20000503;Zeki;Wiesenmeier;;muž;16.44.1987;24211;KĂĽhren;Schleswig-Holstein;DE
+20005921;Titania;Hefner;;žena;16.44.1991;67591;MĂ¶rstadt;Rheinland-Pfalz;DE
+20007351;VĂ˘n;Grewe;;žena;16.44.1994;79802;Dettighofen;Baden-WĂĽrttemberg;DE
+20008517;Hussain;GĂ¤nsshirt;;žena;16.45.1929;56379;Obernhof;Rheinland-Pfalz;DE
+20004969;Eilhard;Gruenheit;;muž;16.45.1930;76149;Karlsruhe;Baden-WĂĽrttemberg;DE
+20008521;Arzu;BreenkĂ¶tter;;žena;16.45.1935;56377;Misselberg;Rheinland-Pfalz;DE
+20000183;Fethi;Schubardt;;muž;16.45.1942;99869;RemstĂ¤dt;ThĂĽringen;DE
+20006428;Feim;Sitzman;;žena;16.45.1949;97618;Wollbach;Bayern;DE
+20009465;Mia-Louisa;Werndel;;žena;16.45.1961;79801;Hohentengen am Hochrhein;Baden-WĂĽrttemberg;DE
+20006625;Xiaoxin;Weissmantel;;žena;16.45.2007;37647;Vahlbruch;Niedersachsen;DE
+20008476;Daud;Wend;;muž;16.45.2009;33100;Paderborn;Nordrhein-Westfalen;DE
+20001896;Eve-Marleen;KlingĂ¶hrl;;žena;16.46.1985;6333;Sylda;Sachsen-Anhalt;DE
+20007612;Kristina;Ondrich;;žena;16.46.2004;7381;Paska;ThĂĽringen;DE
+20000472;Max-Henry;DĂ¶rre;;muž;16.46.2004;37308;Sickerode;ThĂĽringen;DE
+20004989;Lois;Woizick;;muž;16.46.2008;27245;Kirchdorf;Niedersachsen;DE
+20001355;Waswa;Niebuhr;;muž;16.47.1923;34289;Zierenberg;Hessen;DE
+20009174;MoisĂ©s;Gruenler;;muž;16.47.1950;91486;Uehlfeld;Bayern;DE
+20001326;Yacine-Klaus;Krafft;;muž;16.47.1954;1683;Nossen;Sachsen;DE
+20007652;Luqmanulhakim;Mikolayczyk;;muž;16.47.1959;15345;Zinndorf;Brandenburg;DE
+20005877;Genevieve;Mohrkamm;;žena;16.47.1959;27251;Scholen;Niedersachsen;DE
+20006832;Maeveen;Langmeier;;žena;16.47.2006;56291;Lingerhahn;Rheinland-Pfalz;DE
+20004236;Mia-Mathilda;FrĂ¤nkel;;žena;16.48.1922;15328;Zechin Friedrichsaue;Brandenburg;DE
+20004788;Wenyue;SchĂ¤per;;muž;16.48.1927;88316;Isny im AllgĂ¤u;Baden-WĂĽrttemberg;DE
+20000066;Jabir;Paezoldt;;muž;16.48.1947;53518;Wimbach;Rheinland-Pfalz;DE
+20001653;Aaiyscha;Ă–verdieck;;žena;16.48.1951;66687;Wadern;Saarland;DE
+20002464;Ullrich;Hubener;;muž;16.48.1979;69120;Heidelberg;Baden-WĂĽrttemberg;DE
+20001959;Zhao;SchrĂ¶ers;;žena;16.48.1981;89607;Emerkingen;Baden-WĂĽrttemberg;DE
+20006983;Jannes-Adrian;TĂ¶nniĂźen;;muž;16.48.1982;56651;NiederdĂĽrenbach;Rheinland-Pfalz;DE
+20004666;Yorik;StrĂ¶hle;;muž;16.48.1996;83483;Bischofswiesen;Bayern;DE
+20007144;Alyenna;Oppel;;žena;16.49.1962;29482;KĂĽsten Tolstefanz;Niedersachsen;DE
+20009735;Mandipntume;Ayer;;žena;16.49.1978;56355;Bettendorf;Rheinland-Pfalz;DE
+20000723;Cengizhan;Hummler;;muž;16.49.1991;3249;Zeckerin;Brandenburg;DE
+20007571;Clarissa;Klessing;;žena;16.49.2009;19273;Neuhaus;Niedersachsen;DE
+20003176;Samih;Roggenbrodt;;muž;16.50.1921;59439;Holzwickede;Nordrhein-Westfalen;DE
+20007090;Joonyi;PĂ¶hm;;žena;16.50.1954;76835;Hainfeld;Rheinland-Pfalz;DE
+20002231;Jeannina;Karstens;;žena;16.50.1957;16909;Wittstock/Dosse Dranse;Brandenburg;DE
+20007173;Felia;Hanhsen;;žena;16.50.1958;38116;Braunschweig;Niedersachsen;DE
+20003226;Nikolaj;Balschunn;;muž;16.50.1960;30982;Pattensen;Niedersachsen;DE
+20006969;Florentin;Mackowski;;muž;16.50.1962;31655;Stadthagen Reinsen-Remeringhausen;Niedersachsen;DE
+20003464;Wankiko;Taskesen;;žena;16.50.1983;6268;WeiĂźenschirmbach;Sachsen-Anhalt;DE
+20001529;Jesco;KrĂ¤utter;;muž;16.50.2001;44581;Castrop-Rauxel;Nordrhein-Westfalen;DE
+20006445;Elya;Dieterle;;žena;16.51.1923;99834;LauchrĂ¶den;ThĂĽringen;DE
+20007553;Luca-Emilio;Kreittmayer;;muž;16.51.1925;24241;SĂ¶ren;Schleswig-Holstein;DE
+20003107;Evangeline;Ulmann;;žena;16.51.1925;73329;Kuchen;Baden-WĂĽrttemberg;DE
+20002686;Jonas;PekgĂ¶z;;muž;16.51.1935;66130;SaarbrĂĽcken;Saarland;DE
+20002347;Olufemi;Fleischfresser;;muž;16.51.1962;97711;Thundorf in Unterfranken;Bayern;DE
+20000365;Mulanda;Kreittmayr;;muž;16.51.1996;16278;Mark Landin;Brandenburg;DE
+20007699;ZsĂłfia;Herbrechtsmeyer;;žena;16.52.1934;98553;Schleusingen;ThĂĽringen;DE
+20003574;Saim;Jannssen;;muž;16.52.1939;56355;Hunzel;Rheinland-Pfalz;DE
+20007092;Kamau;Hoefel;;muž;16.52.1986;39387;Oschersleben;Sachsen-Anhalt;DE
+20001110;Zelina;Neyman;;žena;16.52.1990;16259;Neuenhagen;Brandenburg;DE
+20007827;Clotilde;Siedelmann;;žena;16.52.2006;54619;Eschfeld;Rheinland-Pfalz;DE
+20008675;Ferran;Worobej;;muž;16.52.2009;99195;Markvippach;ThĂĽringen;DE
+20008640;Zacchary-Nathan;Erlach;;muž;16.53.1929;19071;Grambow;Mecklenburg-Vorpommern;DE
+20005887;Aser;Hertle;;muž;16.53.1940;39606;Erxleben;Sachsen-Anhalt;DE
+20003134;Maged;Karenbauer;;muž;16.53.1952;44628;Herne;Nordrhein-Westfalen;DE
+20008311;Michal;Grebner;;muž;16.53.1960;84384;Wittibreut;Bayern;DE
+20004473;HiĂŞĆ°;Karstett;;muž;16.53.1984;89192;Rammingen;Baden-WĂĽrttemberg;DE
+20007693;Akira;Thoennissen;;muž;16.53.1995;12587;Berlin;Berlin;DE
+20009283;Zachary;Gettkandt;;muž;16.53.2008;53426;Schalkenbach;Rheinland-Pfalz;DE
+20003218;Tico;Stumpfs;;muž;16.54.1921;1609;Nauwalde;Sachsen;DE
+20002829;BeyazÄ±t;Hartings;;muž;16.54.1932;39387;Altbrandsleben;Sachsen-Anhalt;DE
+20000384;Scipio;Josenhans;;muž;16.54.1950;73732;Esslingen am Neckar;Baden-WĂĽrttemberg;DE
+20008612;Marie-Luise;GrĂĽnwald;;žena;16.54.1953;26901;Lorup;Niedersachsen;DE
+20006023;Rozsa;Pohlchristoph;;žena;16.54.1962;7580;Ronneburg;ThĂĽringen;DE
+20006398;Valentynivna;Hanzelmann;;žena;16.54.1970;26316;Varel Seghorn;Niedersachsen;DE
+20000820;Dilem;Stromeier;;žena;16.54.1970;73485;Unterschneidheim;Baden-WĂĽrttemberg;DE
+20005738;ThaĂŻs;SteegmĂĽller;;žena;16.55.1934;6198;Fienstedt;Sachsen-Anhalt;DE
+20009409;Sylwia;Balczuweit;;žena;16.55.1961;6780;SpĂ¶ren;Sachsen-Anhalt;DE
+20001003;Pitt;Beylschmidt;;muž;16.55.1975;29465;Schnega Loitze;Niedersachsen;DE
+20002973;GĂˇbor;Petermichel;;muž;16.55.1998;16909;Wittstock/Dosse GroĂź HaĂźlow;Brandenburg;DE
+20006847;Kinaya;Vox;;žena;16.56.1923;99428;Ottstedt am Berge;ThĂĽringen;DE
+20007369;Istvan;Siekhans;;muž;16.56.1967;91598;Colmberg;Bayern;DE
+20001148;Kazuki;Janczek;;muž;16.56.1969;67169;Kallstadt;Rheinland-Pfalz;DE
+20001590;Marie-Nicole;Sator;;žena;16.57.1922;83684;Tegernsee;Bayern;DE
+20009703;Kala;Goez;;žena;16.57.1930;49497;Mettingen;Nordrhein-Westfalen;DE
+20003295;Sedra;Sohnius;;žena;16.57.1937;83677;Reichersbeuern;Bayern;DE
+20005256;Blanka;Schymitschek;;žena;16.57.1943;14641;GroĂź Behnitz;Brandenburg;DE
+20009479;Roux;Uguz;;žena;16.57.1971;24989;Dollerup;Schleswig-Holstein;DE
+20005555;Takoia;Seydel;;žena;16.57.1980;6333;BrĂ¤unrode;Sachsen-Anhalt;DE
+20001717;Willow;Kolodzijeski;;žena;16.57.1986;31634;Steimbke Steimbke;Niedersachsen;DE
+20008506;Giulia;Altknecht;;žena;16.57.1990;98744;OberweiĂźbach;ThĂĽringen;DE
+20003490;Maja-Maria;Meretick;;žena;16.58.1921;49843;Getelo;Niedersachsen;DE
+20000412;Ajman;BrĂ¤ndlin;;muž;16.58.1926;21073;Hamburg;Hamburg;DE
+20004161;Schayma;Doeppengiesser;;žena;16.58.1940;15537;GrĂĽnheide (Mark) Kagel;Brandenburg;DE
+20007185;Dumitriza;GreidenweiĂź;;žena;16.58.1957;21709;Himmelpforten;Niedersachsen;DE
+20009039;Alice;Niedergesaess;;muž;16.58.1959;98617;Utendorf;ThĂĽringen;DE
+20005677;FinuČ›u;Sznayder;;muž;16.58.1960;85250;AltomĂĽnster;Bayern;DE
+20002490;Amily;KĂ¶hne;;žena;16.58.2002;99438;Troistedt;ThĂĽringen;DE
+20000629;Abdulhaleem;NeubĂ¶ck;;muž;16.58.2005;16866;Kyritz Drewen;Brandenburg;DE
+20000825;Mehmetovna;Kaczmarek;;žena;16.59.1955;6295;Lutherstadt Eisleben;Sachsen-Anhalt;DE
+20001042;Frempomaa;Jourdant;;žena;16.59.1963;53489;Sinzig;Rheinland-Pfalz;DE
+20001219;Mexis;Heinericy;;žena;17.00.1948;38489;Nettgau;Sachsen-Anhalt;DE
+20001201;Kupor;Weinbauer;;žena;17.00.1948;86701;Rohrenfels;Bayern;DE
+20003228;Pailin;Osterbart;;žena;17.00.1985;85122;Hitzhofen;Bayern;DE
+20000111;Bao-Gia;Stengelin;;muž;17.00.1995;23777;Heringsdorf;Schleswig-Holstein;DE
+20001926;Kleo;Tastan;;žena;17.00.2006;54636;HĂĽttingen an der Kyll;Rheinland-Pfalz;DE
+20008715;Dariush;Urbani;;muž;17.13.1953;66894;KrĂ¤henberg;Rheinland-Pfalz;DE
+20009008;Jirina;Kretzschmer;;žena;17.13.1954;15898;Neuzelle MĂ¶biskruge;Brandenburg;DE
+20007928;Viá»‡t;Scharp;;žena;17.13.1954;67808;WĂĽrzweiler;Rheinland-Pfalz;DE
+20008826;Nera;Goto;;žena;17.13.1957;40217;DĂĽsseldorf;Nordrhein-Westfalen;DE
+20000744;Lafei;Rossteuscher;;žena;17.13.1960;2794;Leutersdorf;Sachsen;DE
+20009137;Violeta;Wodarczyk;;žena;17.13.1977;39291;Tryppehna;Sachsen-Anhalt;DE
+20006199;Obiajulum;Eckart;;muž;17.13.1998;3096;Briesen;Brandenburg;DE
+20005897;Namu;Rudolff;;muž;17.13.2008;21079;Hamburg Heimfeld;Hamburg;DE
+20002371;JerĹŤme;FeldmĂĽller;;muž;17.14.1922;6246;Knapendorf;Sachsen-Anhalt;DE
+20000771;Efstratios;FranĂźen;;muž;17.14.1941;76474;Au am Rhein;Baden-WĂĽrttemberg;DE
+20008855;Ĺžeyda;Butterbrot;;žena;17.14.1976;54668;Niederweis;Rheinland-Pfalz;DE
+20006470;Arturius;Jordens;;muž;17.14.1978;16259;Beiersdorf-Freudenberg Freudenberg;Brandenburg;DE
+20001342;Sibylla;Pollog;;žena;17.14.1998;22549;Hamburg Lurup;Hamburg;DE
+20007174;Chelton;Caymaz;;muž;17.14.2004;74927;Eschelbronn;Baden-WĂĽrttemberg;DE
+20006460;Siraphathr;DĂ¶nges;;muž;17.15.1941;56357;StrĂĽth;Rheinland-Pfalz;DE
+20000423;Eliandro;KrĂ¤mmerer;;muž;17.15.1966;39579;Grassau;Sachsen-Anhalt;DE
+20008494;Jillian;Komander;;žena;17.15.1984;96047;Bamberg;Bayern;DE
+20001754;Haeun;Merzweiler;;žena;17.15.1990;35584;Wetzlar;Hessen;DE
+20008229;MĂĽcahit;Hartling;;muž;17.15.2001;38229;Salzgitter Heerte;Niedersachsen;DE
+20004515;Jorune;Hironymus;;žena;17.16.1921;98739;Lichte;ThĂĽringen;DE
+20009326;Correl;Feiertag;;muž;17.16.1927;2747;Berthelsdorf;Sachsen;DE
+20007977;Bao;Poppen;;žena;17.16.1938;7381;DĂ¶britz;ThĂĽringen;DE
+20004838;EnaĂ«l;Sedlack;;muž;17.16.1951;52531;Ăśbach-Palenberg;Nordrhein-Westfalen;DE
+20009349;Antonov;KalbfuĂź;;muž;17.16.1959;97711;MaĂźbach;Bayern;DE
+20000102;Sandrine;WollenschlĂ¤ger;;žena;17.16.1968;19073;Klein Rogahn;Mecklenburg-Vorpommern;DE
+20006623;Kaami;Blazej;;muž;17.17.1960;63579;Freigericht;Hessen;DE
+20009901;Jovo-BeĹˇo;Koene;;muž;17.17.1975;39646;Oebisfelde;Sachsen-Anhalt;DE
+20006874;Floria;Alberts;;žena;17.17.1986;70563;Stuttgart Vaihingen;Baden-WĂĽrttemberg;DE
+20006825;Aarao;Pirmann;;muž;17.18.1920;70180;Stuttgart Stuttgart-Mitte;Baden-WĂĽrttemberg;DE
+20005265;Hillevie;Rothschuh;;žena;17.18.1932;75428;Illingen;Baden-WĂĽrttemberg;DE
+20002649;Lumara;Agsten;;žena;17.18.1945;24395;Stangheck;Schleswig-Holstein;DE
+20000672;Yuma;Niemczik;;muž;17.18.1957;54292;Trier;Rheinland-Pfalz;DE
+20007886;Cole;Prochaska;;muž;17.18.1958;45896;Gelsenkirchen;Nordrhein-Westfalen;DE
+20008968;Hamdan;Horejschi;;muž;17.18.1976;71332;Waiblingen;Baden-WĂĽrttemberg;DE
+20003925;Vilde;Liwerenz;;žena;17.18.2004;6198;Wettin;Sachsen-Anhalt;DE
+20001158;FlĂłra;von Scharfenort;;žena;17.19.1978;92363;Breitenbrunn;Bayern;DE
+20008051;Naum;Aust;;muž;17.19.1980;86579;Waidhofen;Bayern;DE
+20007542;Nilay;Wisotzka;;muž;17.19.1987;18233;Kirch Mulsow;Mecklenburg-Vorpommern;DE
+20005912;Namnpreet;Stoltzmann;;muž;17.19.2004;66128;SaarbrĂĽcken;Saarland;DE
+20002049;Raziel;Tenbusch;;muž;17.20.1931;17506;LĂĽssow;Mecklenburg-Vorpommern;DE
+20008359;BÄng;Maahsmann;;muž;17.20.1961;85774;UnterfĂ¶hring;Bayern;DE
+20004979;Garikai;Schiestel;;muž;17.20.1982;39291;LĂĽbars;Sachsen-Anhalt;DE
+20001752;Phin;SĂ¶ndgerath;;muž;17.20.1988;22149;Hamburg Tonndorf;Hamburg;DE
+20006370;Victoria-Sophie;Kleisner;;žena;17.21.1946;6528;Blankenheim;Sachsen-Anhalt;DE
+20007274;Ria-Martha;Dreessen;;žena;17.21.1962;54426;Merschbach;Rheinland-Pfalz;DE
+20003129;Jurek;Zinsmann;;muž;17.21.1976;98530;Oberstadt;ThĂĽringen;DE
+20002148;Saneyo;Zygann;;muž;17.21.1981;38889;Wienrode;Sachsen-Anhalt;DE
+20004178;Tizian;Isenbarth;;muž;17.22.1944;89542;Herbrechtingen;Baden-WĂĽrttemberg;DE
+20001487;Fabius;Kampschnieder;;muž;17.22.2009;71573;Allmersbach im Tal;Baden-WĂĽrttemberg;DE
+20008193;Njuguna;Hennig;;muž;17.23.1934;14913;Herbersdorf;Brandenburg;DE
+20009689;Detlef;PĂ¤zolt;;muž;17.23.1948;21423;Drage;Niedersachsen;DE
+20003418;Fatih;Jaworski;;muž;17.23.1950;15528;GrĂĽnheide (Mark);Brandenburg;DE
+20003446;Elina;StrĂ¶hlein;;žena;17.23.1978;35633;Lahnau;Hessen;DE
+20007889;Leif;KaraĂĽzĂĽm;;muž;17.23.1979;80802;MĂĽnchen;Bayern;DE
+20003484;Galena;Nickolaus;;žena;17.23.1981;70565;Stuttgart;Baden-WĂĽrttemberg;DE
+20007551;OleksĂ¬jovna;SĂ¤ttler;;žena;17.23.1986;89542;Herbrechtingen;Baden-WĂĽrttemberg;DE
+20008396;Vladislav;Cloes;;muž;17.23.1999;7338;Leutenberg;ThĂĽringen;DE
+20008199;Denahi;Malcomess;;muž;17.24.1925;93482;Pemfling;Bayern;DE
+20001313;Imre;Horstkemper;;muž;17.24.1927;74177;Bad Friedrichshall;Baden-WĂĽrttemberg;DE
+20009171;Lio;Leferenz;;muž;17.24.1942;95185;Gattendorf;Bayern;DE
+20000611;Jarosch;FrĂĽnd;;muž;17.24.1957;56288;Braunshorn;Rheinland-Pfalz;DE
+20007646;Kron;Erdelen;;muž;17.24.1970;40589;DĂĽsseldorf;Nordrhein-Westfalen;DE
+20009081;Imeni;Togan;;žena;17.25.1928;25852;Bordelum;Schleswig-Holstein;DE
