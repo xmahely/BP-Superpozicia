@@ -1,19 +1,30 @@
-# # This is a sample Python script.
-#
-# # Press Shift+F10 to execute it or replace it with your code.
-# # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-#
-#
-# def print_hi(name):
-#     # Use a breakpoint in the code line below to debug your script.
-#     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-#
-#
-# # Press the green button in the gutter to run the script.
-# if __name__ == '__main__':
-#     print_hi('PyCharm')
-#
-# # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+import glob, os
+from database import database as db
+import pandas as pd
+import test
+import input_data as data
 
-import torch
-torch.cuda.is_available()
+
+def main():
+    # #pripojí sa k lokálnej databáze
+    database = db.DBHandler()
+
+    # # vytvorí všetky potrebné tabuľky
+    database.create_all_tables()
+
+    # # pre všetky csv, ktoré sú v priečinku data vytvorí záznamy v hlavnej tabuľke
+    # # naleje všetky slsp údaje do výstupnej tabuľky
+    for file in glob.glob(os.path.join('data', '*.csv')):
+        variant = file.replace('data\\', '').replace('.csv', '')
+        data.insert_data(database, variant)
+    test.MAX_LEN = data.find_max_len()
+
+    # table = database.cross_join("Partner")
+    # test.temp(database, table)
+
+if __name__ == "__main__":
+    main()
+
+
+
+
