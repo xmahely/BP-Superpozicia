@@ -18,7 +18,7 @@ class SUPERPOSITION(Base):
     Kraj = Column(String(80), nullable=True)
     PSC = Column(String(80), nullable=True)
     Danovy_Domicil = Column(String(10), nullable=False)
-    Identifikatory = Column(String(100), nullable=False)
+    Identifikatory = Column(String(100), nullable=True)
     Poznamka = Column(String(250), nullable=True)
 
     def __repr__(self):

@@ -1,5 +1,6 @@
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, update
 from sqlalchemy.orm import sessionmaker, aliased
+from sqlalchemy.sql import func
 from pyjarowinkler import distance
 import Levenshtein as levenshtein
 
@@ -10,7 +11,7 @@ Session = sessionmaker()
 
 class DBHandler:
     server = 'localhost'
-    database = 'master'
+    database = 'superpozicia'
     driver = 'ODBC Driver 17 for SQL Server'
     database_con = f'mssql://@{server}/{database}?driver={driver}'
 
@@ -27,12 +28,26 @@ class DBHandler:
         inp.INPUT.create(self)
         sup.SUPERPOSITION.create(self)
 
+    def get_max_string_len(self):
+        result = self.connect.execute('select [dbo].[get_max_string_len]()')
+        for row in result:
+            return row[0]
+
+    def get_max_CID(self):
+        result = self.connect.execute('select max(cid)+1 from [dbo].[Partner] where priorita = 1')
+        for row in result:
+            return row[0]
+
+    def get_min_CID(self):
+        result = self.connect.execute('select min(cid)-1 from [dbo].[Superposition]')
+        for row in result:
+            return row[0]
+
     def create_probability_table(self):
         table = self.cross_join("input_table")
         for row in table:
             priezvisko_dist = distance.get_jaro_distance(row[0].Priezvisko, row[1].Priezvisko, winkler=True, scaling=0.1)
             if priezvisko_dist > 0.8:
-                print(row[0].Priezvisko + ", ", row[1].Priezvisko, " = ")
                 meno_dist = distance.get_jaro_distance(row[0].Meno, row[1].Meno, winkler=True, scaling=0.1)
                 pohlavie_dist = 1 if row[0].Pohlavie == row[1].Pohlavie else 0
                 if row[0].Ulica is not None and row[1].Ulica is not None:
@@ -69,18 +84,25 @@ class DBHandler:
             return result
         return None
 
+    def update_processed_bit(self, cid):
+        local_session = Session(bind=self.engine)
+        result = local_session.query(par.PARTNER).filter(par.PARTNER.CID == cid).one()
+        result.Spracovane = 1
+        local_session.commit()
 
-    def insert_row(self, cid, priority, meno, priezvisko, pohlavie, tituly, datum_narodenia, rc,
+    def insert_row(self, cid, priorita, meno, priezvisko, pohlavie, tituly, datum_narodenia, rc,
                         ulica, mesto, kraj, psc, danovy_domicil, stlpec2, stlpec3, poznamka):
         local_session = Session(bind=self.engine)
-        if priority in range(1, 7):
-            row = par.PARTNER(CID=cid, Priority=priority,
+        if priorita in range(1, 7):
+
+            row = par.PARTNER(CID=cid, Spracovane=0, Priorita=priorita,
                            Meno=meno, Priezvisko=priezvisko, Pohlavie=pohlavie,
                            Tituly=tituly, Datum_Narodenia=datum_narodenia, RC=rc,
                            Ulica=ulica, Mesto=mesto, Kraj=kraj, PSC=psc, Danovy_Domicil=danovy_domicil,
                            Stlpec2=stlpec2, Stlpec3=stlpec3, Poznamka=poznamka)
             local_session.add(row)
             local_session.commit()
+
 
     def insert_row_sup(self, cid, meno, priezvisko, pohlavie, tituly, datum_narodenia, rc,
                         ulica, mesto, kraj, psc, danovy_domicil, identifikatory, poznamka):
