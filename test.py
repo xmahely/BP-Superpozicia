@@ -1,129 +1,103 @@
-from __future__ import unicode_literals, print_function, division
-import numpy as np
-from numpy import argmax
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-from io import open
-import glob
-import os
-import MLP as mlp
-import torch
-from scipy.spatial.distance import cosine
-from transformers import AutoModel, AutoTokenizer
-from pyjarowinkler import distance
-
-import unicodedata
+import math
 import string
-
-all_letters = string.ascii_letters + " .,;'"
-n_letters = len(all_letters)
-
-MAX_LEN = 62
-
-
-def unicodeToAscii(s):
-    return ''.join(
-        c for c in unicodedata.normalize('NFD', s)
-        if unicodedata.category(c) != 'Mn'
-        and c in all_letters
-    )
+import normalizer as n
+import random
+from random import randint
+import torch
+import jaro_distance as distance
+import pandas as pd
 
 
-def letterToIndex(letter):
-    return all_letters.find(letter)
+all_letters = string.ascii_lowercase
+all_letters = n.wordToAsciiValueList(all_letters)
+num_letters = len(all_letters)
 
 
-# Just for demonstration, turn a letter into a <1 x n_letters> Tensor
-def letterToTensor(letter):
-    tensor = torch.zeros(1, n_letters)
-    tensor[0][letterToIndex(letter)] = 1
-    return tensor
+def generateRandomly():
+    idx = randint(1, 6)
+    if idx == 1:
+        tensor1, tensor2 = generate2IdenticalTensors()
+    elif idx == 2 or idx == 3:
+        tensor1, tensor2 = generate2SimilarTensors()
+    else:
+        tensor1, tensor2 = generate2RandomTensors()
+    return tensor1, tensor2
 
 
-# Turn a line into a <line_length x 1 x n_letters>,
-# or an array of one-hot letter vectors
-def lineToTensor(line):
-    if line is not None:
-        tensor = torch.zeros(MAX_LEN, 1, n_letters)
-        for li, letter in enumerate(line):
-            tensor[li][0][letterToIndex(letter)] = 1
-        return tensor
-    return None
+def generate2IdenticalTensors():
+    tensor1 = generateTensor()
+    return tensor1, tensor1
 
 
-def normalize(s):
-    if s is not None:
-        result = unicodeToAscii(s)
-        return result.lower()
-    return None
+def generate2SimilarTensors():
+    tensor1 = generateTensor(tensor_size_min=6)
+    size1 = list(tensor1.size())[0]
+    size2 = randint(-4, 4) + size1
+    tensor2 = torch.empty(size2)
+
+    if size2 == size1:
+        tensor2 = tensor1
+        tensor2[randint(0, size2 - 1)] = tensor1[randint(0, size1 - 1)]
+        tensor2[randint(0, size2 - 1)] = tensor1[randint(0, size1 - 1)]
+    elif size2 > size1:
+        for i in range(size1):
+            tensor2[i] = tensor1[i]
+        tensor2[size1] = all_letters[randint(0, num_letters - 1)]
+        if size2 > size1 + 1:
+            tensor2[size1+1] = all_letters[randint(0, num_letters - 1)]
+        if size2 > size1 + 2:
+            tensor2[size1+2] = all_letters[randint(0, num_letters - 1)]
+        if size2 > size1 + 3:
+            tensor2[size1+3] = all_letters[randint(0, num_letters - 1)]
+    elif size1 > size2:
+        for i in range(size2):
+            tensor2[i] = tensor1[i]
+        if size1 > size2 + 1:
+            tensor2[randint(0, size2 - 1)] = all_letters[randint(0, num_letters - 1)]
+        if size1 > size2 + 2:
+            tensor2[randint(0, size2 - 1)] = all_letters[randint(0, num_letters - 1)]
+        if size1 > size2 + 3:
+            tensor2[randint(0, size2 - 1)] = all_letters[randint(0, num_letters - 1)]
+
+    return tensor1, tensor2
 
 
-def temp(database, table):
-    i = 0
-    for row in table:
-        if i > 10:
-            break
-        i = i + 1
+def generate2RandomTensors():
+    tensor1 = generateTensor()
+    tensor2 = generateTensor()
 
-        meno1 = lineToTensor(normalize(row[0].Meno))
-        meno2 = lineToTensor(normalize(row[1].Meno))
-        par_len = len(meno1) if len(meno1) > len(meno2) else len(meno2)
-        a = lineToTensor(meno1)
-        b = lineToTensor(meno2)
-
-        cos = nn.CosineSimilarity(dim=2, eps=1e-6)
-        similarity = cos(a[0:par_len], b[0:par_len]).mean()
+    return tensor1, tensor2
 
 
-        # database.insert_row_inp(row[0].CID, row[1].CID,
-        #                         lineToTensor(normalize(row[0].Meno)), lineToTensor(normalize(row[1].Meno)),
-        #                         lineToTensor(normalize(row[0].Priezvisko)), lineToTensor(normalize(row[1].Priezvisko)),
-        #                         row[0].Pohlavie, row[1].Pohlavie,
-        #                         lineToTensor(normalize(row[0].Tituly)), lineToTensor(normalize(row[1].Tituly)),
-        #                         lineToTensor(normalize(row[0].Mesto)), lineToTensor(normalize(row[1].Mesto)),
-        #                         lineToTensor(normalize(row[0].Kraj)), lineToTensor(normalize(row[1].Kraj)),
-        #                         lineToTensor(row[0].PSC), lineToTensor(row[1].PSC),
-        #                         lineToTensor(normalize(row[0].Danovy_Domicil)),
-        #                         lineToTensor(normalize(row[1].Danovy_Domicil)))
+def generateTensor(tensor_size_min=None, tensor_size_max=None, random_shuffle=True):
+    if tensor_size_min is None and tensor_size_max is None:
+        size = randint(3, 40)
+    elif tensor_size_min is None and tensor_size_max is not None:
+        size = randint(3, tensor_size_max)
+    elif tensor_size_min is not None and tensor_size_max is None:
+        size = randint(tensor_size_min, 40)
+    else:
+        size = randint(tensor_size_min, tensor_size_max)
+
+    if random_shuffle is True:
+        random.shuffle(all_letters)
+
+    result = []
+    for _ in range(size):
+        i = randint(0, num_letters - 1)
+        result.append(all_letters[i])
+
+    return torch.tensor(result, dtype=torch.float)
 
 
+df = pd.DataFrame(columns=['col1', 'col2', 'similarity'])
 
-# a = lineToTensor('95691')
-# b = lineToTensor('95692')
-#
-# b = lineToTensor('Jone')
-# # c = lineToTensor('Jodes')
-# # d = lineToTensor('Johan')
-# # e = lineToTensor('Martina')
+for i in range(1, 50):
+    t1, t2 = generateRandomly()
+    d = distance.JaroDistance(t1, t2)
+    df.loc[i, 'col1'] = t1
+    df.loc[i, 'col2'] = t2
+    df.loc[i, 'similarity'] = d.getDistance()
 
-if __name__ == '__main__':
-    torch.set_printoptions(threshold=10_000)
-    meno1 ='robert'
-    meno2= 'roboberts'
-    par_len = len(meno1) if len(meno1) > len(meno2) else len(meno2)
-    a = lineToTensor(meno1)
-    b = lineToTensor(meno2)
-    # print(a)
-    # print(a[0:par_len])
-    # print(b[0:par_len])
-    # print(a[1])
-    # print(b)
-    cos = nn.CosineSimilarity(dim=2, eps=1e-6)
-    print(cos(a[0:par_len], b[0:par_len]).mean())
-    meno_dist = distance.get_jaro_distance(meno1, meno2, winkler=True, scaling=0.1)
-    print(meno_dist)
-
-
-
-
-# #
-# #
-# cos = nn.CosineSimilarity(dim=2, eps=1e-6)
-# # dist = torch.cdist(a, e, p=2)
-# #
-# #
-# #
-# print(cos(a,b))
-# # print(dist)
-
+for index, row in df.iterrows():
+    print(row['col1'], "\n + ", row['col2'], " -> ", row['similarity'])
