@@ -1,4 +1,6 @@
 import datetime as dt
+
+import sqlalchemy
 import unicodedata
 
 
@@ -7,15 +9,17 @@ def unicodeToAscii(s):
 
 
 def normalizeWord(s):
-    if s is not None:
+    if s is not None and s is not sqlalchemy.sql.null():
         return unicodeToAscii(s.lower())
 
 
 def wordToAsciiValueList(s):
     return [ord(c) for c in s]
 
+
 def asciiValueListToWord(s):
     return ''.join(chr(c) for c in s)
+
 
 def validateDate(date, format):
     res = 0
@@ -65,7 +69,7 @@ def findFormat(date):
     elif validateDate(date, "%m. %d. %Y") == -2:
         poznamka = "day is out of range for month: " + date
     else:
-        poznamka = "day is out of range wtf: " + date
+        poznamka = "day is out of range: " + date
     return date_new, poznamka
 
 
