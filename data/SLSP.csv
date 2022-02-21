@@ -1,38 +1,38 @@
-CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy domicil;Stĺpec2;dom2
+﻿CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy domicil;Stĺpec2;dom2
 2003426;Titus;Ansorge;;male;1998-05-31;65558;Flacht;Rheinland-Pfalz;SK;0;SK
 2009726;Aria;Kaminske;;female;1990-05-31;18445;Kramerhof;Mecklenburg-Vorpommern;SK;0;SK
 2002959;Haci;Cankurt;;male;1978-05-31;14662;Vietznitz;Brandenburg;SK;0;SK
 2006301;Mavis;Wojtzik;;female;1953-05-31;54498;Piesport;Rheinland-Pfalz;SK;0;SK
 2002347;Diá»…m;Nikolaitschik;;female;1941-05-31;38170;Kneitlingen;Niedersachsen;DE;1;DE
-2009680;Tanami;Kleyman;;female;31.4.2008;15890;Siehdichum;Brandenburg;DE;1;DE
-2003208;MadĂł;Sengstaken;;female;31.4.2007;58640;Iserlohn;Nordrhein-Westfalen;AT;2;AT
-2006840;Aidin;Hillebrecht;;male;31.4.2004;49586;Merzen;Niedersachsen;AT;2;AT
-2002264;Zubeyde;Grauer;;female;31.4.2004;67105;Schifferstadt;Rheinland-Pfalz;AT;2;AT
-2002538;Nil;Scheuert;;female;31.4.2003;37339;Breitenworbis;ThĂĽringen;SK;0;SK
-2008681;Thibo;Kimel;;male;31.4.1987;82494;KrĂĽn;Bayern;SK;0;SK
-2000668;Yusuf;Corstjens;;male;31.4.1986;4617;Haselbach;ThĂĽringen;SK;0;SK
-2007801;Silvius;Hinzen;;male;31.4.1982;67251;Freinsheim;Rheinland-Pfalz;AT;2;AT
-2008262;Fryda;Kirschbaum;;female;31.4.1979;18107;Rostock;Mecklenburg-Vorpommern;AT;2;AT
-2001884;Anatolii;Balthasar;;male;31.4.1979;99834;LauchrĂ¶den;ThĂĽringen;AT;2;AT
-2005769;Tekin;Waldhaeuser;;male;31.4.1976;95517;Seybothenreuth;Bayern;AT;2;AT
-2009063;Lukasz;Gencay;;male;31.4.1970;55758;Oberreidenbach;Rheinland-Pfalz;AT;2;AT
-2003797;Beck;Buchheiser;;male;31.4.1964;24864;Goltoft;Schleswig-Holstein;DE;1;DE
-2004507;Jerzy;KĂĽbl;;male;31.4.1949;15936;Dahmetal;Brandenburg;DE;1;DE
-2004195;Yoshua-Damian;Pillebeit;;male;31.4.1947;85655;Loibersdorf bei GroĂźhelfendorf;Bayern;AT;2;AT
-2000630;Bao;Schiegl;;male;31.4.1947;86486;Bonstetten;Bayern;AT;2;AT
-2002958;Thijs;Krautz;;male;31.4.1943;15372;MĂĽncheberg;Brandenburg;SK;0;SK
-2001678;Paul;Plattner;;male;31.4.1939;24882;Schaalby;Schleswig-Holstein;AT;2;AT
-2001627;Saliah;Lemmke;;female;31.4.1933;41066;MĂ¶nchengladbach;Nordrhein-Westfalen;DE;1;DE
-2002610;Fayzal;Springenschmid;;male;31.4.1932;19243;Boddin;Mecklenburg-Vorpommern;SK;0;SK
-2008825;Yahya;Bloms;;female;31.4.1924;15236;Frankfurt (Oder);Brandenburg;AT;2;AT
-2001898;Xiaoxin;Sallmann;;female;31.4.1921;55758;Mackenrodt;Rheinland-Pfalz;DE;1;DE
+2009680;Tanami;Kleyman;;female;30.4.2008;15890;Siehdichum;Brandenburg;DE;1;DE
+2003208;MadĂł;Sengstaken;;female;30.4.2007;58640;Iserlohn;Nordrhein-Westfalen;AT;2;AT
+2006840;Aidin;Hillebrecht;;male;30.4.2004;49586;Merzen;Niedersachsen;AT;2;AT
+2002264;Zubeyde;Grauer;;female;30.4.2004;67105;Schifferstadt;Rheinland-Pfalz;AT;2;AT
+2002538;Nil;Scheuert;;female;30.4.2003;37339;Breitenworbis;ThĂĽringen;SK;0;SK
+2008681;Thibo;Kimel;;male;30.4.1987;82494;KrĂĽn;Bayern;SK;0;SK
+2000668;Yusuf;Corstjens;;male;30.4.1986;4617;Haselbach;ThĂĽringen;SK;0;SK
+2007801;Silvius;Hinzen;;male;30.4.1982;67251;Freinsheim;Rheinland-Pfalz;AT;2;AT
+2008262;Fryda;Kirschbaum;;female;30.4.1979;18107;Rostock;Mecklenburg-Vorpommern;AT;2;AT
+2001884;Anatolii;Balthasar;;male;30.4.1979;99834;LauchrĂ¶den;ThĂĽringen;AT;2;AT
+2005769;Tekin;Waldhaeuser;;male;30.4.1976;95517;Seybothenreuth;Bayern;AT;2;AT
+2009063;Lukasz;Gencay;;male;30.4.1970;55758;Oberreidenbach;Rheinland-Pfalz;AT;2;AT
+2003797;Beck;Buchheiser;;male;30.4.1964;24864;Goltoft;Schleswig-Holstein;DE;1;DE
+2004507;Jerzy;KĂĽbl;;male;30.4.1949;15936;Dahmetal;Brandenburg;DE;1;DE
+2004195;Yoshua-Damian;Pillebeit;;male;30.4.1947;85655;Loibersdorf bei GroĂźhelfendorf;Bayern;AT;2;AT
+2000630;Bao;Schiegl;;male;30.4.1947;86486;Bonstetten;Bayern;AT;2;AT
+2002958;Thijs;Krautz;;male;30.4.1943;15372;MĂĽncheberg;Brandenburg;SK;0;SK
+2001678;Paul;Plattner;;male;30.4.1939;24882;Schaalby;Schleswig-Holstein;AT;2;AT
+2001627;Saliah;Lemmke;;female;30.4.1933;41066;MĂ¶nchengladbach;Nordrhein-Westfalen;DE;1;DE
+2002610;Fayzal;Springenschmid;;male;30.4.1932;19243;Boddin;Mecklenburg-Vorpommern;SK;0;SK
+2008825;Yahya;Bloms;;female;30.4.1924;15236;Frankfurt (Oder);Brandenburg;AT;2;AT
+2001898;Xiaoxin;Sallmann;;female;30.4.1921;55758;Mackenrodt;Rheinland-Pfalz;DE;1;DE
 2000676;Baker;Lytvinov;;male;1928-01-01;1819;Bahretal;Sachsen;AT;2;AT
 2000594;Lotta-Malie;Suter;;female;2004-01-01;71292;Friolzheim;Baden-WĂĽrttemberg;DE;1;DE
 2009248;Anuk;Alberternst;;male;1937-01-01;6638;Karsdorf;Sachsen-Anhalt;SK;0;SK
 2000258;Zinedin;Glowacka;;male;1930-01-01;45259;Essen;Nordrhein-Westfalen;SK;0;SK
 2000593;Loni;Brokamp;;male;1981-02-01;22946;GroĂźensee;Schleswig-Holstein;AT;2;AT
 2006011;Chidi;Hilperth;;male;1952-02-01;3055;Cottbus;Brandenburg;DE;1;DE
-3010063;Maiara;Martschiniak;;female;1932-02-01;89143;Blaubeuren Gerhausen;Baden-WĂĽrttemberg;SK;0;SK
+2010063;Maiara;Martschiniak;;female;1932-02-01;89143;Blaubeuren Gerhausen;Baden-WĂĽrttemberg;SK;0;SK
 2004845;Suriya;Meiners;;male;2002-02-01;6386;Hinsdorf;Sachsen-Anhalt;SK;0;SK
 2007023;Beyzanur;Schewski;;female;1963-02-01;20359;Hamburg;Hamburg;DE;1;DE
 2002503;Steffen;Merettich;;male;1943-02-01;38259;Salzgitter Beinum;Niedersachsen;DE;1;DE
@@ -126,26 +126,26 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2009082;Mia-Sophia;Katschinski;;female;1938-01-30;91626;Schopfloch;Bayern;DE;1;DE
 2003898;Charmaine;Kothmair;;female;1934-01-30;31552;Apelern Soldorf;Niedersachsen;DE;1;DE
 2008485;Rustam;Heineke;;male;1924-01-30;56295;Kerben;Rheinland-Pfalz;AT;2;AT
-2007351;Afan;Lenze;;male;30-2-2006;76835;Weyher in der Pfalz;Rheinland-Pfalz;SK;0;SK
-2000379;Demi;GrĂĽnvogel;;female;30-2-2000;6917;Jessen (Elster) Gorsdorf-Hemsendorf;Sachsen-Anhalt;DE;1;DE
-2004132;Mukteda;Ackermaier;;male;30-2-1983;40589;DĂĽsseldorf;Nordrhein-Westfalen;SK;0;SK
-2009344;ErzsĂ©bet;Himmelhahn;;female;30-2-1981;96129;Strullendorf;Bayern;AT;2;AT
-2000918;YoĂ«l;Flachskamm;;male;30-2-1958;24214;Gettorf;Schleswig-Holstein;SK;0;SK
-2002984;Kuzey;Ahrnsen;;male;30-2-1923;54636;WiĂźmannsdorf;Rheinland-Pfalz;AT;2;AT
-2002953;Emmet;Schimitschek;;male;30-2-1955;16306;Woltersdorf;Brandenburg;SK;0;SK
-2004224;Marlin-Linnard;Laemmerer;;male;30-2-1947;88348;Allmannsweiler;Baden-WĂĽrttemberg;SK;0;SK
-2007800;Mirza;Sonnenleiter;;male;30-2-1945;24405;RĂĽgge;Schleswig-Holstein;DE;1;DE
-2009748;Maxime;Scherfel;;female;30-2-2009;98617;Neubrunn;ThĂĽringen;AT;2;AT
-2006726;Zaynab;Naegeler;;female;30-2-1996;99510;Apolda;ThĂĽringen;DE;1;DE
-2002415;Loona-Hayley;Clarke;;female;30-2-1989;57632;Reiferscheid;Rheinland-Pfalz;DE;1;DE
-2001334;Azziz;von Tomaszewski;;male;30-2-1985;7381;Moxa;ThĂĽringen;DE;1;DE
-2004595;Evy;Cuiper;;female;30-2-1980;99762;Neustadt/Harz;ThĂĽringen;AT;2;AT
-2000670;Vida;GĂĽthlin;;female;30-2-1963;38170;Vahlberg;Niedersachsen;AT;2;AT
-2003033;Haytham;Rademaekers;;female;30-2-2001;60320;Frankfurt am Main;Hessen;SK;0;SK
-2001783;Gerd;GrĂĽnberger;;male;30-2-1995;1731;Kreischa;Sachsen;SK;0;SK
-2002245;Ukab;Pelzers;;male;30-2-1982;10587;Berlin;Berlin;AT;2;AT
-2004914;Leonie-Letizia;Karakus;;female;30-2-1927;64665;Alsbach-HĂ¤hnlein;Hessen;SK;0;SK
-2005961;Gawriil;Kowalenko;;male;30-2-1921;24598;HeidmĂĽhlen;Schleswig-Holstein;AT;2;AT
+2007351;Afan;Lenze;;male;28-2-2006;76835;Weyher in der Pfalz;Rheinland-Pfalz;SK;0;SK
+2000379;Demi;GrĂĽnvogel;;female;28-2-2000;6917;Jessen (Elster) Gorsdorf-Hemsendorf;Sachsen-Anhalt;DE;1;DE
+2004132;Mukteda;Ackermaier;;male;28-2-1983;40589;DĂĽsseldorf;Nordrhein-Westfalen;SK;0;SK
+2009344;ErzsĂ©bet;Himmelhahn;;female;28-2-1981;96129;Strullendorf;Bayern;AT;2;AT
+2000918;YoĂ«l;Flachskamm;;male;28-2-1958;24214;Gettorf;Schleswig-Holstein;SK;0;SK
+2002984;Kuzey;Ahrnsen;;male;28-2-1923;54636;WiĂźmannsdorf;Rheinland-Pfalz;AT;2;AT
+2002953;Emmet;Schimitschek;;male;28-2-1955;16306;Woltersdorf;Brandenburg;SK;0;SK
+2004224;Marlin-Linnard;Laemmerer;;male;28-2-1947;88348;Allmannsweiler;Baden-WĂĽrttemberg;SK;0;SK
+2007800;Mirza;Sonnenleiter;;male;28-2-1945;24405;RĂĽgge;Schleswig-Holstein;DE;1;DE
+2009748;Maxime;Scherfel;;female;28-2-2009;98617;Neubrunn;ThĂĽringen;AT;2;AT
+2006726;Zaynab;Naegeler;;female;28-2-1996;99510;Apolda;ThĂĽringen;DE;1;DE
+2002415;Loona-Hayley;Clarke;;female;28-2-1989;57632;Reiferscheid;Rheinland-Pfalz;DE;1;DE
+2001334;Azziz;von Tomaszewski;;male;28-2-1985;7381;Moxa;ThĂĽringen;DE;1;DE
+2004595;Evy;Cuiper;;female;28-2-1980;99762;Neustadt/Harz;ThĂĽringen;AT;2;AT
+2000670;Vida;GĂĽthlin;;female;28-2-1963;38170;Vahlberg;Niedersachsen;AT;2;AT
+2003033;Haytham;Rademaekers;;female;28-2-2001;60320;Frankfurt am Main;Hessen;SK;0;SK
+2001783;Gerd;GrĂĽnberger;;male;28-2-1995;1731;Kreischa;Sachsen;SK;0;SK
+2002245;Ukab;Pelzers;;male;28-2-1982;10587;Berlin;Berlin;AT;2;AT
+2004914;Leonie-Letizia;Karakus;;female;28-2-1927;64665;Alsbach-HĂ¤hnlein;Hessen;SK;0;SK
+2005961;Gawriil;Kowalenko;;male;28-2-1921;24598;HeidmĂĽhlen;Schleswig-Holstein;AT;2;AT
 2005650;Manar;Laurentz;;female;1981-03-30;15848;Beeskow Bornow;Brandenburg;AT;2;AT
 2005633;HoĂ ng-Nhi;Dollak;;female;1980-03-30;83128;Halfing;Bayern;SK;0;SK
 2001665;Nidhal;Giermann;;male;1968-03-30;65187;Wiesbaden;Hessen;SK;0;SK
@@ -156,7 +156,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2004932;Trent;Henrix;;male;2007-03-30;14715;MĂ¤rkisch Luch Garlitz;Brandenburg;AT;2;AT
 2001908;Miko;Heinzel;;male;2006-03-30;6493;Dankerode;Sachsen-Anhalt;AT;2;AT
 2003784;Lyudmilov;Scheuermann;;male;1975-03-30;49762;Fresenburg;Niedersachsen;DE;1;DE
-3010074;Veniamin;Zellwiger;;male;1962-03-30;89281;Altenstadt;Bayern;DE;1;DE
+2010074;Veniamin;Zellwiger;;male;1962-03-30;89281;Altenstadt;Bayern;DE;1;DE
 2008728;Jaschar;Huthmacher;;male;1935-03-30;75331;Engelsbrand;Baden-WĂĽrttemberg;AT;2;AT
 2006149;Leonis;Weith;;male;1927-03-30;54634;Birtlingen;Rheinland-Pfalz;SK;0;SK
 2006820;Greta-Theophila;Grohskopf;;female;1920-03-30;39624;Altmersleben;Sachsen-Anhalt;AT;2;AT
@@ -170,7 +170,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2007558;Tailer;Kaczmarczyck;;male;1963-05-30;14641;Klein Behnitz;Brandenburg;AT;2;AT
 2006675;Joleen;Hofschlag;;female;1947-05-30;1454;Radeberg;Sachsen;DE;1;DE
 2001024;Joaquim;Schomaecker;;male;2000-05-30;86947;Weil;Bayern;DE;1;DE
-3010062;Olwen;von Bergen;;female;1984-05-30;39387;Wulferstedt;Sachsen-Anhalt;DE;1;DE
+2010062;Olwen;von Bergen;;female;1984-05-30;39387;Wulferstedt;Sachsen-Anhalt;DE;1;DE
 2007779;Silah;Schultes;;female;1974-05-30;7646;Rattelsdorf;ThĂĽringen;AT;2;AT
 2001693;Fabiola;Bechthold;;female;1961-05-30;67580;Hamm;Rheinland-Pfalz;SK;0;SK
 2003359;Johannah;Simanzig;;female;1923-05-30;15926;Schlabendorf;Brandenburg;AT;2;AT
@@ -190,46 +190,46 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2005036;Zara-Eugenia;Dedenbach;;female;1979-06-30;4916;Themesgrund;Brandenburg;AT;2;AT
 2006254;Malin;Minzlaff;;male;1972-06-30;38479;Tappenbeck;Niedersachsen;DE;1;DE
 2002847;Satou;Rupertus;;female;1941-06-30;91595;Burgoberbach;Bayern;DE;1;DE
-2007565;Riaan;Radakovits;;male;30-02-2009;98617;Leutersdorf;ThĂĽringen;DE;1;DE
-2007461;Keano;Jungbaeck;;male;30-02-1998;54646;Enzen;Rheinland-Pfalz;DE;1;DE
-2008502;Miroslawa;Weisbrodt;;female;30-02-1997;17179;LĂĽhburg;Mecklenburg-Vorpommern;AT;2;AT
-2009098;Shallon;Dehnhardt;;female;30-02-1995;95365;Rugendorf;Bayern;AT;2;AT
-2002632;Mavakala;Dierk;;female;30-02-1994;6198;Gimritz;Sachsen-Anhalt;AT;2;AT
-2004279;Atarah;Wernicke;;female;30-02-1993;97209;VeitshĂ¶chheim;Bayern;AT;2;AT
-2003451;Nusaiba;Driehsen;;female;30-02-1992;39606;Ballerstedt;Sachsen-Anhalt;AT;2;AT
-2009701;Ayomi;Kohlhof;;male;30-02-1989;38829;Harsleben;Sachsen-Anhalt;SK;0;SK
-2009297;Kezban;Kerkhoff;;female;30-02-1988;6458;Hausneindorf;Sachsen-Anhalt;SK;0;SK
-2006879;Arved-Joshua;Berenstecher;;male;30-02-1987;55595;Spall;Rheinland-Pfalz;AT;2;AT
-2001656;Nuenglutai;SchmĂ¤dicke;;female;30-02-1984;29479;Jameln Teichlosen;Niedersachsen;AT;2;AT
-2005227;Keyan-Merdan;Weispflug;;male;30-02-1979;31559;Hohnhorst Ohndorf;Niedersachsen;AT;2;AT
-2001181;Naifali;StrĂ¶bl;;male;30-02-1975;17375;Leopoldshagen;Mecklenburg-Vorpommern;AT;2;AT
-2004551;Manai;Titz;;female;30-02-1975;6449;Schackenthal;Sachsen-Anhalt;SK;0;SK
-2001348;RĂ©mi;Sawatzky;;male;30-02-1974;19071;Grambow;Mecklenburg-Vorpommern;DE;1;DE
-2009805;Nelia;Stockburger;;female;30-02-1966;31622;Heemsen Anderten;Niedersachsen;DE;1;DE
-2005531;Sang;von Brandis;;male;30-02-1961;37308;Volkerode;ThĂĽringen;SK;0;SK
-2003335;Hans-Heinrich;Habich;;male;30-02-1960;35683;Dillenburg;Hessen;SK;0;SK
-2006464;Mkrtich;Milkereit;;female;30-02-1959;39443;Hohenerxleben;Sachsen-Anhalt;DE;1;DE
-2004325;Ul;Ahrendtz;;male;30-02-1958;6268;WeiĂźenschirmbach;Sachsen-Anhalt;SK;0;SK
-2007323;Halim;Drees;;male;30-02-1956;42119;Wuppertal;Nordrhein-Westfalen;SK;0;SK
-2003777;Aliena;Vischer;;female;30-02-1955;20459;Hamburg;Hamburg;DE;1;DE
-2009926;Philina;Adil;;female;30-02-1954;58762;Altena;Nordrhein-Westfalen;SK;0;SK
-2009219;Sanjin;Kuehnemann;;male;30-02-1949;17217;Krukow;Mecklenburg-Vorpommern;AT;2;AT
-2000637;Felte;Holzmaier;;male;30-02-1947;86753;MĂ¶ttingen;Bayern;DE;1;DE
-2009104;Anjeolaoluwa;Pfaffl;;female;30-02-1946;3051;Cottbus;Brandenburg;AT;2;AT
-2000639;Jorma;SchellhaaĂź;;male;30-02-1944;24782;BĂĽdelsdorf;Schleswig-Holstein;AT;2;AT
-2009450;Argyll;Bozkus;;male;30-02-1943;57627;Heuzert;Rheinland-Pfalz;SK;0;SK
-2007926;Fufa;Sauerteich;;female;30-02-1943;16278;Frauenhagen;Brandenburg;AT;2;AT
-2002296;Ongoro;Jonkers;;female;30-02-1942;99762;Buchholz;ThĂĽringen;DE;1;DE
-2005429;GĂĽlizar;Hau;;female;30-02-1941;25554;Moorhusen;Schleswig-Holstein;AT;2;AT
-2004031;Nyima;Hermens;;male;30-02-1939;37359;Effelder;ThĂĽringen;DE;1;DE
-2001823;Ronia;Nowikoff;;female;30-02-1939;25795;Weddingstedt;Schleswig-Holstein;DE;1;DE
-2008857;Dhurata;Berzing;;female;30-02-1937;29599;Weste;Niedersachsen;DE;1;DE
-2003785;Kaymetev;Berkholdt;;male;30-02-1936;6712;GeuĂźnitz;Sachsen-Anhalt;DE;1;DE
-2003962;Seyhan;Catalkaya;;female;30-02-1936;52477;Alsdorf;Nordrhein-Westfalen;DE;1;DE
-2005578;Enes;Chrzonowski;;male;30-02-1929;71701;Schwieberdingen;Baden-WĂĽrttemberg;SK;0;SK
-2001544;Joonyi;Grosschmid;;female;30-02-1924;15518;SteinhĂ¶fel JĂ¤nickendorf;Brandenburg;AT;2;AT
-2008591;Samir;Warnike;;male;30-02-1924;54649;Pintesfeld;Rheinland-Pfalz;AT;2;AT
-2001100;Elmir;Mentze;;male;30-02-1921;16230;Chorin;Brandenburg;SK;0;SK
+2007565;Riaan;Radakovits;;male;28-02-2009;98617;Leutersdorf;ThĂĽringen;DE;1;DE
+2007461;Keano;Jungbaeck;;male;28-02-1998;54646;Enzen;Rheinland-Pfalz;DE;1;DE
+2008502;Miroslawa;Weisbrodt;;female;28-02-1997;17179;LĂĽhburg;Mecklenburg-Vorpommern;AT;2;AT
+2009098;Shallon;Dehnhardt;;female;28-02-1995;95365;Rugendorf;Bayern;AT;2;AT
+2002632;Mavakala;Dierk;;female;28-02-1994;6198;Gimritz;Sachsen-Anhalt;AT;2;AT
+2004279;Atarah;Wernicke;;female;28-02-1993;97209;VeitshĂ¶chheim;Bayern;AT;2;AT
+2003451;Nusaiba;Driehsen;;female;28-02-1992;39606;Ballerstedt;Sachsen-Anhalt;AT;2;AT
+2009701;Ayomi;Kohlhof;;male;28-02-1989;38829;Harsleben;Sachsen-Anhalt;SK;0;SK
+2009297;Kezban;Kerkhoff;;female;28-02-1988;6458;Hausneindorf;Sachsen-Anhalt;SK;0;SK
+2006879;Arved-Joshua;Berenstecher;;male;28-02-1987;55595;Spall;Rheinland-Pfalz;AT;2;AT
+2001656;Nuenglutai;SchmĂ¤dicke;;female;28-02-1984;29479;Jameln Teichlosen;Niedersachsen;AT;2;AT
+2005227;Keyan-Merdan;Weispflug;;male;28-02-1979;31559;Hohnhorst Ohndorf;Niedersachsen;AT;2;AT
+2001181;Naifali;StrĂ¶bl;;male;28-02-1975;17375;Leopoldshagen;Mecklenburg-Vorpommern;AT;2;AT
+2004551;Manai;Titz;;female;28-02-1975;6449;Schackenthal;Sachsen-Anhalt;SK;0;SK
+2001348;RĂ©mi;Sawatzky;;male;28-02-1974;19071;Grambow;Mecklenburg-Vorpommern;DE;1;DE
+2009805;Nelia;Stockburger;;female;28-02-1966;31622;Heemsen Anderten;Niedersachsen;DE;1;DE
+2005531;Sang;von Brandis;;male;28-02-1961;37308;Volkerode;ThĂĽringen;SK;0;SK
+2003335;Hans-Heinrich;Habich;;male;28-02-1960;35683;Dillenburg;Hessen;SK;0;SK
+2006464;Mkrtich;Milkereit;;female;28-02-1959;39443;Hohenerxleben;Sachsen-Anhalt;DE;1;DE
+2004325;Ul;Ahrendtz;;male;28-02-1958;6268;WeiĂźenschirmbach;Sachsen-Anhalt;SK;0;SK
+2007323;Halim;Drees;;male;28-02-1956;42119;Wuppertal;Nordrhein-Westfalen;SK;0;SK
+2003777;Aliena;Vischer;;female;28-02-1955;20459;Hamburg;Hamburg;DE;1;DE
+2009926;Philina;Adil;;female;28-02-1954;58762;Altena;Nordrhein-Westfalen;SK;0;SK
+2009219;Sanjin;Kuehnemann;;male;28-02-1949;17217;Krukow;Mecklenburg-Vorpommern;AT;2;AT
+2000637;Felte;Holzmaier;;male;28-02-1947;86753;MĂ¶ttingen;Bayern;DE;1;DE
+2009104;Anjeolaoluwa;Pfaffl;;female;28-02-1946;3051;Cottbus;Brandenburg;AT;2;AT
+2000639;Jorma;SchellhaaĂź;;male;28-02-1944;24782;BĂĽdelsdorf;Schleswig-Holstein;AT;2;AT
+2009450;Argyll;Bozkus;;male;28-02-1943;57627;Heuzert;Rheinland-Pfalz;SK;0;SK
+2007926;Fufa;Sauerteich;;female;28-02-1943;16278;Frauenhagen;Brandenburg;AT;2;AT
+2002296;Ongoro;Jonkers;;female;28-02-1942;99762;Buchholz;ThĂĽringen;DE;1;DE
+2005429;GĂĽlizar;Hau;;female;28-02-1941;25554;Moorhusen;Schleswig-Holstein;AT;2;AT
+2004031;Nyima;Hermens;;male;28-02-1939;37359;Effelder;ThĂĽringen;DE;1;DE
+2001823;Ronia;Nowikoff;;female;28-02-1939;25795;Weddingstedt;Schleswig-Holstein;DE;1;DE
+2008857;Dhurata;Berzing;;female;28-02-1937;29599;Weste;Niedersachsen;DE;1;DE
+2003785;Kaymetev;Berkholdt;;male;28-02-1936;6712;GeuĂźnitz;Sachsen-Anhalt;DE;1;DE
+2003962;Seyhan;Catalkaya;;female;28-02-1936;52477;Alsdorf;Nordrhein-Westfalen;DE;1;DE
+2005578;Enes;Chrzonowski;;male;28-02-1929;71701;Schwieberdingen;Baden-WĂĽrttemberg;SK;0;SK
+2001544;Joonyi;Grosschmid;;female;28-02-1924;15518;SteinhĂ¶fel JĂ¤nickendorf;Brandenburg;AT;2;AT
+2008591;Samir;Warnike;;male;28-02-1924;54649;Pintesfeld;Rheinland-Pfalz;AT;2;AT
+2001100;Elmir;Mentze;;male;28-02-1921;16230;Chorin;Brandenburg;SK;0;SK
 2007763;Nimer;Komander;;male;2000-05-29;70597;Stuttgart Hoffeld;Baden-WĂĽrttemberg;DE;1;DE
 2007247;Ă‡Äyan;Foith;;male;1960-05-29;79650;Schopfheim;Baden-WĂĽrttemberg;SK;0;SK
 2004593;TĂ´n;Geissendorff;;male;1957-05-29;59320;Ennigerloh;Nordrhein-Westfalen;AT;2;AT
@@ -253,22 +253,22 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2009072;Vidette;Welkert;;female;1967-01-29;23746;Kellenhusen;Schleswig-Holstein;DE;1;DE
 2004275;Berrdin;Germershausen;;male;1962-01-29;8340;Schwarzenberg/Erzgebirge;Sachsen;SK;0;SK
 2006062;Lienard;Dreyssigacker;;male;1938-01-29;24991;GroĂźsolt;Schleswig-Holstein;DE;1;DE
-2003264;Toja;Rasmuss;;female;29-2-1959;17459;Koserow;Mecklenburg-Vorpommern;DE;1;DE
-2004666;Florenz;Winterbauer;;female;29-2-1935;89365;RĂ¶fingen;Bayern;AT;2;AT
-2007152;Brooklyn;WĂĽrthle;;male;29-2-1922;15518;Briesen (Mark) Briesen (Mark);Brandenburg;AT;2;AT
-2004685;Miniel;Stephani;;male;29-2-1991;79650;Schopfheim;Baden-WĂĽrttemberg;AT;2;AT
-3010025;Ifeoma;Deych;;female;29-2-1970;99891;Emsetal;ThĂĽringen;AT;2;AT
+2003264;Toja;Rasmuss;;female;27-2-1959;17459;Koserow;Mecklenburg-Vorpommern;DE;1;DE
+2004666;Florenz;Winterbauer;;female;27-2-1935;89365;RĂ¶fingen;Bayern;AT;2;AT
+2007152;Brooklyn;WĂĽrthle;;male;27-2-1922;15518;Briesen (Mark) Briesen (Mark);Brandenburg;AT;2;AT
+2004685;Miniel;Stephani;;male;27-2-1991;79650;Schopfheim;Baden-WĂĽrttemberg;AT;2;AT
+2010025;Ifeoma;Deych;;female;27-2-1970;99891;Emsetal;ThĂĽringen;AT;2;AT
 2007789;ThĂ©odore;Stahlschmitt;;male;1936-02-29;49832;Freren;Niedersachsen;SK;0;SK
-2005560;Ivanka;Atmaca;;female;29-2-1927;17419;Garz;Mecklenburg-Vorpommern;SK;0;SK
-2003460;Emely-Mia;Wawrzynczok;;female;29-2-2009;55767;Gimbweiler;Rheinland-Pfalz;DE;1;DE
-2004410;Cinnamon;BĂĽchmeier;;female;29-2-1977;66887;Elzweiler;Rheinland-Pfalz;AT;2;AT
-2002393;Georg;Thoenies;;male;29-2-1974;56244;ArnshĂ¶fen;Rheinland-Pfalz;AT;2;AT
-2003450;Vico;Schindlmeier;;male;29-2-1963;54689;Preischeid;Rheinland-Pfalz;SK;0;SK
-2003781;Eyup;Weidlein;;male;29-2-1959;19372;Spornitz;Mecklenburg-Vorpommern;AT;2;AT
+2005560;Ivanka;Atmaca;;female;27-2-1927;17419;Garz;Mecklenburg-Vorpommern;SK;0;SK
+2003460;Emely-Mia;Wawrzynczok;;female;27-2-2009;55767;Gimbweiler;Rheinland-Pfalz;DE;1;DE
+2004410;Cinnamon;BĂĽchmeier;;female;27-2-1977;66887;Elzweiler;Rheinland-Pfalz;AT;2;AT
+2002393;Georg;Thoenies;;male;27-2-1974;56244;ArnshĂ¶fen;Rheinland-Pfalz;AT;2;AT
+2003450;Vico;Schindlmeier;;male;27-2-1963;54689;Preischeid;Rheinland-Pfalz;SK;0;SK
+2003781;Eyup;Weidlein;;male;27-2-1959;19372;Spornitz;Mecklenburg-Vorpommern;AT;2;AT
 2009585;Tsung-Wang;Hirskorn;;male;1952-02-29;54310;Minden;Rheinland-Pfalz;DE;1;DE
 2005406;Maria-Daria;Hlawatschek;;female;1984-02-29;77886;Lauf;Baden-WĂĽrttemberg;DE;1;DE
-2002721;Chaoqing;Bartelmai;;male;29-2-1962;46395;Bocholt;Nordrhein-Westfalen;SK;0;SK
-2002944;Drilon;Fesenmeir;;male;29-2-1943;24966;SĂ¶rup;Schleswig-Holstein;DE;1;DE
+2002721;Chaoqing;Bartelmai;;male;27-2-1962;46395;Bocholt;Nordrhein-Westfalen;SK;0;SK
+2002944;Drilon;Fesenmeir;;male;27-2-1943;24966;SĂ¶rup;Schleswig-Holstein;DE;1;DE
 2004332;Lorenzo;Goroll;;male;2006-03-29;99625;Kleinneuhausen;ThĂĽringen;AT;2;AT
 2006264;Sharifa;Roggenbrod;;female;2006-03-29;54552;Boxberg;Rheinland-Pfalz;SK;0;SK
 2005423;Swetosar;Seip;;male;1983-03-29;20148;Hamburg Rotherbaum;Hamburg;DE;1;DE
@@ -306,28 +306,28 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006287;Marek;MĂĽhlenkort;;male;1971-06-29;66879;Kollweiler;Rheinland-Pfalz;DE;1;DE
 2002671;Sari;Breitschwerdt;;male;1949-06-29;10319;Berlin;Berlin;SK;0;SK
 2009667;Yamuna;Wener;;female;1936-06-29;26736;KrummhĂ¶rn Visquard;Niedersachsen;SK;0;SK
-2008645;Momoh;Herberding;;male;29-02-2002;15907;LĂĽbben (Spreewald);Brandenburg;DE;1;DE
-2006851;Tysen;Filippi;;male;29-02-2001;38239;Salzgitter Watenstedt;Niedersachsen;AT;2;AT
-2000445;Soleil;Spengler;;male;29-02-1999;74426;BĂĽhlerzell;Baden-WĂĽrttemberg;AT;2;AT
-2007145;Jorge;Anspach;;male;29-02-1998;16306;Luckow-Petershagen;Brandenburg;SK;0;SK
-2004153;Munk-Ariun;Schlegemilch;;male;29-02-1997;95362;Kupferberg;Bayern;SK;0;SK
-2000507;Naelle;Ă–zer;;female;29-02-1991;26386;Wilhelmshaven;Niedersachsen;AT;2;AT
-2007616;Bowie;Alfaenger;;female;29-02-1989;50829;KĂ¶ln;Nordrhein-Westfalen;SK;0;SK
-2009081;Nikos;Kloose;;male;29-02-1981;91564;Neuendettelsau;Bayern;DE;1;DE
-2000697;Eila;Doleschel;;female;29-02-1978;65830;Kriftel;Hessen;SK;0;SK
-2002547;Feliyah-Nur;Borghans;;female;29-02-1971;18059;Rostock;Mecklenburg-Vorpommern;AT;2;AT
-2007690;Yoona;Mayer;;female;29-02-1966;25980;Westerland;Schleswig-Holstein;AT;2;AT
-2002369;Nelle;Weinholzner;;female;29-02-1965;29482;KĂĽsten;Niedersachsen;AT;2;AT
-2008050;Zan;Jablonskyj;;male;29-02-1958;19260;Bennin;Mecklenburg-Vorpommern;SK;0;SK
-2007084;Adole;Kriegbaum;;male;29-02-1953;18519;Miltzow;Mecklenburg-Vorpommern;SK;0;SK
-2009309;Shyheim;Gierhard;;male;29-02-1947;18469;Velgast;Mecklenburg-Vorpommern;DE;1;DE
-2004010;Janelle;von Teuffel;;female;29-02-1945;23942;PĂ¶tenitz;Mecklenburg-Vorpommern;SK;0;SK
-2000837;Mekail;Birnbaum;;male;29-02-1937;85293;Reichertshausen;Bayern;DE;1;DE
-2004707;Eda-Nur;UnterkĂ¶tter;;female;29-02-1933;4936;Ă–lsig;Brandenburg;SK;0;SK
-2003725;Collien;Lindenmeyer;;female;29-02-1931;36329;Romrod;Hessen;AT;2;AT
-2006235;Eddy;Heinecken;;male;29-02-1927;14728;KleĂźen-GĂ¶rne;Brandenburg;AT;2;AT
-2000987;Kwei;BaldĂźuhn;;male;29-02-1927;94439;RoĂźbach;Bayern;DE;1;DE
-2008005;Miro;Steinnes;;male;29-02-1922;23898;Sandesneben;Schleswig-Holstein;SK;0;SK
+2008645;Momoh;Herberding;;male;27-02-2002;15907;LĂĽbben (Spreewald);Brandenburg;DE;1;DE
+2006851;Tysen;Filippi;;male;27-02-2001;38239;Salzgitter Watenstedt;Niedersachsen;AT;2;AT
+2000445;Soleil;Spengler;;male;27-02-1999;74426;BĂĽhlerzell;Baden-WĂĽrttemberg;AT;2;AT
+2007145;Jorge;Anspach;;male;27-02-1998;16306;Luckow-Petershagen;Brandenburg;SK;0;SK
+2004153;Munk-Ariun;Schlegemilch;;male;27-02-1997;95362;Kupferberg;Bayern;SK;0;SK
+2000507;Naelle;Ă–zer;;female;27-02-1991;26386;Wilhelmshaven;Niedersachsen;AT;2;AT
+2007616;Bowie;Alfaenger;;female;27-02-1989;50829;KĂ¶ln;Nordrhein-Westfalen;SK;0;SK
+2009081;Nikos;Kloose;;male;27-02-1981;91564;Neuendettelsau;Bayern;DE;1;DE
+2000697;Eila;Doleschel;;female;27-02-1978;65830;Kriftel;Hessen;SK;0;SK
+2002547;Feliyah-Nur;Borghans;;female;27-02-1971;18059;Rostock;Mecklenburg-Vorpommern;AT;2;AT
+2007690;Yoona;Mayer;;female;27-02-1966;25980;Westerland;Schleswig-Holstein;AT;2;AT
+2002369;Nelle;Weinholzner;;female;27-02-1965;29482;KĂĽsten;Niedersachsen;AT;2;AT
+2008050;Zan;Jablonskyj;;male;27-02-1958;19260;Bennin;Mecklenburg-Vorpommern;SK;0;SK
+2007084;Adole;Kriegbaum;;male;27-02-1953;18519;Miltzow;Mecklenburg-Vorpommern;SK;0;SK
+2009309;Shyheim;Gierhard;;male;27-02-1947;18469;Velgast;Mecklenburg-Vorpommern;DE;1;DE
+2004010;Janelle;von Teuffel;;female;27-02-1945;23942;PĂ¶tenitz;Mecklenburg-Vorpommern;SK;0;SK
+2000837;Mekail;Birnbaum;;male;27-02-1937;85293;Reichertshausen;Bayern;DE;1;DE
+2004707;Eda-Nur;UnterkĂ¶tter;;female;27-02-1933;4936;Ă–lsig;Brandenburg;SK;0;SK
+2003725;Collien;Lindenmeyer;;female;27-02-1931;36329;Romrod;Hessen;AT;2;AT
+2006235;Eddy;Heinecken;;male;27-02-1927;14728;KleĂźen-GĂ¶rne;Brandenburg;AT;2;AT
+2000987;Kwei;BaldĂźuhn;;male;27-02-1927;94439;RoĂźbach;Bayern;DE;1;DE
+2008005;Miro;Steinnes;;male;27-02-1922;23898;Sandesneben;Schleswig-Holstein;SK;0;SK
 2006886;Govinda;Baumgart;;male;2002-05-28;1877;SchmĂ¶lln-Putzkau;Sachsen;SK;0;SK
 2005266;Stasia;Adaemmer;;female;1988-05-28;75233;Tiefenbronn;Baden-WĂĽrttemberg;DE;1;DE
 2009605;Birgit;Mayrl;;female;1986-05-28;39596;Baben;Sachsen-Anhalt;SK;0;SK
@@ -590,11 +590,11 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2003665;Milka;LĂ¤mmermaier;;female;1977-06-26;39264;Moritz;Sachsen-Anhalt;DE;1;DE
 2007563;Enzo-Isaak;Meyercord;;male;1922-06-26;88167;Gestratz;Bayern;SK;0;SK
 2004236;Arif;Helmentag;;male;1920-06-26;79367;Weisweil;Baden-WĂĽrttemberg;AT;2;AT
-3010052;Darshan;Tokcan;;male;1994-06-26;53520;Senscheid;Rheinland-Pfalz;SK;0;SK
-3010024;Melinha;Meiers;;female;1983-06-26;96317;Kronach;Bayern;DE;1;DE
+2010052;Darshan;Tokcan;;male;1994-06-26;53520;Senscheid;Rheinland-Pfalz;SK;0;SK
+2010024;Melinha;Meiers;;female;1983-06-26;96317;Kronach;Bayern;DE;1;DE
 2006800;Terrance;Rosenmeier;;male;1982-06-26;87490;Haldenwang;Bayern;AT;2;AT
 2001379;Kassandra;Henkemeyer;;female;1979-06-26;22946;Grande;Schleswig-Holstein;SK;0;SK
-3010022;Hysen;KirchhĂ¶fner;;male;1967-06-26;46419;Isselburg;Nordrhein-Westfalen;SK;0;SK
+2010022;Hysen;KirchhĂ¶fner;;male;1967-06-26;46419;Isselburg;Nordrhein-Westfalen;SK;0;SK
 2006250;Margareta;Endrulis;;female;2003-05-25;4610;Wintersdorf;ThĂĽringen;AT;2;AT
 2002773;LorĂˇnd;Berwarth;;male;1985-05-25;28876;Oyten;Niedersachsen;AT;2;AT
 2000855;Mylo;Wiegant;;male;1970-05-25;38486;Ristedt;Sachsen-Anhalt;DE;1;DE
@@ -714,7 +714,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001243;Iya;Bartolmee;;female;1956-03-24;44289;Dortmund;Nordrhein-Westfalen;SK;0;SK
 2007352;Jure;Siegle;;male;1998-03-24;99735;Friedrichsthal;ThĂĽringen;DE;1;DE
 2005783;Erchsaran;Sadovska;;female;1982-03-24;91737;Ornbau;Bayern;DE;1;DE
-3010096;Vivan;von Fritz;;female;1982-03-24;2826;GĂ¶rlitz;Sachsen;SK;0;SK
+2010096;Vivan;von Fritz;;female;1982-03-24;2826;GĂ¶rlitz;Sachsen;SK;0;SK
 2007684;Jhon;Engele;;male;1968-03-24;56729;Luxem;Rheinland-Pfalz;SK;0;SK
 2001659;Lubaki;DĂ¶hnel;;male;1949-03-24;49843;GĂ¶lenkamp;Niedersachsen;SK;0;SK
 2006070;Thyson;Franzkoch;;male;1936-03-24;6369;Dohndorf;Sachsen-Anhalt;AT;2;AT
@@ -909,7 +909,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002911;Tsuri;Brechters;;female;1966-05-22;95666;Leonberg;Bayern;DE;1;DE
 2008962;Jolanda;Akdeniz;;female;1941-05-22;3253;Doberlug-Kirchhain;Brandenburg;SK;0;SK
 2009696;Damijan;Ahnhut;;male;1932-05-22;19200;Zierzow;Mecklenburg-Vorpommern;DE;1;DE
-3010026;Athapon;PĂ¤hr;;male;2009-05-22;57080;Siegen;Nordrhein-Westfalen;AT;2;AT
+2010026;Athapon;PĂ¤hr;;male;2009-05-22;57080;Siegen;Nordrhein-Westfalen;AT;2;AT
 2005774;Janka;Moldenhauer;;female;2002-05-22;55743;Idar-Oberstein;Rheinland-Pfalz;AT;2;AT
 2004006;Skyla-Juli;Robberding;;female;1982-05-22;80801;MĂĽnchen;Bayern;SK;0;SK
 2002454;Schadja;DĂ¶rffler;;female;1978-05-22;24887;Silberstedt;Schleswig-Holstein;AT;2;AT
@@ -977,7 +977,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2005673;Branimir;Neitscher;;male;1985-03-21;26639;Wiesmoor Wiesederfehn;Niedersachsen;SK;0;SK
 2008902;Cezar;Huebers;;male;1970-03-21;93343;Essing;Bayern;AT;2;AT
 2009362;Avila;Powilat;;female;1961-03-21;25712;Quickborn;Schleswig-Holstein;DE;1;DE
-3010100;Aidina;Konn;;female;1957-03-21;54636;Idenheim;Rheinland-Pfalz;AT;2;AT
+2010100;Aidina;Konn;;female;1957-03-21;54636;Idenheim;Rheinland-Pfalz;AT;2;AT
 2007610;Ulli;Martmoeller;;male;1954-03-21;92696;FlossenbĂĽrg;Bayern;DE;1;DE
 2004993;Lucca;Manteuffel;;female;1932-03-21;78056;Villingen-Schwenningen;Baden-WĂĽrttemberg;SK;0;SK
 2003904;Ahmed;Demiroglu;;female;1921-03-21;20251;Hamburg Alsterdorf;Hamburg;SK;0;SK
@@ -1194,7 +1194,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002837;Tahmina;Kubatschek;;female;1958-05-18;58513;LĂĽdenscheid;Nordrhein-Westfalen;AT;2;AT
 2005425;Jun;Duchscherer;;male;1924-05-18;44229;Dortmund;Nordrhein-Westfalen;AT;2;AT
 2002403;Amos-Elisei;Ladwich;;male;1923-05-18;21514;Kankelau;Schleswig-Holstein;AT;2;AT
-3010070;Azzam;Reinhartz;;male;1990-01-18;27336;HĂ¤uslingen;Niedersachsen;DE;1;DE
+2010070;Azzam;Reinhartz;;male;1990-01-18;27336;HĂ¤uslingen;Niedersachsen;DE;1;DE
 2009070;MaksimoviÄŤ;Huge;;male;1931-01-18;89188;Merklingen Widderstall;Baden-WĂĽrttemberg;AT;2;AT
 2003179;Selasi;Bastiansen;;female;1923-01-18;38889;Altenbrak;Sachsen-Anhalt;SK;0;SK
 2005840;Mayea;Preikschas;;female;1956-01-18;91480;Markt Taschendorf;Bayern;SK;0;SK
@@ -1246,7 +1246,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2005310;Munjoh;Winklmair;;female;1921-05-18;57644;Hattert;Rheinland-Pfalz;SK;0;SK
 2003363;Yamac;Bajorek;;male;2004-05-18;10827;Berlin;Berlin;DE;1;DE
 2008706;Zara;Ostertak;;female;1986-05-18;39624;Packebusch;Sachsen-Anhalt;SK;0;SK
-3010017;Yarin;Hammermann;;female;1982-05-18;86163;Augsburg;Bayern;AT;2;AT
+2010017;Yarin;Hammermann;;female;1982-05-18;86163;Augsburg;Bayern;AT;2;AT
 2002612;Eliandro;Branding;;male;1977-05-18;6132;Halle;Sachsen-Anhalt;DE;1;DE
 2002414;Mikolai;Stahlhut;;male;1967-05-18;25761;Westerdeichstrich;Schleswig-Holstein;SK;0;SK
 2005646;Amel;Darcan;;female;2000-05-18;4129;Leipzig;Sachsen;DE;1;DE
@@ -1355,7 +1355,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2005365;Hillevie;Rothschuh;;female;1932-06-17;75428;Illingen;Baden-WĂĽrttemberg;SK;0;SK
 2006925;Aarao;Pirmann;;male;1920-06-17;70180;Stuttgart Stuttgart-Mitte;Baden-WĂĽrttemberg;DE;1;DE
 2006974;Floria;Alberts;;female;1986-06-17;70563;Stuttgart Vaihingen;Baden-WĂĽrttemberg;DE;1;DE
-3010001;Jovo-BeĹˇo;Koene;;male;1975-06-17;39646;Oebisfelde;Sachsen-Anhalt;AT;2;AT
+2010106;Jovo-BeĹˇo;Koene;;male;1975-06-17;39646;Oebisfelde;Sachsen-Anhalt;AT;2;AT
 2006723;Kaami;Blazej;;male;1960-06-17;63579;Freigericht;Hessen;AT;2;AT
 2008606;Giulia;Altknecht;;female;1990-05-16;98744;OberweiĂźbach;ThĂĽringen;SK;0;SK
 2001817;Willow;Kolodzijeski;;female;1986-05-16;31634;Steimbke Steimbke;Niedersachsen;DE;1;DE
@@ -1447,7 +1447,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2005675;Ishini;Pfefferlein;;female;2004-06-16;2681;Kirschau;Sachsen;SK;0;SK
 2002494;Marie;Biernath;;male;1999-06-16;97234;Reichenberg;Bayern;SK;0;SK
 2003097;Bartlomiej;Beers;;male;1956-06-16;55232;Alzey;Rheinland-Pfalz;DE;1;DE
-3010068;Soraja;Kirchenmajer;;female;1940-06-16;29359;Habighorst;Niedersachsen;SK;0;SK
+2010068;Soraja;Kirchenmajer;;female;1940-06-16;29359;Habighorst;Niedersachsen;SK;0;SK
 2003548;Bonta;Strakerjahn;;female;1927-06-16;97234;Reichenberg;Bayern;AT;2;AT
 2002099;Tumusiime;Karstaedt;;female;1955-05-15;16348;Ruhlsdorf;Brandenburg;DE;1;DE
 2004169;Phill;Wernli;;male;1951-05-15;8371;Glauchau;Sachsen;DE;1;DE
@@ -1508,7 +1508,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2007810;Widad;Heinrichmaier;;female;1967-03-15;76356;Weingarten;Baden-WĂĽrttemberg;AT;2;AT
 2006048;Genius-Alvaro;Nikolajsen;;male;1927-03-15;64407;FrĂ¤nkisch-Crumbach;Hessen;AT;2;AT
 2006529;Ewan;Vollers;;male;1926-03-15;24975;Husby;Schleswig-Holstein;SK;0;SK
-3010032;Colin;MĂ¶hlenbrok;;male;2008-05-15;35799;Merenberg;Hessen;DE;1;DE
+2010032;Colin;MĂ¶hlenbrok;;male;2008-05-15;35799;Merenberg;Hessen;DE;1;DE
 2007055;Furkan-Efe;Roskam;;male;1991-05-15;31700;HeuerĂźen;Niedersachsen;SK;0;SK
 2003842;Arjo;Frische;;male;1935-05-15;92696;FlossenbĂĽrg;Bayern;AT;2;AT
 2007713;Bodiel;Vulpes;;female;1925-05-15;16278;Mark Landin;Brandenburg;SK;0;SK
@@ -1542,7 +1542,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2009157;Ahmet-Asaf;Ondrackova;;male;1920-05-14;95466;Kirchenpingarten;Bayern;AT;2;AT
 2000586;Khadre;Eichelhart;;male;2001-01-14;57629;Limbach;Rheinland-Pfalz;DE;1;DE
 2004570;Raees;MĂ¤usnest;;male;1976-01-14;33106;Paderborn;Nordrhein-Westfalen;AT;2;AT
-3010056;Alanis;MuĂźil;;female;1951-01-14;6766;Wolfen;Sachsen-Anhalt;SK;0;SK
+2010056;Alanis;MuĂźil;;female;1951-01-14;6766;Wolfen;Sachsen-Anhalt;SK;0;SK
 2005587;LorĂˇnd;GramĂĽller;;male;1938-01-14;99955;HaussĂ¶mmern;ThĂĽringen;SK;0;SK
 2005939;Jaylen;Kurtscheidt;;male;1926-01-14;79194;Heuweiler;Baden-WĂĽrttemberg;SK;0;SK
 2005391;Chahrazed;Klinglmayr;;female;1958-01-14;6429;Gerbitz;Sachsen-Anhalt;SK;0;SK
@@ -1650,7 +1650,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2005193;AslÄ±-Nezafet;Kaffka;;female;1932-01-13;84573;SchĂ¶nberg;Bayern;DE;1;DE
 2001026;Jenny;Kools;;female;1998-02-13;6429;Pobzig;Sachsen-Anhalt;DE;1;DE
 2006348;Stian;Kolodziejczyk;;male;1993-02-13;88636;Illmensee;Baden-WĂĽrttemberg;AT;2;AT
-3010000;Wenzira;GĂĽlsoy;;female;1982-02-13;13057;Berlin;Berlin;SK;0;SK
+2010107;Wenzira;GĂĽlsoy;;female;1982-02-13;13057;Berlin;Berlin;SK;0;SK
 2001713;Amanuel;JĂ¶tzlaff;;male;1976-02-13;95138;Bad Steben;Bayern;DE;1;DE
 2002657;Nurettin;FaĂźbaender;;male;1970-02-13;71282;Hemmingen;Baden-WĂĽrttemberg;SK;0;SK
 2000845;Esma;Guntram;;female;1932-02-13;17213;GĂ¶hren-Lebbin;Mecklenburg-Vorpommern;AT;2;AT
@@ -1722,7 +1722,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2003270;Cleofe;Schafarik;;female;1967-05-12;24235;Wendtorf;Schleswig-Holstein;SK;0;SK
 2004427;Houefa;Hadamzick;;female;1962-05-12;55768;HoppstĂ¤dten-Weiersbach;Rheinland-Pfalz;SK;0;SK
 2002508;Zuri;Himmelsbach;;male;1959-05-12;39359;Eickendorf;Sachsen-Anhalt;DE;1;DE
-3010046;Laurel;JĂĽrgenlohmann;;male;1922-05-12;89191;Nellingen Oppingen;Baden-WĂĽrttemberg;AT;2;AT
+2010046;Laurel;JĂĽrgenlohmann;;male;1922-05-12;89191;Nellingen Oppingen;Baden-WĂĽrttemberg;AT;2;AT
 2005725;MĂ©lodie;Fundheller;;female;2006-01-12;88631;Beuron;Baden-WĂĽrttemberg;AT;2;AT
 2009587;Keiko;Sievert;;female;2003-01-12;2979;Spreetal;Sachsen;DE;1;DE
 2008380;Konstancja;Reinkensmeier;;female;2002-01-12;24616;Sarlhusen;Schleswig-Holstein;SK;0;SK
@@ -1761,7 +1761,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001686;Neylah;Freyboth;;female;1968-02-12;26736;KrummhĂ¶rn Groothusen;Niedersachsen;AT;2;AT
 2005755;Aina;Moosmeyer;;female;2009-03-12;98617;Stepfershausen;ThĂĽringen;DE;1;DE
 2004693;Cebrail;Kurpius;;male;2002-03-12;1998;Schipkau Klettwitz;Brandenburg;SK;0;SK
-3010080;Enrik;Rosenbach;;male;1990-03-12;84092;Bayerbach;Bayern;DE;1;DE
+2010080;Enrik;Rosenbach;;male;1990-03-12;84092;Bayerbach;Bayern;DE;1;DE
 2000343;Valeria;Burgmaier;;female;1973-03-12;8233;Treuen;Sachsen;AT;2;AT
 2005543;Sylvi;Wekesser;;female;1949-03-12;73463;Westhausen;Baden-WĂĽrttemberg;SK;0;SK
 2002341;Weiwei;Waagener;;female;2002-03-12;6179;Schochwitz;Sachsen-Anhalt;DE;1;DE
@@ -1943,7 +1943,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2009557;Ates;Breitung;;male;1930-02-10;17375;Meiersberg;Mecklenburg-Vorpommern;DE;1;DE
 2006834;Estrella;RĂĽchhardt;;female;1928-02-10;17268;Mittenwalde;Brandenburg;AT;2;AT
 2007829;Princess;Lafferentz;;female;1967-03-10;3202;Luckow-Petershagen;Brandenburg;DE;1;DE
-3010009;Melvin;BietendĂĽbel;;male;1950-03-10;16562;Bergfelde;Brandenburg;SK;0;SK
+2010108;Melvin;BietendĂĽbel;;male;1950-03-10;16562;Bergfelde;Brandenburg;SK;0;SK
 2004201;Gerhart;Horeischy;;male;1946-03-10;34329;Nieste;Hessen;SK;0;SK
 2006979;Oghogho;Clausius;;female;1934-03-10;53533;Antweiler;Rheinland-Pfalz;DE;1;DE
 2009428;Keke;Radszun;;male;1970-03-10;39439;GĂĽsten;Sachsen-Anhalt;SK;0;SK
@@ -1976,7 +1976,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002878;Lorentzo;Balz;;male;1998-05-10;47661;Issum;Nordrhein-Westfalen;DE;1;DE
 2008542;Dusko;Paulukuhn;;male;1997-05-10;16921;Alt KrĂĽssow;Brandenburg;AT;2;AT
 2002606;FedoroviÄŤ;Stahl;;male;1987-05-10;47179;Duisburg;Nordrhein-Westfalen;DE;1;DE
-3010073;Marea;Haitzmann;;female;1961-05-10;3149;Wiesengrund;Brandenburg;SK;0;SK
+2010073;Marea;Haitzmann;;female;1961-05-10;3149;Wiesengrund;Brandenburg;SK;0;SK
 2006336;Paco;Klingenstein;;male;1944-05-10;83101;Rohrdorf;Bayern;AT;2;AT
 2000529;Erasmus;Nikolaizik;;male;1937-05-10;95463;Bindlach;Bayern;AT;2;AT
 2004424;Makarius;Kleinbauer;;male;1937-05-10;53229;Bonn;Nordrhein-Westfalen;SK;0;SK
@@ -2110,7 +2110,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006702;Suryan;Boenhardt;;male;1992-02-08;54570;Hinterweiler;Rheinland-Pfalz;AT;2;AT
 2007070;Elia-Can;Grunenwald;;male;1981-02-08;79677;Aitern;Baden-WĂĽrttemberg;AT;2;AT
 2002244;XuĂ˘n;Peteratzinger;;male;1978-02-08;55278;Uelversheim;Rheinland-Pfalz;SK;0;SK
-3010053;Matsuura;Ishikawa;;male;1969-02-08;54552;Katzwinkel;Rheinland-Pfalz;AT;2;AT
+2010053;Matsuura;Ishikawa;;male;1969-02-08;54552;Katzwinkel;Rheinland-Pfalz;AT;2;AT
 2009968;Alea;Goldenberg;;female;1958-02-08;89346;Bibertal;Bayern;AT;2;AT
 2001768;Ejiro;HorstkĂ¶tter;;male;1943-02-08;16945;Meyenburg;Brandenburg;DE;1;DE
 2000736;Elina-Sophie;Lentzner;;female;1935-02-08;54441;Taben-Rodt;Rheinland-Pfalz;DE;1;DE
@@ -2169,10 +2169,10 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002077;Albrecht;Abasiz;;male;2007-06-08;22527;Hamburg Eidelstedt;Hamburg;SK;0;SK
 2009623;Leni-Sofie;Niyaz;;female;2001-06-08;18184;Thulendorf;Mecklenburg-Vorpommern;SK;0;SK
 2006476;Ĺžirin;Meredig;;female;1939-06-08;25436;Neuendeich;Schleswig-Holstein;AT;2;AT
-3010005;Simile;EiĂźfeld;;female;2009-05-07;56814;Beilstein;Rheinland-Pfalz;SK;0;SK
+2010109;Simile;EiĂźfeld;;female;2009-05-07;56814;Beilstein;Rheinland-Pfalz;SK;0;SK
 2007599;Tesnim;SĂ¤lzle;;female;1986-05-07;16269;Bliesdorf;Brandenburg;AT;2;AT
 2003532;Saji;Reincken;;male;1956-05-07;79244;MĂĽnstertal;Baden-WĂĽrttemberg;SK;0;SK
-3010047;Muenes;Malterer;;male;1952-05-07;74865;Neckarzimmern;Baden-WĂĽrttemberg;AT;2;AT
+2010047;Muenes;Malterer;;male;1952-05-07;74865;Neckarzimmern;Baden-WĂĽrttemberg;AT;2;AT
 2007774;Emmet;Weizenmiller;;male;1935-05-07;65843;Sulzbach;Hessen;SK;0;SK
 2003605;Abdelrahman;Nicholls;;male;2002-01-07;34388;Trendelburg;Hessen;SK;0;SK
 2008106;Tibor;Leisse;;male;2002-01-07;30938;Burgwedel;Niedersachsen;AT;2;AT
@@ -2232,7 +2232,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001611;Ove;Kruth;;male;2008-03-07;48361;Beelen;Nordrhein-Westfalen;AT;2;AT
 2007814;Timur;Koenemann;;male;1982-03-07;19386;Granzin;Mecklenburg-Vorpommern;SK;0;SK
 2004872;Mushka;GĂ¶rlacher;;female;1980-03-07;91477;Markt Bibart;Bayern;SK;0;SK
-3010097;Berkay;MartienĂźen;;male;1969-03-07;29496;Waddeweitz Dickfeitzen;Niedersachsen;DE;1;DE
+2010097;Berkay;MartienĂźen;;male;1969-03-07;29496;Waddeweitz Dickfeitzen;Niedersachsen;DE;1;DE
 2003800;Fotini;Rolleder;;female;1968-03-07;19399;Neu Poserin;Mecklenburg-Vorpommern;AT;2;AT
 2000349;Newroz;Schnitgerhans;;female;1943-03-07;76889;Steinfeld;Rheinland-Pfalz;SK;0;SK
 2008215;Didar;Froschmayr;;male;1997-03-07;54349;Trittenheim;Rheinland-Pfalz;AT;2;AT
@@ -2241,7 +2241,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2008601;Suliman;Urbaincyk;;male;1999-05-07;18556;Dranske;Mecklenburg-Vorpommern;DE;1;DE
 2009903;Luigi;Hartle;;male;1971-05-07;6333;Quenstedt;Sachsen-Anhalt;SK;0;SK
 2000701;Elza;Johanesson;;female;1960-05-07;6536;Berga;Sachsen-Anhalt;SK;0;SK
-3010105;Erhard;Wever;;male;1959-05-07;83229;Aschau im Chiemgau;Bayern;AT;2;AT
+2010105;Erhard;Wever;;male;1959-05-07;83229;Aschau im Chiemgau;Bayern;AT;2;AT
 2008873;Serafina;Cetinbas;;female;1949-05-07;29471;Gartow Gartow;Niedersachsen;SK;0;SK
 2006991;Erol;Weishaupt;;female;1933-05-07;97320;Sulzfeld am Main;Bayern;AT;2;AT
 2005535;Milton;Pruehs;;male;2002-05-07;67294;Stetten;Rheinland-Pfalz;SK;0;SK
@@ -2268,7 +2268,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006562;Ă–zge;Bernazky;;female;2004-06-07;34233;Fuldatal;Hessen;AT;2;AT
 2009870;Bircan;Bast;;female;1995-06-07;17498;Neuenkirchen;Mecklenburg-Vorpommern;AT;2;AT
 2003040;Samuli;Raichle;;male;1987-06-07;39240;GlĂ¶the;Sachsen-Anhalt;DE;1;DE
-3010030;Ionatan;Himmelstein;;male;1985-06-07;29562;Suhlendorf;Niedersachsen;SK;0;SK
+2010030;Ionatan;Himmelstein;;male;1985-06-07;29562;Suhlendorf;Niedersachsen;SK;0;SK
 2006234;Theodore;Geissdorf;;female;1976-06-07;19294;MalliĂź;Mecklenburg-Vorpommern;AT;2;AT
 2001916;NoĂ©;Trachsler;;male;1948-06-07;85643;SteinhĂ¶ring;Bayern;DE;1;DE
 2007681;Gertje;Michalko;;female;1943-06-07;31552;Apelern;Niedersachsen;DE;1;DE
@@ -2326,7 +2326,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2004835;Mat;GĂ¤nsshirt;;male;1928-03-06;6188;Niemberg;Sachsen-Anhalt;AT;2;AT
 2004377;Lumara;Hensgens;;female;1922-03-06;29413;Bonese;Sachsen-Anhalt;DE;1;DE
 2009225;Neel;Smet;;male;1995-03-06;15806;Telz;Brandenburg;AT;2;AT
-3010078;Flinn;Vorholz;;male;1983-03-06;56588;Waldbreitbach;Rheinland-Pfalz;AT;2;AT
+2010078;Flinn;Vorholz;;male;1983-03-06;56588;Waldbreitbach;Rheinland-Pfalz;AT;2;AT
 2000439;Gideon;Servatius;;male;1982-03-06;29468;Bergen (Dumme) Banzau;Niedersachsen;DE;1;DE
 2004740;Lanika;Grotejohann;;female;1977-03-06;26553;Dornum Dornumersiel;Niedersachsen;DE;1;DE
 2009991;Marigo;Foelckel;;female;1974-03-06;89331;Burgau;Bayern;DE;1;DE
@@ -2441,7 +2441,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2009201;Sophia-Marie;Piephans;;female;1929-06-05;63694;Limeshain;Hessen;DE;1;DE
 2006654;DaynĂ©e;Hardtmann;;female;1920-06-05;65582;Diez;Rheinland-Pfalz;AT;2;AT
 2008369;Ann-MickaĂ«lla;Kern;;female;2004-05-04;39517;Ringfurth;Sachsen-Anhalt;SK;0;SK
-3010002;Jamieson;Cakirer;;male;1996-05-04;55481;Maitzborn;Rheinland-Pfalz;AT;2;AT
+2010110;Jamieson;Cakirer;;male;1996-05-04;55481;Maitzborn;Rheinland-Pfalz;AT;2;AT
 2006610;Khaleesi;Schloddarick;;female;1993-05-04;32049;Herford;Nordrhein-Westfalen;SK;0;SK
 2008692;Gloriousvirtue;Nothof;;female;1984-05-04;88524;Uttenweiler;Baden-WĂĽrttemberg;AT;2;AT
 2009936;Defne;Bartle;;female;1978-05-04;10555;Berlin;Berlin;AT;2;AT
@@ -2708,7 +2708,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2000881;Nimarjot;WeisshĂ¤upel;;male;1937-01-01;17194;Hohen Wangelin;Mecklenburg-Vorpommern;DE;1;DE
 2004696;Iga;Platvoetz;;female;2005-01-01;97901;Altenbuch;Bayern;DE;1;DE
 2008887;Evi;BĂ¤rtling;;female;2005-01-01;98547;Schwarza;ThĂĽringen;DE;1;DE
-3010093;Omeima;Exl;;female;1978-01-01;79589;Binzen;Baden-WĂĽrttemberg;AT;2;AT
+2010093;Omeima;Exl;;female;1978-01-01;79589;Binzen;Baden-WĂĽrttemberg;AT;2;AT
 2001472;Qingya;Trappschuh;;female;1971-01-01;45277;Essen;Nordrhein-Westfalen;AT;2;AT
 2009343;Delyla;Nowikow;;female;1942-01-01;16259;Falkenberg Kruge/Gersdorf;Brandenburg;DE;1;DE
 2004463;Andre;Salem;;male;1965-01-01;89367;Waldstetten;Bayern;DE;1;DE
@@ -2819,7 +2819,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002382;Gretje;Doenges;;female;2009-04-30;16244;Finowfurt;Brandenburg;SK;0;SK
 2009998;Egemen;Gerwin;;male;2009-04-22;6618;Naumburg;Sachsen-Anhalt;AT;2;AT
 2003457;Oluwafisayomi;Wuithschick;;male;2009-04-22;82294;Oberschweinbach;Bayern;AT;2;AT
-3010028;Keali;Hilebrand;;female;2009-04-19;65931;Frankfurt am Main;Hessen;SK;0;SK
+2010028;Keali;Hilebrand;;female;2009-04-19;65931;Frankfurt am Main;Hessen;SK;0;SK
 2007003;Mallory;Lammerer;;female;2009-04-18;29459;Clenze Schlannau;Niedersachsen;SK;0;SK
 2002619;Sonny;Rudkowsky;;male;2009-04-17;21037;Hamburg;Hamburg;DE;1;DE
 2008576;Daud;Wend;;male;2009-04-16;33100;Paderborn;Nordrhein-Westfalen;SK;0;SK
@@ -3072,17 +3072,17 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2008599;Bilel;Benze;;male;2006-02-02;14712;Rathenow;Brandenburg;DE;1;DE
 2003746;Josefien;Koroliuk;;female;2006-02-02;38154;KĂ¶nigslutter am Elm;Niedersachsen;AT;2;AT
 2009894;Margaritha;Soydemir;;female;2006-01-24;57572;Niederfischbach;Rheinland-Pfalz;DE;1;DE
-3010091;Kevo;Garcia;;male;2006-01-23;22523;Hamburg;Hamburg;DE;1;DE
+2010091;Kevo;Garcia;;male;2006-01-23;22523;Hamburg;Hamburg;DE;1;DE
 2006645;PeneleopĂ©;Buedenbender;;female;2006-01-23;31749;Auetal Borstel;Niedersachsen;DE;1;DE
 2001374;Magdalini;Behrendsen;;female;2006-01-21;9569;Gahlenz;Sachsen;DE;1;DE
 2002026;Kleo;Tastan;;female;2006-01-17;54636;HĂĽttingen an der Kyll;Rheinland-Pfalz;SK;0;SK
 2001170;Lijam;Perkhun;;male;2006-01-08;88370;Ebenweiler;Baden-WĂĽrttemberg;SK;0;SK
 2001232;Venice;Bittroff;;male;2006-01-01;27419;GroĂź Meckelsen;Niedersachsen;AT;2;AT
 2002090;Rinas;Borovsky;;female;2005-12-05;21407;Deutsch Evern;Niedersachsen;AT;2;AT
-3010081;Má»™c;BrĂ¶kenkamp;;female;2005-11-20;99994;Schlotheim;ThĂĽringen;AT;2;AT
+2010081;Má»™c;BrĂ¶kenkamp;;female;2005-11-20;99994;Schlotheim;ThĂĽringen;AT;2;AT
 2001139;Zannatul;Schenfisch;;female;2005-11-04;44653;Herne;Nordrhein-Westfalen;AT;2;AT
 2003550;Tidiane;Scholtheis;;male;2005-11-01;53518;Wimbach;Rheinland-Pfalz;DE;1;DE
-3010061;DÄ±lxaz;Hasenzahl;;male;2005-10-17;26556;Nenndorf;Niedersachsen;DE;1;DE
+2010061;DÄ±lxaz;Hasenzahl;;male;2005-10-17;26556;Nenndorf;Niedersachsen;DE;1;DE
 2002819;Zuzanna;Spannagl;;female;2005-09-21;88131;Bodolz;Bayern;SK;0;SK
 2008447;Nguayulu;Urbeinski;;male;2005-07-04;79692;Sallneck;Baden-WĂĽrttemberg;SK;0;SK
 2007460;ThuĂ˘n;Scheuerle;;male;2005-06-30;6179;Bennstedt;Sachsen-Anhalt;AT;2;AT
@@ -3101,11 +3101,11 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2000729;Abdulhaleem;NeubĂ¶ck;;male;2005-05-16;16866;Kyritz Drewen;Brandenburg;DE;1;DE
 2007387;Blake;Christl;;male;2005-05-15;47551;Bedburg-Hau;Nordrhein-Westfalen;DE;1;DE
 2008912;Zac;Ackermann;;male;2005-05-13;33607;Bielefeld;Nordrhein-Westfalen;DE;1;DE
-3010019;Weingart;Lenzen;;male;2005-05-12;31789;Hameln;Niedersachsen;DE;1;DE
+2010019;Weingart;Lenzen;;male;2005-05-12;31789;Hameln;Niedersachsen;DE;1;DE
 2007813;Dominion;Goebe;;female;2005-05-12;28209;Bremen;Bremen;SK;0;SK
 2009077;Jorune;Kohlhus;;female;2005-05-10;16303;Schwedt/Oder;Brandenburg;DE;1;DE
 2008703;Boyko;EitemĂĽller;;male;2005-05-05;78598;KĂ¶nigsheim;Baden-WĂĽrttemberg;DE;1;DE
-3010013;Elvisa;Pawlowa;;female;2005-05-04;19357;Dambeck;Mecklenburg-Vorpommern;AT;2;AT
+2010111;Elvisa;Pawlowa;;female;2005-05-04;19357;Dambeck;Mecklenburg-Vorpommern;AT;2;AT
 2002761;Luna;Dombrovskiy;;female;2005-05-01;9126;Chemnitz;Sachsen;DE;1;DE
 2005308;Laurenz;Ered;;male;2005-04-30;87736;BĂ¶hen;Bayern;SK;0;SK
 2006607;Rudolf;Barann;;male;2005-04-29;24631;Langwedel;Schleswig-Holstein;DE;1;DE
@@ -3253,8 +3253,8 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2004660;Fatma;Wilde;;female;2004-01-07;39359;CalvĂ¶rde;Sachsen-Anhalt;AT;2;AT
 2006226;Klara;Gerstenkamp;;female;2004-01-06;22299;Hamburg Winterhude;Hamburg;AT;2;AT
 2007961;Willow;von der Strate;;female;2004-01-03;6809;Petersroda;Sachsen-Anhalt;DE;1;DE
-3010103;Ziya;Wuerst;;male;2004-01-03;16831;Rheinsberg Zechow;Brandenburg;DE;1;DE
-3010044;Horus;Niemand;;male;2004-01-01;6528;Riestedt;Sachsen-Anhalt;AT;2;AT
+2010103;Ziya;Wuerst;;male;2004-01-03;16831;Rheinsberg Zechow;Brandenburg;DE;1;DE
+2010044;Horus;Niemand;;male;2004-01-01;6528;Riestedt;Sachsen-Anhalt;AT;2;AT
 2009668;Rahim;Molitor;;male;2003-12-30;56412;GĂ¶rgeshausen;Rheinland-Pfalz;SK;0;SK
 2007830;Hala;Liebreich;;female;2003-12-11;27248;Ehrenburg;Niedersachsen;SK;0;SK
 2008286;Vladislavovna;Graulich;;female;2003-11-09;47051;Duisburg;Nordrhein-Westfalen;AT;2;AT
@@ -3271,7 +3271,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2008773;Scheimaa;Bohnenberg;;female;2003-05-23;90478;NĂĽrnberg;Bayern;SK;0;SK
 2002781;Minousha;GrĂĽnfeldt;;female;2003-05-22;63599;BiebergemĂĽnd;Hessen;SK;0;SK
 2000295;Amaar;Raymond;;female;2003-05-21;52159;Roetgen;Nordrhein-Westfalen;AT;2;AT
-3010065;EylĂĽl;Wansleven;;female;2003-05-20;56593;Krunkel;Rheinland-Pfalz;AT;2;AT
+2010065;EylĂĽl;Wansleven;;female;2003-05-20;56593;Krunkel;Rheinland-Pfalz;AT;2;AT
 2000214;Kyrill;FrĂ¤mke;;male;2003-05-19;56357;Nochern;Rheinland-Pfalz;SK;0;SK
 2000117;Fuad;Balser;;female;2003-05-18;31855;Aerzen;Niedersachsen;SK;0;SK
 2003050;Mizyan;Bohms;;male;2003-05-17;27389;Helvesiek;Niedersachsen;DE;1;DE
@@ -3320,7 +3320,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002799;Horus;Didrichs;;male;2003-01-25;79591;Eimeldingen;Baden-WĂĽrttemberg;AT;2;AT
 2006608;Manju;Janassek;;female;2003-01-23;17111;SiedenbrĂĽnzow;Mecklenburg-Vorpommern;SK;0;SK
 2004459;Jailson;Faht;;male;2003-01-21;99631;Herrnschwende;ThĂĽringen;AT;2;AT
-3010045;Klee;Petschock;;female;2003-01-19;55234;Nieder-Wiesen;Rheinland-Pfalz;AT;2;AT
+2010045;Klee;Petschock;;female;2003-01-19;55234;Nieder-Wiesen;Rheinland-Pfalz;AT;2;AT
 2008367;IsaĂ­as;Anton;;male;2003-01-16;24794;Borgstedt;Schleswig-Holstein;AT;2;AT
 2000705;Shiloah;Sonnentag;;female;2003-01-14;7646;Trockenborn-Wolfersdorf;ThĂĽringen;AT;2;AT
 2008490;Simeonne;Eckhart;;female;2003-01-14;55234;Bechtolsheim;Rheinland-Pfalz;AT;2;AT
@@ -3666,7 +3666,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2003391;Ankrambom;Noehles;;male;1998-03-13;24894;Tolk;Schleswig-Holstein;AT;2;AT
 2006484;Leon-Markus;Kowohl;;male;1998-03-11;70599;Stuttgart Hohenheim;Baden-WĂĽrttemberg;DE;1;DE
 2004269;Osmat;Seiferlin;;male;1998-03-09;86558;Hohenwart;Bayern;AT;2;AT
-3010072;Clodagh;Maletscheck;;female;1998-02-27;99441;Magdala;ThĂĽringen;AT;2;AT
+2010072;Clodagh;Maletscheck;;female;1998-02-27;99441;Magdala;ThĂĽringen;AT;2;AT
 2003999;Jure;Schindldecker;;male;1998-02-25;88682;Salem;Baden-WĂĽrttemberg;AT;2;AT
 2005858;Leni;LĂ¤mmerich;;female;1998-02-23;14057;Berlin;Berlin;SK;0;SK
 2000737;Taron;Knappke;;male;1998-02-22;23881;BĂ¤lau;Schleswig-Holstein;SK;0;SK
@@ -3778,7 +3778,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2005382;Hasanov;Spielbrink;;male;1996-05-24;57580;Gebhardshain;Rheinland-Pfalz;AT;2;AT
 2008391;Prado;Kettler;;male;1996-05-23;86931;Prittriching;Bayern;SK;0;SK
 2003547;Redon;von Xylander;;male;1996-05-22;6888;Dietrichsdorf;Sachsen-Anhalt;SK;0;SK
-3010095;Heja;Anthonisen;;male;1996-05-21;6184;Schkopau Burgliebenau;Sachsen-Anhalt;AT;2;AT
+2010095;Heja;Anthonisen;;male;1996-05-21;6184;Schkopau Burgliebenau;Sachsen-Anhalt;AT;2;AT
 2003805;Malini;GlĂ¤sel;;female;1996-05-19;39615;Geestgottberg;Sachsen-Anhalt;DE;1;DE
 2008792;Kya;van der Linden;;female;1996-05-19;26419;Schortens Addernhausen;Niedersachsen;DE;1;DE
 2000465;Mulanda;Kreittmayr;;male;1996-05-16;16278;Mark Landin;Brandenburg;SK;0;SK
@@ -3869,7 +3869,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001378;Kiyoko;Endter;;female;1995-05-24;19395;Gnevsdorf;Mecklenburg-Vorpommern;DE;1;DE
 2008436;Afura;Yahia;;male;1995-05-24;17209;BĂĽtow;Mecklenburg-Vorpommern;DE;1;DE
 2006255;Constancia;KrummfuĂź;;female;1995-05-24;96166;Kirchlauter;Bayern;DE;1;DE
-3010086;Jordin;Speisekorn;;female;1995-05-22;82436;Eglfing;Bayern;DE;1;DE
+2010086;Jordin;Speisekorn;;female;1995-05-22;82436;Eglfing;Bayern;DE;1;DE
 2006873;Favilli;RosenlĂ¶cher;;male;1995-05-20;33729;Bielefeld;Nordrhein-Westfalen;DE;1;DE
 2004833;Jeremi;Kuene;;male;1995-05-20;21037;Hamburg Kirchwerder;Hamburg;AT;2;AT
 2005282;Ă‰ole;Geilenkirchen;;male;1995-05-19;46342;Velen;Nordrhein-Westfalen;DE;1;DE
@@ -4012,7 +4012,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2003238;Selyne;Jonathal;;female;1993-09-11;30880;Laatzen;Niedersachsen;DE;1;DE
 2004272;Philomeno;Tiezel;;male;1993-09-09;1877;SchmĂ¶lln-Putzkau;Sachsen;DE;1;DE
 2001960;Gena;Folkertsma;;female;1993-09-05;92269;Fensterbach;Bayern;DE;1;DE
-3010010;Iven-Thor;Schikorra;;male;1993-08-30;13357;Berlin;Berlin;SK;0;SK
+2010112;Iven-Thor;Schikorra;;male;1993-08-30;13357;Berlin;Berlin;SK;0;SK
 2002020;Eris;Lemb;;male;1993-08-20;16775;Tornow;Brandenburg;SK;0;SK
 2003889;Reef;GrĂĽnebohm;;male;1993-08-08;78144;Tennenbronn;Baden-WĂĽrttemberg;SK;0;SK
 2008558;Jouad;Braidt;;male;1993-07-31;34302;Guxhagen;Hessen;SK;0;SK
@@ -4024,7 +4024,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2004805;Riaan;Knechtl;;male;1993-05-31;65551;Limburg an der Lahn;Hessen;DE;1;DE
 2000322;Raffaele;KĂ¶hne;;male;1993-05-30;41069;MĂ¶nchengladbach;Nordrhein-Westfalen;DE;1;DE
 2001856;Adham;BartolomĂ¤i;;male;1993-05-25;38239;Salzgitter Watenstedt;Niedersachsen;SK;0;SK
-3010055;Jale;MathĂ¤s;;female;1993-05-25;24873;Havetoft;Schleswig-Holstein;SK;0;SK
+2010055;Jale;MathĂ¤s;;female;1993-05-25;24873;Havetoft;Schleswig-Holstein;SK;0;SK
 2003585;Ĺžehrazat;Hutmacher;;female;1993-05-21;7548;Gera;ThĂĽringen;AT;2;AT
 2005930;Sophie;StegemĂĽller;;female;1993-05-19;72514;Inzigkofen;Baden-WĂĽrttemberg;DE;1;DE
 2006929;Sixten;Seydelmann;;male;1993-05-17;67724;Gehrweiler;Rheinland-Pfalz;DE;1;DE
@@ -4036,12 +4036,12 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2000137;SongĂĽl;Ballikaya;;female;1993-05-07;27367;BĂ¶tersen;Niedersachsen;SK;0;SK
 2003277;JĂłel-Louis;Nonnweiler;;male;1993-05-06;49451;Holdorf;Niedersachsen;AT;2;AT
 2004303;HĂ˘n;Everard;;female;1993-05-06;64859;Eppertshausen;Hessen;DE;1;DE
-3010077;Bouchra;KĂĽmmell;;female;1993-05-05;16845;Zernitz-Lohm;Brandenburg;SK;0;SK
+2010077;Bouchra;KĂĽmmell;;female;1993-05-05;16845;Zernitz-Lohm;Brandenburg;SK;0;SK
 2002167;Sol;Wehrschmidt;;female;1993-05-05;12349;Berlin;Berlin;SK;0;SK
 2009831;Ritedj;Jurgelait;;female;1993-04-30;84559;Kraiburg am Inn;Bayern;SK;0;SK
 2008421;Gideon;Schomers;;male;1993-04-27;73347;MĂĽhlhausen im TĂ¤le;Baden-WĂĽrttemberg;AT;2;AT
 2003633;Nezey;Rupertz;;female;1993-04-26;67307;GĂ¶llheim;Rheinland-Pfalz;AT;2;AT
-3010076;Gwendolin;Faix;;female;1993-04-25;66909;Krottelbach;Rheinland-Pfalz;SK;0;SK
+2010076;Gwendolin;Faix;;female;1993-04-25;66909;Krottelbach;Rheinland-Pfalz;SK;0;SK
 2008265;Oluwasina;Witmer;;male;1993-04-25;99718;OberbĂ¶sa;ThĂĽringen;AT;2;AT
 2007415;Molly;Oetgen;;female;1993-04-23;85649;Brunnthal;Bayern;AT;2;AT
 2008428;IlĂ­as;SchĂĽtz;;male;1993-04-22;39443;FĂ¶rderstedt;Sachsen-Anhalt;SK;0;SK
@@ -4073,7 +4073,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001904;Hawwa;Tissen;;female;1993-02-13;50127;Bergheim;Nordrhein-Westfalen;DE;1;DE
 2003946;Odiase;Adrion;;male;1993-02-09;25462;Rellingen;Schleswig-Holstein;DE;1;DE
 2005384;Akelei;Karlsson;;female;1993-02-04;17419;Kamminke;Mecklenburg-Vorpommern;DE;1;DE
-3010014;Kelion;Kloppstech;;male;1993-02-04;25927;Neukirchen;Schleswig-Holstein;AT;2;AT
+2010113;Kelion;Kloppstech;;male;1993-02-04;25927;Neukirchen;Schleswig-Holstein;AT;2;AT
 2008336;Stella-Josephine;Kleinert;;female;1993-02-04;29227;Celle;Niedersachsen;DE;1;DE
 2000203;VĂ˘n;Meiermann;;female;1993-01-28;39638;Wannefeld;Sachsen-Anhalt;SK;0;SK
 2007870;Maximiliam;Piepenschneider;;male;1993-01-28;31552;Apelern Kleinhegesdorf;Niedersachsen;DE;1;DE
@@ -4082,7 +4082,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2004361;Leoni-Alexa;KirchhĂ¶ffel;;female;1993-01-15;83454;Anger;Bayern;SK;0;SK
 2009730;Pirina;Scheefer;;female;1993-01-09;17166;Bristow;Mecklenburg-Vorpommern;AT;2;AT
 2008130;Chong-hyon;Korolczuk;;male;1993-01-08;13129;Berlin;Berlin;DE;1;DE
-3010066;Basel;HanĂźe;;male;1993-01-04;16775;Zabelsdorf;Brandenburg;SK;0;SK
+2010066;Basel;HanĂźe;;male;1993-01-04;16775;Zabelsdorf;Brandenburg;SK;0;SK
 2007726;Zakaria;Schmalfuss;;male;1992-12-24;22297;Hamburg Barmbek-Nord;Hamburg;DE;1;DE
 2006906;Yella;Erret;;female;1992-12-22;6567;Esperstedt;ThĂĽringen;SK;0;SK
 2006914;Recheal;Mispel;;female;1992-12-21;19205;Kneese;Mecklenburg-Vorpommern;AT;2;AT
@@ -4243,7 +4243,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2000524;Anastazja;BlĂ¶dorn;;female;1990-05-14;89143;Blaubeuren Sonderbuch;Baden-WĂĽrttemberg;DE;1;DE
 2007628;Desmond;Kiessewetter;;male;1990-05-12;75389;Neuweiler;Baden-WĂĽrttemberg;SK;0;SK
 2000434;ChĂ©kou;von Reichel;;male;1990-05-12;15910;Kuschkow;Brandenburg;AT;2;AT
-3010018;LinnĂ©us;Klusner;;male;1990-05-11;2906;MĂĽcka;Sachsen;AT;2;AT
+2010018;LinnĂ©us;Klusner;;male;1990-05-11;2906;MĂĽcka;Sachsen;AT;2;AT
 2008619;Amidala;Uihlein;;female;1990-05-10;19294;Malk GĂ¶hren GĂ¶hren;Mecklenburg-Vorpommern;SK;0;SK
 2002376;Hui-Hsin;Roperz;;female;1990-05-10;6184;Schkopau Ermlitz;Sachsen-Anhalt;SK;0;SK
 2001988;Elian;Wietekind;;male;1990-05-09;71711;Steinheim an der Murr;Baden-WĂĽrttemberg;DE;1;DE
@@ -4252,9 +4252,9 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2009479;Nicolai;Ivanof;;male;1990-05-07;15345;Oberbarnim;Brandenburg;DE;1;DE
 2006077;Tiah;Muhamad;;female;1990-05-07;22145;Hamburg Farmsen-Berne;Schleswig-Holstein;AT;2;AT
 2006168;Luzy;Doerffer;;female;1990-05-01;95460;Bad Berneck im Fichtelgebirge;Bayern;AT;2;AT
-3010087;Aldorina;Klemenz;;female;1990-05-01;19258;Schwanheide;Mecklenburg-Vorpommern;AT;2;AT
+2010087;Aldorina;Klemenz;;female;1990-05-01;19258;Schwanheide;Mecklenburg-Vorpommern;AT;2;AT
 2003346;Laurence;Seffzig;;male;1990-04-29;28207;Bremen;Bremen;AT;2;AT
-3010031;Damianos;Groenwald;;male;1990-04-29;82327;Tutzing;Bayern;AT;2;AT
+2010031;Damianos;Groenwald;;male;1990-04-29;82327;Tutzing;Bayern;AT;2;AT
 2000829;Leela;Marschall;;female;1990-04-28;72221;Haiterbach;Baden-WĂĽrttemberg;AT;2;AT
 2000588;Sheyla;Altuncu;;female;1990-04-28;38259;Salzgitter Gitter;Niedersachsen;AT;2;AT
 2006430;Joni;Hellerbrand;;male;1990-04-27;81545;MĂĽnchen;Bayern;DE;1;DE
@@ -4542,7 +4542,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006162;DĂ©borah;Reinkens;;female;1986-06-13;34369;Hofgeismar;Hessen;SK;0;SK
 2001602;Krasteva;Soltissek;;female;1986-05-31;39307;RoĂźdorf;Sachsen-Anhalt;DE;1;DE
 2004354;Ramiza;Hofmeier;;female;1986-05-30;70192;Stuttgart Feuerbach;Baden-WĂĽrttemberg;AT;2;AT
-3010048;Ä°dil;Bartmann;;female;1986-05-30;56368;Roth;Rheinland-Pfalz;SK;0;SK
+2010048;Ä°dil;Bartmann;;female;1986-05-30;56368;Roth;Rheinland-Pfalz;SK;0;SK
 2000991;Natali;Magirius;;female;1986-05-29;94501;Aldersbach;Bayern;SK;0;SK
 2008969;Liam-Linus;SandkĂ¤mper;;male;1986-05-29;24888;Steinfeld;Schleswig-Holstein;AT;2;AT
 2009612;Billur;Schnitzler;;female;1986-05-27;31185;SĂ¶hlde;Niedersachsen;AT;2;AT
@@ -4870,7 +4870,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2007104;Tsvetalinova;Oettle;;female;1982-05-12;89129;Ă–llingen;Baden-WĂĽrttemberg;AT;2;AT
 2003349;Sufia;Schmelzpfennig;;female;1982-05-12;73271;Holzmaden;Baden-WĂĽrttemberg;SK;0;SK
 2002428;Maximilyan;Hesters;;male;1982-05-12;38239;Salzgitter Watenstedt;Niedersachsen;AT;2;AT
-3010029;Tiit;Kottmayer;;male;1982-05-11;56746;Hohenleimbach;Rheinland-Pfalz;DE;1;DE
+2010029;Tiit;Kottmayer;;male;1982-05-11;56746;Hohenleimbach;Rheinland-Pfalz;DE;1;DE
 2003973;Can-Nebi;Springhorn;;male;1982-05-11;23883;Hollenbek;Schleswig-Holstein;DE;1;DE
 2000691;Jurie;Rolfing;;female;1982-05-09;87737;Boos;Bayern;AT;2;AT
 2007136;Nailah;Laffrenzen;;female;1982-05-08;77886;Lauf;Baden-WĂĽrttemberg;AT;2;AT
@@ -4922,7 +4922,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2007724;Iamis;Manderscheid;;male;1981-10-05;3229;Luckaitztal;Brandenburg;SK;0;SK
 2008481;Alexandrova;Filep;;female;1981-09-26;39240;Breitenhagen;Sachsen-Anhalt;SK;0;SK
 2000784;Casimira;Vollhardt;;female;1981-09-14;16866;GroĂź Welle;Brandenburg;SK;0;SK
-3010090;Nuka;Wulfken;;male;1981-09-07;36419;Buttlar;ThĂĽringen;DE;1;DE
+2010090;Nuka;Wulfken;;male;1981-09-07;36419;Buttlar;ThĂĽringen;DE;1;DE
 2008040;Amadeo-Maximilian;Meinshausen;;male;1981-07-13;94436;Simbach;Bayern;SK;0;SK
 2008791;Elisija;Reichel;;female;1981-07-06;29451;Schaafhausen;Niedersachsen;SK;0;SK
 2000296;Benedikta;Toennis;;female;1981-06-16;56814;Bremm;Rheinland-Pfalz;AT;2;AT
@@ -5419,7 +5419,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001123;Daniel;ZĂ¤ngerlein;;male;1975-02-04;67368;Westheim;Rheinland-Pfalz;SK;0;SK
 2006835;Damianos;Urbanova;;male;1975-02-03;37355;Niederorschel;ThĂĽringen;AT;2;AT
 2006964;Redha;Berkenstock;;male;1975-02-03;32105;Bad Salzuflen;Nordrhein-Westfalen;AT;2;AT
-3010089;Javed;Weidauer;;male;1975-02-02;22589;Hamburg;Hamburg;SK;0;SK
+2010089;Javed;Weidauer;;male;1975-02-02;22589;Hamburg;Hamburg;SK;0;SK
 2000183;Cong;Wilich;;male;1975-01-28;34385;Bad Karlshafen;Hessen;DE;1;DE
 2002136;Fahri;von Kathen;;male;1975-01-27;17348;Neu KĂ¤belich;Mecklenburg-Vorpommern;AT;2;AT
 2001247;Rinesa;Schimkus;;female;1975-01-22;4680;ZschadraĂź;Sachsen;SK;0;SK
@@ -5477,12 +5477,12 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001800;Simeonne;Jacubowski;;female;1974-04-13;26532;GroĂźheide Menstede-Coldinne;Niedersachsen;AT;2;AT
 2009834;Wenas;Stanislao;;female;1974-04-11;7570;HohenĂ¶lsen;ThĂĽringen;SK;0;SK
 2008012;Vahe;Sauerland;;male;1974-04-10;38268;Lengede;Niedersachsen;AT;2;AT
-3010015;Kalman;GrĂ¶n;;male;1974-04-10;15838;Kummersdorf-Gut;Brandenburg;DE;1;DE
+2010114;Kalman;GrĂ¶n;;male;1974-04-10;15838;Kummersdorf-Gut;Brandenburg;DE;1;DE
 2004893;Nilan;Schoenlein;;female;1974-04-09;26427;Neuharlingersiel;Niedersachsen;DE;1;DE
 2004700;Boran;Rein;;male;1974-04-08;56368;Katzenelnbogen;Rheinland-Pfalz;AT;2;AT
 2005478;Yamac;Hupperz;;male;1974-04-08;55595;Gebroth;Rheinland-Pfalz;SK;0;SK
 2003138;Deniz;Weinzirl;;male;1974-04-06;18519;Horst;Mecklenburg-Vorpommern;SK;0;SK
-3010016;YeĹźim;Markardt;;female;1974-04-05;57610;Ingelbach;Rheinland-Pfalz;SK;0;SK
+2010115;YeĹźim;Markardt;;female;1974-04-05;57610;Ingelbach;Rheinland-Pfalz;SK;0;SK
 2004089;Shilou;Merthin;;female;1974-04-04;67590;Monsheim;Rheinland-Pfalz;SK;0;SK
 2008078;Immanuel-Lorian;Urbanskyj;;male;1974-04-01;22089;Hamburg Hohenfelde;Hamburg;AT;2;AT
 2008058;Donald;Hofknecht;;male;1974-04-01;63877;Sailauf;Bayern;SK;0;SK
@@ -5557,9 +5557,9 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006745;Kennah;Steenbrecker;;female;1973-04-21;97980;Bad Mergentheim;Baden-WĂĽrttemberg;SK;0;SK
 2006413;Hasanov;Wertz;;male;1973-04-16;90441;NĂĽrnberg;Bayern;DE;1;DE
 2003872;Leto;NagelkrĂ¤mer;;female;1973-04-15;88436;Eberhardzell FĂĽramoos;Baden-WĂĽrttemberg;SK;0;SK
-3010059;Ihsan;Meyerdress;;female;1973-04-15;56294;Gierschnach;Rheinland-Pfalz;DE;1;DE
+2010059;Ihsan;Meyerdress;;female;1973-04-15;56294;Gierschnach;Rheinland-Pfalz;DE;1;DE
 2006782;Giannis;Weissermel;;male;1973-04-14;8373;Remse;Sachsen;AT;2;AT
-3010012;Mawi;Suter;;male;1973-04-14;17192;Klink;Mecklenburg-Vorpommern;SK;0;SK
+2010116;Mawi;Suter;;male;1973-04-14;17192;Klink;Mecklenburg-Vorpommern;SK;0;SK
 2003939;Ăślfiye;Ă–zcelik;;female;1973-04-14;28359;Bremen;Bremen;SK;0;SK
 2006673;Alonso;Pfingsttag;;male;1973-04-13;72631;Aichtal;Baden-WĂĽrttemberg;SK;0;SK
 2000595;Justine-Monique;Hendrikx;;female;1973-04-13;89129;Langenau;Baden-WĂĽrttemberg;AT;2;AT
@@ -5710,7 +5710,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2003059;Mohamad;Reinknecht;;male;1971-04-27;49328;Melle;Niedersachsen;AT;2;AT
 2008287;Blanka;Bruecklmeier;;female;1971-04-22;16540;Stolpe;Brandenburg;DE;1;DE
 2007722;Fernand;Eisenschneider;;male;1971-04-22;4129;Leipzig;Sachsen;DE;1;DE
-3010011;Aykhan;Balthazar;;male;1971-04-21;15569;Woltersdorf;Brandenburg;AT;2;AT
+2010117;Aykhan;Balthazar;;male;1971-04-21;15569;Woltersdorf;Brandenburg;AT;2;AT
 2008963;Beste;Bernsen;;female;1971-04-20;29352;Adelheidsdorf;Niedersachsen;AT;2;AT
 2003165;Felix;Etle;;male;1971-04-20;29355;Beedenbostel;Niedersachsen;AT;2;AT
 2009340;Ruguru;Radzun;;female;1971-04-19;18510;Wittenhagen;Mecklenburg-Vorpommern;AT;2;AT
@@ -5736,7 +5736,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002273;Louis-Felix;Soltys;;male;1971-03-01;54570;Weidenbach;Rheinland-Pfalz;SK;0;SK
 2006676;Soundi;Beckemeyer;;male;1971-02-26;84494;Neumarkt-Sankt Veit;Bayern;DE;1;DE
 2004247;Iamis;RĂ¶berth;;male;1971-02-18;17192;Kargow;Mecklenburg-Vorpommern;AT;2;AT
-3010064;Arijola;Isenhuth;;female;1971-02-15;53520;DĂĽmpelfeld;Rheinland-Pfalz;DE;1;DE
+2010064;Arijola;Isenhuth;;female;1971-02-15;53520;DĂĽmpelfeld;Rheinland-Pfalz;DE;1;DE
 2005148;Anno;Sonnentag;;male;1971-02-15;16792;Wesendorf;Brandenburg;AT;2;AT
 2003812;Ronin;MorgenschweiĂź;;male;1971-02-08;81735;MĂĽnchen;Bayern;SK;0;SK
 2005912;Graham;Messerschmied;;male;1971-02-05;29459;Clenze Kussebode;Niedersachsen;SK;0;SK
@@ -5804,7 +5804,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2005275;Irebowale;Schmetthans;;male;1970-02-25;2979;Spreetal;Sachsen;DE;1;DE
 2000952;Solana;Nowikowa;;female;1970-02-21;1906;Burkau;Sachsen;DE;1;DE
 2009205;Tibet;SchlichthĂ¶rlein;;male;1970-02-16;6449;Friedrichsaue;Sachsen-Anhalt;AT;2;AT
-3010099;Georgina;Futtermenger;;female;1970-02-16;31542;Bad Nenndorf Bad Nenndorf;Niedersachsen;DE;1;DE
+2010099;Georgina;Futtermenger;;female;1970-02-16;31542;Bad Nenndorf Bad Nenndorf;Niedersachsen;DE;1;DE
 2002104;Karma;NiĂź;;male;1970-02-15;66919;Weselberg;Rheinland-Pfalz;SK;0;SK
 2005304;Noomi-Sophie;Bohnhardt;;female;1970-02-14;58455;Witten;Nordrhein-Westfalen;AT;2;AT
 2007786;Excellent;Speckle;;female;1970-02-14;39319;Jerichow;Sachsen-Anhalt;AT;2;AT
@@ -5961,7 +5961,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2008976;Senta;KĂĽmmell;;female;1968-04-06;2991;Elsterheide;Sachsen;DE;1;DE
 2007928;Miko;Kasimir;;male;1968-04-04;24649;Wiemersdorf;Schleswig-Holstein;SK;0;SK
 2003094;Oury;Thiedemann;;male;1968-04-04;94339;Leiblfing;Bayern;SK;0;SK
-3010075;Alin;Gerstmaier;;female;1968-04-04;18239;Satow;Mecklenburg-Vorpommern;SK;0;SK
+2010075;Alin;Gerstmaier;;female;1968-04-04;18239;Satow;Mecklenburg-Vorpommern;SK;0;SK
 2005706;Angelito;Navratiel;;male;1968-04-02;76476;Bischweier;Baden-WĂĽrttemberg;AT;2;AT
 2000491;Feim;Schrivers;;female;1968-04-01;40629;DĂĽsseldorf;Nordrhein-Westfalen;SK;0;SK
 2004150;Meryl;Curdts;;female;1968-03-26;23898;LĂĽchow;Schleswig-Holstein;DE;1;DE
@@ -6166,7 +6166,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2009289;Emanuell;Gruhnwald;;male;1966-03-07;89287;Bellenberg;Bayern;DE;1;DE
 2007336;Alexeevna;OstermĂĽller;;female;1966-03-06;85125;Kinding;Bayern;SK;0;SK
 2001860;Alies;Saleh;;female;1966-03-02;39393;Ausleben;Sachsen-Anhalt;DE;1;DE
-3010083;Jaschek;Gronendahl;;male;1966-02-24;26427;Holtgast;Niedersachsen;DE;1;DE
+2010083;Jaschek;Gronendahl;;male;1966-02-24;26427;Holtgast;Niedersachsen;DE;1;DE
 2005323;Emma-Aurora;Rottermund;;female;1966-02-22;7570;Harth-PĂ¶llnitz Forstwolfersdorf;ThĂĽringen;DE;1;DE
 2005603;Aishwarya;Feldkamp;;female;1966-02-22;51709;Marienheide;Nordrhein-Westfalen;DE;1;DE
 2001623;Faisal;Guntrum;;male;1966-02-22;85630;Grasbrunn;Bayern;AT;2;AT
@@ -6280,14 +6280,14 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006904;Assia;Kallert;;female;1964-06-26;95183;TĂ¶pen;Bayern;DE;1;DE
 2007101;Nazli;Brentle;;female;1964-05-29;15324;Kiehnwerder;Brandenburg;SK;0;SK
 2003287;Lais;Katt;;female;1964-05-28;57629;Steinebach an der Wied;Rheinland-Pfalz;AT;2;AT
-3010034;Roj;Bondarenko;;male;1964-05-26;56294;Gappenach;Rheinland-Pfalz;DE;1;DE
+2010034;Roj;Bondarenko;;male;1964-05-26;56294;Gappenach;Rheinland-Pfalz;DE;1;DE
 2007855;Anatoliev;JunghĂ¤nsel;;male;1964-05-25;93495;Weiding;Bayern;AT;2;AT
 2006139;Jasmine;Szefczyk;;female;1964-05-25;6536;Rottleberode;Sachsen-Anhalt;DE;1;DE
 2009033;Deniz;Naimann;;female;1964-05-21;4626;Altkirchen;ThĂĽringen;DE;1;DE
 2004274;Laetitia;Herm;;female;1964-05-20;82205;Gilching;Bayern;DE;1;DE
 2007013;Editha;Senkpeil;;female;1964-05-19;56761;Brachtendorf;Rheinland-Pfalz;AT;2;AT
 2003687;Seyran;Dibold;;female;1964-05-18;67744;Kirrweiler;Rheinland-Pfalz;AT;2;AT
-3010040;Mino;WeyĂźer;;female;1964-05-15;37345;Steinrode;ThĂĽringen;AT;2;AT
+2010040;Mino;WeyĂźer;;female;1964-05-15;37345;Steinrode;ThĂĽringen;AT;2;AT
 2004062;CĂ¤sar;Hilweg;;male;1964-05-15;25764;ReinsbĂĽttel;Schleswig-Holstein;DE;1;DE
 2002887;Nica;Buchheit;;female;1964-05-14;88448;Attenweiler;Baden-WĂĽrttemberg;DE;1;DE
 2003673;Katjuscha;Stenkat;;female;1964-05-11;55627;Merxheim;Rheinland-Pfalz;DE;1;DE
@@ -6461,7 +6461,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2000897;LucĂ­a;Meinel;;female;1962-04-27;9212;KĂ¤ndler;Sachsen;AT;2;AT
 2002884;Avand;GeigemĂĽller;;male;1962-04-23;17091;Kriesow;Mecklenburg-Vorpommern;AT;2;AT
 2001194;Lara-Maria;Bohnert;;female;1962-04-23;44879;Bochum;Nordrhein-Westfalen;DE;1;DE
-3010039;MikoĹ‚aj;Hoefke;;male;1962-04-23;16259;Falkenberg Falkenberg/Mark;Brandenburg;SK;0;SK
+2010039;MikoĹ‚aj;Hoefke;;male;1962-04-23;16259;Falkenberg Falkenberg/Mark;Brandenburg;SK;0;SK
 2000659;Kekan;Gerhardtz;;male;1962-04-22;54421;Hinzert-PĂ¶lert;Rheinland-Pfalz;AT;2;AT
 2006582;Guney;Quiadkowsky;;male;1962-04-19;92555;Trausnitz;Bayern;AT;2;AT
 2009497;Olachi;Jakobson;;female;1962-04-19;70499;Stuttgart;Baden-WĂĽrttemberg;SK;0;SK
@@ -6584,7 +6584,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006218;Merina;Niermann;;female;1960-05-30;75223;Niefern-Ă–schelbronn;Baden-WĂĽrttemberg;SK;0;SK
 2005456;Saaliha;Kathen;;female;1960-05-29;73072;Donzdorf;Baden-WĂĽrttemberg;AT;2;AT
 2007502;Leny;Geppl;;female;1960-05-26;45219;Essen;Nordrhein-Westfalen;SK;0;SK
-3010021;Lee;Lamprich;;male;1960-05-25;29459;Clenze Granstedt;Niedersachsen;AT;2;AT
+2010021;Lee;Lamprich;;male;1960-05-25;29459;Clenze Granstedt;Niedersachsen;AT;2;AT
 2006268;Bar;Stockheimer;;female;1960-05-24;97258;Oberickelsheim;Bayern;SK;0;SK
 2006146;Jan-Peter;Peterman;;male;1960-05-23;38836;Pabstorf;Sachsen-Anhalt;AT;2;AT
 2000990;Yoan;Krier;;female;1960-05-21;4626;LĂ¶bichau;ThĂĽringen;DE;1;DE
@@ -6650,7 +6650,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2004703;Walter;Goedeker;;male;1960-02-02;56269;Dierdorf;Rheinland-Pfalz;DE;1;DE
 2007327;Maria-Reina;Matthaey;;female;1960-02-01;83416;Saaldorf-Surheim;Bayern;DE;1;DE
 2002729;Callyope;Witkind;;female;1960-01-26;64673;Zwingenberg;Hessen;DE;1;DE
-3010037;Lovis;KĂ¤ttner;;female;1960-01-23;25548;Wittenbergen;Schleswig-Holstein;AT;2;AT
+2010037;Lovis;KĂ¤ttner;;female;1960-01-23;25548;Wittenbergen;Schleswig-Holstein;AT;2;AT
 2001771;Alise;Hamurcu;;female;1960-01-17;16248;Lunow-Stolzenhagen;Brandenburg;SK;0;SK
 2000844;Lafei;Rossteuscher;;female;1960-01-17;2794;Leutersdorf;Sachsen;DE;1;DE
 2007806;Wahid;GĂ¶ner;;male;1959-12-26;39619;KlĂ¤den;Sachsen-Anhalt;DE;1;DE
@@ -6827,7 +6827,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2008267;Meifang;Schimkuhs;;female;1957-12-22;31655;Stadthagen;Niedersachsen;SK;0;SK
 2006969;Houssainatov;Neumeister;;female;1957-11-29;49477;IbbenbĂĽren;Nordrhein-Westfalen;DE;1;DE
 2002757;Pascale;Nowikowa;;female;1957-11-14;21218;Seevetal;Niedersachsen;AT;2;AT
-3010050;Tjare;Denzlinger;;male;1957-10-19;19209;Badow;Mecklenburg-Vorpommern;AT;2;AT
+2010050;Tjare;Denzlinger;;male;1957-10-19;19209;Badow;Mecklenburg-Vorpommern;AT;2;AT
 2001795;Hakka;Apell;;female;1957-10-05;4626;Drogen;ThĂĽringen;DE;1;DE
 2007116;Sebahat;Voeltz;;female;1957-09-13;19230;Kirch Jesar;Mecklenburg-Vorpommern;DE;1;DE
 2002367;Peik;Weckmueller;;male;1957-09-06;21649;Regesbostel;Niedersachsen;AT;2;AT
@@ -7256,7 +7256,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002758;Ajdan;MĂ¶nchmeyer;;male;1952-05-14;39359;BĂ¶ddensell;Sachsen-Anhalt;AT;2;AT
 2008053;Ece;Kares;;female;1952-05-14;19217;Rieps;Mecklenburg-Vorpommern;SK;0;SK
 2009642;Daher;Scheffczyk;;male;1952-05-14;7389;GĂ¶ssitz;ThĂĽringen;DE;1;DE
-3010023;Delacaridad;Vollmary;;female;1952-05-12;52146;WĂĽrselen;Nordrhein-Westfalen;DE;1;DE
+2010023;Delacaridad;Vollmary;;female;1952-05-12;52146;WĂĽrselen;Nordrhein-Westfalen;DE;1;DE
 2009832;Yoshio;Kalweytys;;male;1952-05-10;18107;Elmenhorst-Lichtenhagen;Mecklenburg-Vorpommern;DE;1;DE
 2005237;Danna;Gruenthaler;;female;1952-05-10;86866;Mickhausen;Bayern;SK;0;SK
 2006424;Mihailova;Asanger;;female;1952-05-08;57648;Unnau;Rheinland-Pfalz;SK;0;SK
@@ -7264,7 +7264,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2000493;GĂĽlin;Harding;;female;1952-05-06;7646;Renthendorf;ThĂĽringen;SK;0;SK
 2002413;Christopher;Rheinholz;;male;1952-05-05;26316;Varel Moorhausen;Niedersachsen;AT;2;AT
 2001590;Nahide;Dickele;;female;1952-05-04;24969;Lindewitt;Schleswig-Holstein;SK;0;SK
-3010006;Arwed;Lodewicks;;male;1952-04-30;29451;Dannenberg (Elbe) Tramm;Niedersachsen;DE;1;DE
+2010118;Arwed;Lodewicks;;male;1952-04-30;29451;Dannenberg (Elbe) Tramm;Niedersachsen;DE;1;DE
 2006624;Agatha;Hallweg;;female;1952-04-30;91723;Dittenheim;Bayern;SK;0;SK
 2007948;Mieko;Ahlwardt;;male;1952-04-29;26219;BĂ¶sel;Niedersachsen;SK;0;SK
 2006452;Erik-Wladimir;Ways;;male;1952-04-29;78600;Kolbingen;Baden-WĂĽrttemberg;SK;0;SK
@@ -7361,7 +7361,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002085;Liesbeth;Blanck;;female;1951-04-20;14169;Berlin;Berlin;AT;2;AT
 2001753;Aaiyscha;Ă–verdieck;;female;1951-04-16;66687;Wadern;Saarland;AT;2;AT
 2006636;Amsel;Gruendling;;female;1951-04-15;39319;Wulkow;Sachsen-Anhalt;SK;0;SK
-3010058;Joudi;Boiara;;female;1951-04-14;79292;Pfaffenweiler;Baden-WĂĽrttemberg;SK;0;SK
+2010058;Joudi;Boiara;;female;1951-04-14;79292;Pfaffenweiler;Baden-WĂĽrttemberg;SK;0;SK
 2008429;Dionys;Wehner;;male;1951-04-13;29496;Waddeweitz Salderatzen;Niedersachsen;AT;2;AT
 2003291;Esila;Geerts;;female;1951-04-13;66904;BĂ¶rsborn;Rheinland-Pfalz;AT;2;AT
 2003829;ElĂ­a;MĂ¶lchior;;male;1951-04-12;36456;Barchfeld;ThĂĽringen;AT;2;AT
@@ -7397,7 +7397,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2009672;Jeremy-Tayler;Wondracek;;male;1950-12-08;16515;Schmachtenhagen;Brandenburg;SK;0;SK
 2006171;Taiel;Hundermark;;male;1950-12-06;45277;Essen;Nordrhein-Westfalen;AT;2;AT
 2001792;Sefi;Tessmar;;female;1950-11-29;85072;EichstĂ¤tt;Bayern;AT;2;AT
-3010057;Massa;KrĂĽgel;;female;1950-11-09;83125;EggstĂ¤tt;Bayern;SK;0;SK
+2010057;Massa;KrĂĽgel;;female;1950-11-09;83125;EggstĂ¤tt;Bayern;SK;0;SK
 2006209;Bilyana;KĂĽnzeler;;female;1950-09-23;85614;Kirchseeon;Bayern;AT;2;AT
 2003137;Liya-SĂĽndĂĽz;GrĂ¶nfeldt;;female;1950-09-18;38489;Ahlum;Sachsen-Anhalt;DE;1;DE
 2008505;Askelad;von Kalinowski;;male;1950-09-08;94342;Irlbach;Bayern;SK;0;SK
@@ -7496,7 +7496,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2004208;Ukan;Erdemir;;male;1949-05-07;16247;Friedrichswalde;Brandenburg;AT;2;AT
 2003067;Lanicia;Siepold;;female;1949-05-07;24975;Husby;Schleswig-Holstein;AT;2;AT
 2008850;Clementine;HĂ¤uĂźner;;female;1949-05-07;17406;Morgenitz;Mecklenburg-Vorpommern;AT;2;AT
-3010020;FlĂłki;Koktanek;;male;1949-05-07;72178;Waldachtal;Baden-WĂĽrttemberg;DE;1;DE
+2010020;FlĂłki;Koktanek;;male;1949-05-07;72178;Waldachtal;Baden-WĂĽrttemberg;DE;1;DE
 2006361;Opiyo;Popova;;male;1949-05-05;46244;Bottrop;Nordrhein-Westfalen;DE;1;DE
 2004850;Medine-GĂĽner;Winkelmann;;female;1949-05-01;86405;Meitingen;Bayern;SK;0;SK
 2001009;Siena;Caliskan;;female;1949-05-01;14052;Berlin;Berlin;AT;2;AT
@@ -7536,12 +7536,12 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001440;Kyerewah;Grohnmeier;;female;1949-02-13;4769;MĂĽgeln;Sachsen;DE;1;DE
 2008532;Nasir;Wienmeister;;male;1949-02-13;47589;Uedem;Nordrhein-Westfalen;DE;1;DE
 2004308;Nisa;Butchereit;;female;1949-02-11;83623;Dietramszell;Bayern;SK;0;SK
-3010036;Lia-Eleni;GeiĂźhirt;;female;1949-02-08;25573;Beidenfleth;Schleswig-Holstein;AT;2;AT
+2010036;Lia-Eleni;GeiĂźhirt;;female;1949-02-08;25573;Beidenfleth;Schleswig-Holstein;AT;2;AT
 2001158;Athanasios;Knot;;male;1949-02-07;56330;Kobern-Gondorf;Rheinland-Pfalz;SK;0;SK
 2008717;Miyada;Taenzer;;female;1949-02-06;15537;Gosen Gosen;Brandenburg;SK;0;SK
 2003341;Hayrullah;Tielkes;;male;1949-02-03;73054;Eislingen/Fils;Baden-WĂĽrttemberg;SK;0;SK
 2001970;Mala;Westheiden;;female;1949-02-01;4107;Leipzig;Sachsen;SK;0;SK
-3010004;Antonius;Mullers;;male;1949-01-30;23569;LĂĽbeck;Schleswig-Holstein;DE;1;DE
+2010119;Antonius;Mullers;;male;1949-01-30;23569;LĂĽbeck;Schleswig-Holstein;DE;1;DE
 2000840;Sabahat;Ender;;female;1949-01-27;74722;Buchen (Odenwald);Baden-WĂĽrttemberg;AT;2;AT
 2004877;Malthe;Withoeft;;male;1949-01-26;15299;Mixdorf;Brandenburg;AT;2;AT
 2007346;LoĂŻc;Kreuzer;;male;1949-01-21;25709;Kaiser-Wilhelm-Koog;Schleswig-Holstein;DE;1;DE
@@ -7567,7 +7567,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2008256;Pavlos;GroĂźmayer;;male;1948-05-27;28879;Grasberg;Niedersachsen;AT;2;AT
 2003717;Agnia;Bungard;;female;1948-05-26;39291;Vehlitz;Sachsen-Anhalt;SK;0;SK
 2003803;Abiba;Sarioglu;;female;1948-05-26;67749;Nerzweiler;Rheinland-Pfalz;DE;1;DE
-2010017;Qamil;Brandel;;male;1948-05-25;45879;Gelsenkirchen;Nordrhein-Westfalen;SK;0;SK
+2010130;Qamil;Brandel;;male;1948-05-25;45879;Gelsenkirchen;Nordrhein-Westfalen;SK;0;SK
 2006045;Stanislaus;Baues;;male;1948-05-20;16945;MarienflieĂź;Brandenburg;DE;1;DE
 2004179;Spyridon;Wekesser;;male;1948-05-15;67127;RĂ¶dersheim-Gronau;Rheinland-Pfalz;AT;2;AT
 2004262;Sivert;Zaumueller;;male;1948-05-13;31675;BĂĽckeburg Evesen;Niedersachsen;DE;1;DE
@@ -7579,7 +7579,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006695;Deni;Merkl;;male;1948-04-25;24259;Westensee;Schleswig-Holstein;AT;2;AT
 2007375;Justin;Fesenmair;;male;1948-04-23;17268;Gandenitz;Brandenburg;AT;2;AT
 2008387;Aurora;RothfuĂź;;female;1948-04-23;8326;Sosa;Sachsen;SK;0;SK
-3010094;Semiha;Traudmann;;female;1948-04-23;6333;Walbeck;Sachsen-Anhalt;SK;0;SK
+2010094;Semiha;Traudmann;;female;1948-04-23;6333;Walbeck;Sachsen-Anhalt;SK;0;SK
 2003882;Janafarin;Buschmeyer;;female;1948-04-20;34326;Morschen;Hessen;AT;2;AT
 2005895;MĂˇlou;Mayert;;female;1948-04-18;87772;Pfaffenhausen;Bayern;SK;0;SK
 2002917;Mihrican;Paustiann;;female;1948-04-18;15848;Beeskow;Brandenburg;AT;2;AT
@@ -7765,7 +7765,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2009694;Carmen;Pollag;;female;1946-01-06;56865;Schauren;Rheinland-Pfalz;DE;1;DE
 2006273;Naura;Gebensleben;;female;1946-01-04;55471;Keidelheim;Rheinland-Pfalz;AT;2;AT
 2002744;Esmer;SchĂĽttgens;;male;1946-01-03;24794;Borgstedt;Schleswig-Holstein;SK;0;SK
-3010054;Guido;Brendlmaier;;male;1945-12-14;37308;Volkerode;ThĂĽringen;AT;2;AT
+2010054;Guido;Brendlmaier;;male;1945-12-14;37308;Volkerode;ThĂĽringen;AT;2;AT
 2007606;Galo;Steffanides;;male;1945-10-18;3149;GroĂź Schacksdorf-Simmersdorf;Brandenburg;AT;2;AT
 2009347;Fankaov;Kleinhansl;;male;1945-09-02;59964;Medebach;Nordrhein-Westfalen;AT;2;AT
 2000935;Moshe;Barge;;male;1945-07-05;56370;Reckenroth;Rheinland-Pfalz;SK;0;SK
@@ -7917,7 +7917,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001582;Umran;Gruensfelder;;male;1943-05-25;15831;Selchow;Brandenburg;AT;2;AT
 2001124;Louisanne;Kreutler;;female;1943-05-22;86926;Greifenberg;Bayern;AT;2;AT
 2008798;Inna;Voigtlaender;;female;1943-05-20;15295;Wiesenau;Brandenburg;AT;2;AT
-3010067;Emir-Kaan;Millers;;male;1943-05-19;56457;Hergenroth;Rheinland-Pfalz;AT;2;AT
+2010067;Emir-Kaan;Millers;;male;1943-05-19;56457;Hergenroth;Rheinland-Pfalz;AT;2;AT
 2004161;Lilian;HolzgrĂ¤fe;;male;1943-05-18;57612;Helmenzen;Rheinland-Pfalz;SK;0;SK
 2009859;Elli-Rose;FeldkĂ¶tter;;female;1943-05-18;15345;Reichenow-MĂ¶glin Reichenow;Brandenburg;SK;0;SK
 2006858;Sarmad;von Martens;;male;1943-05-14;54552;Dreis-BrĂĽck;Rheinland-Pfalz;SK;0;SK
@@ -7966,7 +7966,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2003473;Munya;Wirnharter;;female;1942-07-28;83365;NuĂźdorf;Bayern;DE;1;DE
 2001104;UÄźur;Gehrwald;;male;1942-07-26;6888;MĂĽhlanger;Sachsen-Anhalt;AT;2;AT
 2003052;Neri;Pfennigwert;;female;1942-06-28;59969;Hallenberg;Nordrhein-Westfalen;SK;0;SK
-3010042;Gitanvika;Preissinger;;female;1942-06-11;7646;Quirla;ThĂĽringen;AT;2;AT
+2010042;Gitanvika;Preissinger;;female;1942-06-11;7646;Quirla;ThĂĽringen;AT;2;AT
 2009738;Nisar;Grone;;male;1942-06-03;83342;Tacherting;Bayern;AT;2;AT
 2002022;Ĺžuranur;Breitenau;;female;1942-05-30;88356;Ostrach;Baden-WĂĽrttemberg;SK;0;SK
 2008973;Vadzimovna;MĂ¤urle;;female;1942-05-25;98547;KĂĽhndorf;ThĂĽringen;AT;2;AT
@@ -8166,7 +8166,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2007360;Amouni;Muehlner;;female;1940-04-12;80807;MĂĽnchen;Bayern;AT;2;AT
 2005666;Devis;Schmiedicke;;male;1940-04-11;54611;Hallschlag;Rheinland-Pfalz;SK;0;SK
 2006989;Zabah;HĂ¶velhans;;female;1940-04-08;54675;Ammeldingen an der Our;Rheinland-Pfalz;SK;0;SK
-3010071;Padmavati;Gepert;;female;1940-04-07;99510;Wiegendorf;ThĂĽringen;DE;1;DE
+2010071;Padmavati;Gepert;;female;1940-04-07;99510;Wiegendorf;ThĂĽringen;DE;1;DE
 2008113;AĂ§alya;Straatmann;;female;1940-04-06;23948;Moor-Rolofshagen;Mecklenburg-Vorpommern;DE;1;DE
 2004243;Pietje;Hirte;;female;1940-04-06;22769;Hamburg Altona-Nord;Hamburg;SK;0;SK
 2007271;Klaas;Regensburger;;male;1940-04-05;34298;Helsa;Hessen;SK;0;SK
@@ -8337,10 +8337,10 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2007626;Dener;GleĂźner;;male;1937-10-30;19288;WĂ¶bbelin;Mecklenburg-Vorpommern;SK;0;SK
 2006281;Musimire;Heidkemper;;male;1937-09-18;94530;Auerbach;Bayern;AT;2;AT
 2003643;Camie;GĂ¶hzold;;female;1937-09-02;94347;Ascha;Bayern;AT;2;AT
-3010049;Valeria;Hammermeister;;female;1937-08-10;91799;Langenaltheim;Bayern;AT;2;AT
+2010049;Valeria;Hammermeister;;female;1937-08-10;91799;Langenaltheim;Bayern;AT;2;AT
 2009505;ChĂ©kou;TĂ¶nnissen;;male;1937-08-05;91177;ThalmĂ¤ssing;Bayern;DE;1;DE
 2004365;Azat;Zumbusch;;male;1937-07-29;31079;Sibbesse;Niedersachsen;AT;2;AT
-3010060;Senta;Teufel;;female;1937-07-05;79274;Sankt MĂ¤rgen;Baden-WĂĽrttemberg;DE;1;DE
+2010060;Senta;Teufel;;female;1937-07-05;79274;Sankt MĂ¤rgen;Baden-WĂĽrttemberg;DE;1;DE
 2004531;Cosimo;Philippsen;;male;1937-06-30;16818;MĂ¤rkisch Linden;Brandenburg;SK;0;SK
 2006317;Nio-Jackson;Mikloweit;;male;1937-06-26;91572;Bechhofen;Bayern;DE;1;DE
 2004158;Trausti;UtermĂ¶le;;male;1937-06-19;35619;Braunfels Philippstein;Hessen;AT;2;AT
@@ -8446,7 +8446,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2007168;Kristena;Voelklin;;female;1936-05-22;56412;Oberelbert;Rheinland-Pfalz;AT;2;AT
 2006594;Robert-Gabriel;Sauermann;;male;1936-05-22;7819;Lemnitz;ThĂĽringen;AT;2;AT
 2004013;Semaya;Peterle;;female;1936-05-21;8064;Zwickau;Sachsen;SK;0;SK
-3010051;JĂ¶rg;SpringkĂ¤mper;;male;1936-05-19;4668;Grimma;Sachsen;SK;0;SK
+2010051;JĂ¶rg;SpringkĂ¤mper;;male;1936-05-19;4668;Grimma;Sachsen;SK;0;SK
 2008326;Oleander;von der Gruen;;male;1936-05-19;55606;BĂ¤rweiler;Rheinland-Pfalz;AT;2;AT
 2009685;Ragnar;Kroiss;;male;1936-05-18;54518;Niersbach;Rheinland-Pfalz;SK;0;SK
 2004035;Bertil;Saidl;;male;1936-05-16;83708;Kreuth;Bayern;DE;1;DE
@@ -8524,7 +8524,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2009751;Blendi;Haensge;;male;1935-05-19;17209;Satow;Mecklenburg-Vorpommern;DE;1;DE
 2002786;Jonas;PekgĂ¶z;;male;1935-05-16;66130;SaarbrĂĽcken;Saarland;SK;0;SK
 2003367;Cajus;Heitmeir;;male;1935-05-12;49565;Bramsche;Niedersachsen;DE;1;DE
-3010098;Nevin;Kowatzschetz;;female;1935-05-08;28211;Bremen;Bremen;AT;2;AT
+2010098;Nevin;Kowatzschetz;;female;1935-05-08;28211;Bremen;Bremen;AT;2;AT
 2000839;Richard-Georg;Lemken;;male;1935-05-05;15377;Oberbarnim Bollersdorf;Brandenburg;SK;0;SK
 2003813;Reyani;Hugenschmidt;;female;1935-05-04;47279;Duisburg;Nordrhein-Westfalen;AT;2;AT
 2003692;Adyan;Fuhrmans;;male;1935-05-01;27259;Wehrbleck;Niedersachsen;SK;0;SK
@@ -8564,7 +8564,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2005387;Viktorie;Segebarth;;female;1935-02-27;18374;Zingst;Mecklenburg-Vorpommern;AT;2;AT
 2006871;Milina;Rastaedt;;female;1935-02-26;72649;Wolfschlugen;Baden-WĂĽrttemberg;AT;2;AT
 2006920;Malwin;Saidenzahl;;male;1935-02-23;99428;Hopfgarten;ThĂĽringen;SK;0;SK
-3010035;Marit;Nehlen;;female;1935-02-22;70563;Stuttgart MĂ¶hringen;Baden-WĂĽrttemberg;AT;2;AT
+2010035;Marit;Nehlen;;female;1935-02-22;70563;Stuttgart MĂ¶hringen;Baden-WĂĽrttemberg;AT;2;AT
 2004052;Mats-Eddi;BĂ¶s;;male;1935-02-15;24340;Goosefeld;Schleswig-Holstein;DE;1;DE
 2005133;Poupette;Burkhardt;;female;1935-02-11;48356;Nordwalde;Nordrhein-Westfalen;AT;2;AT
 2001117;Sine;Baldschun;;female;1935-02-10;16515;Zehlendorf;Brandenburg;SK;0;SK
@@ -8653,7 +8653,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2008198;AnÄ‘elija;Funcke;;female;1933-12-04;99707;GĂ¶llingen;ThĂĽringen;DE;1;DE
 2009183;Brajan;GloggengieĂźer;;male;1933-11-10;18334;BĂ¶hlendorf;Mecklenburg-Vorpommern;SK;0;SK
 2000940;Nouri;Engelbart;;male;1933-11-06;60329;Frankfurt am Main;Hessen;SK;0;SK
-3010008;Alja;Obermoser;;female;1933-10-29;89420;HĂ¶chstĂ¤dt an der Donau;Bayern;DE;1;DE
+2010120;Alja;Obermoser;;female;1933-10-29;89420;HĂ¶chstĂ¤dt an der Donau;Bayern;DE;1;DE
 2001680;Calla-Tosca;Heydebruch;;female;1933-10-19;6679;Zorbau;Sachsen-Anhalt;DE;1;DE
 2009129;Stefaniya;Schnekloth;;female;1933-10-11;54472;Monzelfeld;Rheinland-Pfalz;AT;2;AT
 2008646;Attilio;Sudholz;;male;1933-09-29;71292;Friolzheim;Baden-WĂĽrttemberg;DE;1;DE
@@ -8703,7 +8703,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2007454;Djamilo;Simoneit;;male;1933-02-19;24619;RendswĂĽhren;Schleswig-Holstein;DE;1;DE
 2009040;Tiwi;WĂ¤lder;;female;1933-02-14;46537;Dinslaken;Nordrhein-Westfalen;DE;1;DE
 2004423;Shehrazad;Ibisoglu;;female;1933-02-07;13439;Berlin;Berlin;AT;2;AT
-3010069;Cem;Wisotzki;;male;1933-02-07;67697;Otterberg;Rheinland-Pfalz;DE;1;DE
+2010069;Cem;Wisotzki;;male;1933-02-07;67697;Otterberg;Rheinland-Pfalz;DE;1;DE
 2004230;Semra;Schochard;;female;1933-02-02;39175;KĂ¶nigsborn;Sachsen-Anhalt;DE;1;DE
 2007652;Jonie;Frischmut;;female;1933-02-01;66869;Schellweiler;Rheinland-Pfalz;SK;0;SK
 2006261;Philo;Eisenkraemer;;male;1933-01-30;80636;MĂĽnchen;Bayern;SK;0;SK
@@ -8825,7 +8825,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006765;Fenrir;Reiterer;;male;1931-05-11;95179;GeroldsgrĂĽn;Bayern;AT;2;AT
 2002160;Malu;Osterheider;;male;1931-05-09;17213;GrĂĽssow;Mecklenburg-Vorpommern;DE;1;DE
 2003051;Viyan;Bartschies;;female;1931-05-09;85567;Grafing bei MĂĽnchen;Bayern;SK;0;SK
-3010043;BjĂ¶rg;Puntschuh;;female;1931-05-08;45478;MĂĽlheim an der Ruhr;Nordrhein-Westfalen;DE;1;DE
+2010043;BjĂ¶rg;Puntschuh;;female;1931-05-08;45478;MĂĽlheim an der Ruhr;Nordrhein-Westfalen;DE;1;DE
 2008027;Brooklyn;Hofnagel;;male;1931-05-05;72070;TĂĽbingen;Baden-WĂĽrttemberg;DE;1;DE
 2006463;Annaliese;Sattelmacher;;female;1931-05-01;65623;Mudershausen;Rheinland-Pfalz;DE;1;DE
 2009400;Cheik;Lukassen;;female;1931-04-30;15518;SteinhĂ¶fel SchĂ¶nfelde;Brandenburg;SK;0;SK
@@ -9038,7 +9038,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002221;Jenessa;Canakci;;female;1928-12-12;33100;Paderborn;Nordrhein-Westfalen;SK;0;SK
 2009039;Ryan;Hafermehl;;male;1928-10-26;79183;Waldkirch;Baden-WĂĽrttemberg;AT;2;AT
 2002513;Youssoufo;Moritz;;male;1928-10-24;29353;Ahnsbeck;Niedersachsen;DE;1;DE
-3010085;Tonda;Fleischhans;;male;1928-09-25;22081;Hamburg Barmbek-SĂĽd;Hamburg;DE;1;DE
+2010085;Tonda;Fleischhans;;male;1928-09-25;22081;Hamburg Barmbek-SĂĽd;Hamburg;DE;1;DE
 2002290;Karim;Schniederjann;;male;1928-08-15;29456;Hitzacker Posade;Niedersachsen;DE;1;DE
 2005156;Sumeyya-Ayet;Claeson;;female;1928-08-12;54552;Darscheid;Rheinland-Pfalz;AT;2;AT
 2007917;Isidor;WeiĂźhans;;male;1928-08-10;87668;Rieden;Bayern;AT;2;AT
@@ -9060,7 +9060,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001671;Madline;Ă–lschlĂ¤ger;;female;1928-05-11;72414;Rangendingen;Baden-WĂĽrttemberg;SK;0;SK
 2006619;Eeli;Obernhuber;;male;1928-05-11;63179;Obertshausen;Hessen;SK;0;SK
 2002663;Kirabo;Leineweber;;female;1928-05-10;92445;Neukirchen-Balbini;Bayern;SK;0;SK
-3010101;Betim;Brinksmeyer;;male;1928-05-09;18528;Parchtitz;Mecklenburg-Vorpommern;AT;2;AT
+2010101;Betim;Brinksmeyer;;male;1928-05-09;18528;Parchtitz;Mecklenburg-Vorpommern;AT;2;AT
 2000150;Mathias-LucĂˇs;Littfinski;;male;1928-05-09;84085;Langquaid;Bayern;AT;2;AT
 2009094;Kelyce;GrĂĽnrock;;female;1928-05-06;31737;Rinteln Friedrichswald;Niedersachsen;SK;0;SK
 2004889;Sukayna;Yesildag;;female;1928-05-05;7336;KĂ¶nitz;ThĂĽringen;SK;0;SK
@@ -9099,7 +9099,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2000964;Tom;Balcarik;;male;1928-02-04;58455;Witten;Nordrhein-Westfalen;SK;0;SK
 2003219;Mohamed-Ali;BrĂĽcklmayer;;male;1928-02-03;24610;Trappenkamp;Schleswig-Holstein;AT;2;AT
 2003921;Editha-Mathild;Diez;;female;1928-01-30;55457;Gensingen;Rheinland-Pfalz;SK;0;SK
-3010033;Menisa;Waid;;female;1928-01-30;39343;Morsleben;Sachsen-Anhalt;DE;1;DE
+2010033;Menisa;Waid;;female;1928-01-30;39343;Morsleben;Sachsen-Anhalt;DE;1;DE
 2000451;Huba;Podzum;;male;1928-01-27;88499;Emeringen;Baden-WĂĽrttemberg;AT;2;AT
 2009724;Masango;Esmeray;;male;1928-01-22;74172;Neckarsulm;Baden-WĂĽrttemberg;AT;2;AT
 2005150;Frieda-Lou;MĂĽllers;;female;1928-01-18;84550;Feichten an der Alz;Bayern;SK;0;SK
@@ -9137,7 +9137,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006271;Renjin;Stelmokas;;male;1927-04-22;99510;Apolda;ThĂĽringen;DE;1;DE
 2008266;Mytrinh;Aeberhard;;female;1927-04-21;17440;KrĂ¶slin;Mecklenburg-Vorpommern;AT;2;AT
 2009520;Constantin;MĂ¶bes;;male;1927-04-21;57319;Bad Berleburg Alertshausen;Nordrhein-Westfalen;DE;1;DE
-3010041;Lionel;Dierksmeier;;male;1927-04-20;54610;BĂĽdesheim;Rheinland-Pfalz;AT;2;AT
+2010041;Lionel;Dierksmeier;;male;1927-04-20;54610;BĂĽdesheim;Rheinland-Pfalz;AT;2;AT
 2006990;Bayu;WischkĂ¤mper;;male;1927-04-20;44287;Dortmund;Nordrhein-Westfalen;AT;2;AT
 2007984;Haron;Paetzolt;;male;1927-04-17;98631;Nordheim;ThĂĽringen;AT;2;AT
 2005442;Yakovlevna;Betzle;;female;1927-04-16;72356;Dautmergen;Baden-WĂĽrttemberg;SK;0;SK
@@ -9237,7 +9237,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2003641;Gil;Marckwarth;;male;1926-02-09;3096;Dissen-Striesow;Brandenburg;AT;2;AT
 2004801;Veli;Krauth;;male;1926-02-07;25554;Dammfleth;Schleswig-Holstein;AT;2;AT
 2004624;Ĺžen;Jungmann;;male;1926-02-02;82418;Murnau am Staffelsee;Bayern;DE;1;DE
-3010038;Dmitryevna;Uslubas;;female;1926-01-27;21075;Hamburg Harburg;Hamburg;DE;1;DE
+2010038;Dmitryevna;Uslubas;;female;1926-01-27;21075;Hamburg Harburg;Hamburg;DE;1;DE
 2006781;Nazire;Goetzelmann;;female;1926-01-25;65582;Diez;Rheinland-Pfalz;SK;0;SK
 2006986;Meriem;Kleinlein;;female;1926-01-25;21775;Steinau;Niedersachsen;SK;0;SK
 2008301;Maiki;Nielsen;;male;1926-01-19;39524;Garz;Sachsen-Anhalt;SK;0;SK
@@ -9297,7 +9297,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2006710;Angelova;Kraudzun;;female;1925-04-11;55481;Kirchberg;Rheinland-Pfalz;DE;1;DE
 2003375;Amatul-Ali;Voigt;;female;1925-04-11;18569;Neuenkirchen;Mecklenburg-Vorpommern;SK;0;SK
 2009507;Anthony;Sengstack;;male;1925-04-06;35510;Butzbach;Hessen;AT;2;AT
-3010084;Name;Steuble;;female;1925-04-05;55592;Breitenheim;Rheinland-Pfalz;SK;0;SK
+2010084;Name;Steuble;;female;1925-04-05;55592;Breitenheim;Rheinland-Pfalz;SK;0;SK
 2000542;Miguelson;Loeffelad;;male;1925-04-05;97246;Eibelstadt;Bayern;SK;0;SK
 2004406;Keremcan;Niemoeller;;male;1925-04-04;56653;Wehr;Rheinland-Pfalz;DE;1;DE
 2005030;Merina;Mathesius;;female;1925-03-24;83364;Graben bei Neukirchen am Teisenberg;Bayern;AT;2;AT
@@ -9335,7 +9335,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2001418;Merete;Hopffer;;female;1924-10-26;55452;Guldental;Rheinland-Pfalz;SK;0;SK
 2001018;Paulson;FreimĂĽller;;male;1924-10-08;76776;Neuburg am Rhein;Rheinland-Pfalz;SK;0;SK
 2002574;Griselda;SchoeĂźler;;female;1924-09-10;80331;MĂĽnchen;Bayern;SK;0;SK
-3010088;Touka;Spether;;male;1924-09-10;17094;Lindetal;Mecklenburg-Vorpommern;DE;1;DE
+2010088;Touka;Spether;;male;1924-09-10;17094;Lindetal;Mecklenburg-Vorpommern;DE;1;DE
 2009526;Martin;Haussler;;female;1924-09-07;25853;Bohmstedt;Schleswig-Holstein;SK;0;SK
 2000294;Mare;Szameitpreuss;;female;1924-08-23;39596;Schwarzholz;Sachsen-Anhalt;AT;2;AT
 2003825;Kailun;Mooss;;male;1924-08-18;58642;Iserlohn;Nordrhein-Westfalen;DE;1;DE
@@ -9407,7 +9407,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2002209;Rojava;Imgraben;;female;1924-01-31;55595;Argenschwang;Rheinland-Pfalz;DE;1;DE
 2002231;Tanju;Lampart;;male;1924-01-30;34396;Liebenau;Hessen;AT;2;AT
 2002829;Alysya;Kreuzer;;female;1924-01-28;55234;Kettenheim;Rheinland-Pfalz;AT;2;AT
-3010027;Channa;Andre;;female;1924-01-16;6279;FarnstĂ¤dt;Sachsen-Anhalt;SK;0;SK
+2010027;Channa;Andre;;female;1924-01-16;6279;FarnstĂ¤dt;Sachsen-Anhalt;SK;0;SK
 2003902;Muhaned;Matheisl;;female;1924-01-05;26345;Bockhorn Osterforde;Niedersachsen;DE;1;DE
 2002459;Janto;Budwillus;;male;1923-12-31;27446;Farven;Niedersachsen;AT;2;AT
 2003780;Maggie;Nickolson;;female;1923-12-23;17440;Sauzin;Mecklenburg-Vorpommern;AT;2;AT
@@ -9437,7 +9437,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2003505;Obiang;Halbich;;male;1923-05-17;36419;Schleid;ThĂĽringen;SK;0;SK
 2006545;Elya;Dieterle;;female;1923-05-16;99834;LauchrĂ¶den;ThĂĽringen;AT;2;AT
 2006947;Kinaya;Vox;;female;1923-05-16;99428;Ottstedt am Berge;ThĂĽringen;DE;1;DE
-3010007;Gracilla;Larens;;female;1923-05-12;23777;Heringsdorf;Schleswig-Holstein;DE;1;DE
+2010121;Gracilla;Larens;;female;1923-05-12;23777;Heringsdorf;Schleswig-Holstein;DE;1;DE
 2004673;Jill;Duvel;;female;1923-05-11;95709;TrĂ¶stau;Bayern;DE;1;DE
 2000369;Lilly-Maria;Bergte;;female;1923-05-10;92542;Dieterskirchen;Bayern;DE;1;DE
 2004294;Santiago;Berg;;male;1923-05-07;13403;Berlin;Berlin;DE;1;DE
@@ -9521,7 +9521,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2004959;Abdulla;Trompeteler;;male;1922-05-27;65614;Beselich;Hessen;SK;0;SK
 2001811;ZĂ©phyrin;Josephs;;male;1922-05-26;6231;KĂ¶tzschau;Sachsen-Anhalt;AT;2;AT
 2000246;Stian;JohĂ¤nning;;male;1922-05-25;49219;Glandorf;Niedersachsen;DE;1;DE
-3010079;Amiel;Heynicke;;female;1922-05-24;21266;Jesteburg;Niedersachsen;AT;2;AT
+2010079;Amiel;Heynicke;;female;1922-05-24;21266;Jesteburg;Niedersachsen;AT;2;AT
 2009045;Zi;Hellenbarth;;male;1922-05-23;24361;Klein Wittensee;Schleswig-Holstein;AT;2;AT
 2004106;Gretchen;Bauhaus;;female;1922-05-22;78576;Emmingen-Liptingen;Baden-WĂĽrttemberg;SK;0;SK
 2001227;Nayyar;Reichards;;male;1922-05-21;31867;HĂĽlsede HĂĽlsede;Niedersachsen;DE;1;DE
@@ -9530,7 +9530,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2007382;Daishichiro;BrĂ¤hmer;;male;1922-05-19;40721;Hilden;Nordrhein-Westfalen;AT;2;AT
 2003868;Selay;Kastner;;female;1922-05-15;66871;Ehweiler;Rheinland-Pfalz;AT;2;AT
 2003622;Erikova;Torschmied;;female;1922-05-15;74549;Wolpertshausen;Baden-WĂĽrttemberg;SK;0;SK
-3010092;Haya;Schuchart;;female;1922-05-12;6198;Neutz-Lettewitz;Sachsen-Anhalt;DE;1;DE
+2010092;Haya;Schuchart;;female;1922-05-12;6198;Neutz-Lettewitz;Sachsen-Anhalt;DE;1;DE
 2004730;Merin;KĂĽnstl;;female;1922-05-12;76889;Kapsweyer;Rheinland-Pfalz;AT;2;AT
 2001673;Afsane;Solovev;;female;1922-05-11;68642;BĂĽrstadt;Hessen;SK;0;SK
 2000346;Niklas-Jonah;Stockhorst;;male;1922-05-10;88524;Uttenweiler;Baden-WĂĽrttemberg;DE;1;DE
@@ -9542,7 +9542,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2000601;Ton;Siekoetter;;male;1922-05-06;56133;Fachbach;Rheinland-Pfalz;SK;0;SK
 2007040;Arlen;Pfanzelter;;male;1922-04-29;25885;AhrenviĂ¶lfeld;Schleswig-Holstein;AT;2;AT
 2007761;BjĂ¶rk;Bartholemy;;female;1922-04-27;64686;Lautertal;Hessen;AT;2;AT
-3010082;Vicca;Burfeindt;;female;1922-04-26;67472;Esthal;Rheinland-Pfalz;DE;1;DE
+2010082;Vicca;Burfeindt;;female;1922-04-26;67472;Esthal;Rheinland-Pfalz;DE;1;DE
 2005700;Konstantinus;Scharpenberg;;male;1922-04-25;18299;Alt KĂ¤twin;Mecklenburg-Vorpommern;SK;0;SK
 2006872;Yasar;Hamerl;;male;1922-04-24;92720;Schwarzenbach;Bayern;SK;0;SK
 2004364;Yasmin;Moebes;;female;1922-04-23;2788;Schlegel;Sachsen;DE;1;DE
@@ -9650,7 +9650,7 @@ CID;Meno/Priezvisko;Priezvisko;Tituly;sex;Datum narodenia;PSC;mesto;kraj;Danovy 
 2000872;Brigitte;KleiĂźer;;female;1921-04-14;6896;Straach;Sachsen-Anhalt;SK;0;SK
 2003644;EliĂˇn;Voerster;;male;1921-04-12;6888;Dietrichsdorf;Sachsen-Anhalt;DE;1;DE
 2007195;Ervin;Sprungk;;male;1921-04-09;83564;Soyen;Bayern;AT;2;AT
-3010102;Dean-Liam;Wenzl;;male;1921-03-23;56861;Reil;Rheinland-Pfalz;DE;1;DE
+2010102;Dean-Liam;Wenzl;;male;1921-03-23;56861;Reil;Rheinland-Pfalz;DE;1;DE
 2004642;James-Allen;Michalack;;male;1921-03-18;31559;Hohnhorst Rehren A.R.;Niedersachsen;DE;1;DE
 2003092;YaÄźub;Schneekluth;;male;1921-03-17;54439;Fisch;Rheinland-Pfalz;SK;0;SK
 2009889;Tove;Bscher;;female;1921-03-15;31691;Seggebruch;Niedersachsen;AT;2;AT
