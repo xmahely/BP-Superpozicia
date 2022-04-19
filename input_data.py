@@ -3,6 +3,8 @@ import sqlalchemy
 import sqlalchemy.exc as exc
 import normalizer as n
 from log.logger import logger
+import glob
+import os
 
 
 def read(name):
@@ -55,30 +57,34 @@ def insert_into_dbo(database,
                     psc,
                     domicile,
                     note):
-    try:
-        database.insert_into_dbo_partner(cid=cid, priority=priority, first_name=first_name, last_name=last_name,
-                                         sex=sex, titles=titles, dob=date_of_birth, street=street, city=city,
-                                         region=region, psc=psc, domicile=domicile, note=note)
-        database.insert_into_dbo_partner_norm(cid=cid, priority=priority, first_name=n.normalizeWord(first_name),
-                                              last_name=n.normalizeWord(last_name), sex=sex,
-                                              titles=n.normalizeWord(titles), dob=date_of_birth,
-                                              street=n.normalizeWord(street), city=n.normalizeWord(city),
-                                              region=n.normalizeWord(region), psc=psc,
-                                              domicile=n.normalizeWord(domicile), note=note)
-    except exc.IntegrityError:
-        logger.info('Snaha o insert do dbo.partner. Vyhodnotná duplicita: \n' + cid, priority, first_name, last_name,
-                    sex, titles, date_of_birth, street, city, region, psc, domicile, note)
+    # try:
+    database.insert_into_dbo_partner(cid=cid, priority=priority, first_name=first_name, last_name=last_name,
+                                     sex=sex, titles=titles, dob=date_of_birth, street=street, city=city,
+                                     region=region, psc=psc, domicile=domicile, note=note)
+    database.insert_into_dbo_partner_norm(cid=cid, priority=priority, first_name=n.normalizeWord(first_name),
+                                          last_name=n.normalizeWord(last_name), sex=sex,
+                                          titles=n.normalizeWord(titles), dob=date_of_birth,
+                                          street=n.normalizeWord(street), city=n.normalizeWord(city),
+                                          region=n.normalizeWord(region), psc=psc,
+                                          domicile=n.normalizeWord(domicile), note=note)
+    # except exc.IntegrityError:
+    #     print('Snaha o insert do dbo.partner. Vyhodnotená duplicita: \n', cid, priority, first_name, last_name,
+    #           sex, titles, date_of_birth, street, city, region, psc, domicile, note)
+    #     # logger.info('Snaha o insert do dbo.partner. Vyhodnotená duplicita: \n', cid, priority, first_name, last_name,
+    #     #             sex, titles, date_of_birth, street, city, region, psc, domicile, note)
 
     if company == 'SLSP':
-        try:
-            database.insert_into_dbo_superposition(cid=cid, first_name=first_name, last_name=last_name, sex=sex,
-                                                   titles=titles, dob=date_of_birth, street=street, city=city,
-                                                   region=region, psc=psc, domicile=domicile,
-                                                   identifiers=sqlalchemy.sql.null(), note=note)
-            database.update_processed_bit(cid)
-        except exc.IntegrityError:
-            logger.info('Snaha o insert do dbo.superposition. Vyhodnotná duplicita: \n' + cid, first_name, last_name,
-                        sex, titles, date_of_birth, street, city, region, psc, domicile, note)
+        # try:
+        database.insert_into_dbo_superposition(cid=cid, first_name=first_name, last_name=last_name, sex=sex,
+                                               titles=titles, dob=date_of_birth, street=street, city=city,
+                                               region=region, psc=psc, domicile=domicile,
+                                               identifiers=sqlalchemy.sql.null(), note=note)
+        database.update_processed_bit(cid)
+        # except exc.IntegrityError:
+        #     print('Snaha o insert do dbo.superposition. Vyhodnotná duplicita: \n', cid, first_name, last_name,
+        #           sex, titles, date_of_birth, street, city, region, psc, domicile, note)
+            # logger.info('Snaha o insert do dbo.superposition. Vyhodnotná duplicita: \n', cid, first_name, last_name,
+            #             sex, titles, date_of_birth, street, city, region, psc, domicile, note)
 
 
 def insert_data(database, company):
@@ -98,10 +104,10 @@ def insert_data(database, company):
             street = sqlalchemy.sql.null()
             city = row[8]
             region = row[9]
-            psc = row[7]
+            psc = str(row[7]).strip()
             domicile = row[10]
-            insert_into_dbo(database, company, cid, priority, first_name, last_name, sex, titles, date_of_birth,
-                            street, city, region, psc, domicile, note)
+            insert_into_dbo(database, company, cid, priority, first_name, last_name, sex, titles,
+                            date_of_birth, street, city, region, psc, domicile, note)
     if company == 'NN':
         header = ['index', 'CID', 'Meno', 'Priezvisko', 'Tituly', 'Pohlavie', 'DatumNarodenia', 'Adresa',
                   'DanDom', 'Stlpec2', 'Stlpec3']
@@ -117,10 +123,10 @@ def insert_data(database, company):
             street = sqlalchemy.sql.null()
             city = address[0]
             region = address[1]
-            psc = address[2]
+            psc = str(address[2]).strip()
             domicile = row[8]
-            insert_into_dbo(database, company, cid, priority, first_name, last_name, sex, titles, date_of_birth,
-                            street, city, region, psc, domicile, note)
+            insert_into_dbo(database, company, cid, priority, first_name, last_name, sex, titles,
+                            date_of_birth, street, city, region, psc, domicile, note)
     if company == 'PSLSP':
         header = ['index', 'CID', 'Meno', 'Priezvisko', 'Pohlavie', 'DatumNarodenia', 'PSC', 'DanDom', 'Adresa']
         for row in df.itertuples():
@@ -135,10 +141,10 @@ def insert_data(database, company):
             street = sqlalchemy.sql.null()
             city = address[1]
             region = address[0]
-            psc = row[6]
+            psc = str(row[6]).strip()
             domicile = row[7]
-            insert_into_dbo(database, company, cid, priority, first_name, last_name, sex, titles, date_of_birth,
-                            street, city, region, psc, domicile, note)
+            insert_into_dbo(database, company, cid, priority, first_name, last_name, sex, titles,
+                            date_of_birth, street, city, region, psc, domicile, note)
     if company == 'AM_SLSP':
         header = ['index', 'CID', 'Meno/Priezvisko', 'Pohlavie', 'DatumNarodenia', 'Adresa', 'Stat', 'DanDom']
         for row in df.itertuples():
@@ -152,10 +158,10 @@ def insert_data(database, company):
             street = sqlalchemy.sql.null()
             city = address[1]
             region = row[6]
-            psc = address[0]
+            psc = str(address[0]).strip()
             domicile = row[7]
-            insert_into_dbo(database, company, cid, priority, first_name, last_name, sex, titles, date_of_birth,
-                            street, city, region, psc, domicile, note)
+            insert_into_dbo(database, company, cid, priority, first_name, last_name, sex, titles,
+                            date_of_birth, street, city, region, psc, domicile, note)
     if company == 'SLSP_L' or company == 'KOOP':
         header = ['index', 'CID', 'Meno', 'Priezvisko', 'Tituly', 'Pohlavie', 'DatumNarodenia', 'PSC', 'Mesto',
                   'Kraj', 'DanDom']
@@ -170,7 +176,15 @@ def insert_data(database, company):
             street = sqlalchemy.sql.null()
             city = row[8]
             region = row[9]
-            psc = row[7]
+            psc = str(row[7]).strip()
             domicile = row[10]
-            insert_into_dbo(database, company, cid, priority, first_name, last_name, sex, titles, date_of_birth,
-                            street, city, region, psc, domicile, note)
+            insert_into_dbo(database, company, cid, priority, first_name, last_name, sex, titles,
+                            date_of_birth, street, city, region, psc, domicile, note)
+
+
+def createInputTables(database):
+    # # pre všetky csv, ktoré sú v priečinku /data vytvorí záznamy vo vstupnej tabuľke
+    # # zároveň pre dáta SLSP platí, že sa prenesú do výstupnej tabuľky s prázdnym identifikátorom
+    for file in glob.glob(os.path.join('data', '*.csv')):
+        variant = file.replace('data\\', '').replace('.csv', '')
+        insert_data(database, variant)
