@@ -28,7 +28,6 @@ class SUPERPOSITION(Base):
                f"Pohlavie={self.Pohlavie}," \
                f"Tituly={self.Tituly}," \
                f"Datum narodenia={self.Datum_Narodenia}," \
-               f"RC={self.RC}," \
                f"Ulica={self.Ulica}," \
                f"Mesto={self.Mesto}," \
                f"Kraj={self.Kraj}," \

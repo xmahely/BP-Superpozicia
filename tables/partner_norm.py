@@ -30,7 +30,7 @@ class PARTNER_NORM(Base):
                f"CID={self.CID}, " \
                f"Priorita={self.Priorita}," \
                f"Meno={self.Meno}, " \
-               f"Priezvisko={self.Priezvisko}.>," \
+               f"Priezvisko={self.Priezvisko},," \
                f"Pohlavie={self.Pohlavie}," \
                f"Tituly={self.Tituly}," \
                f"Datum narodenia={self.Datum_Narodenia}," \
