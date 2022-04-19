@@ -1,132 +1,149 @@
-import math
-import string
-
-from torch import nn
-from torch.autograd import Variable
-from torch.nn.utils.rnn import pad_sequence
-import torch.nn.functional as F
-import normalizer as n
-import random
-from random import randint
-import torch
-import jaro_distance as distance
-import pandas as pd
-
-import numpy as np
-
-
-all_letters = string.ascii_lowercase
-all_letters = n.wordToAsciiValueList(all_letters)
-num_letters = len(all_letters)
-max_size = 38
-
-
-def generateRandomly():
-    idx = randint(1, 6)
-    if idx == 1:
-        tensor1, tensor2 = generate2IdenticalTensors()
-    elif idx == 2 or idx == 3:
-        tensor1, tensor2 = generate2SimilarTensors()
-    else:
-        tensor1, tensor2 = generate2RandomTensors()
-    return tensor1, tensor2
-
-
-def generate2IdenticalTensors():
-    tensor1 = generateTensor()
-    return tensor1, tensor1
-
-
-def generate2SimilarTensors():
-    tensor1 = generateTensor(tensor_size_min=6, tensor_size_max=38)
-    size1 = list(tensor1.size())[0]
-    size2 = randint(-4, 4) + size1
-    tensor2 = torch.empty(size2)
-
-    if size2 == size1:
-        tensor2 = tensor1
-        tensor2[randint(0, size2 - 1)] = tensor1[randint(0, size1 - 1)]
-        tensor2[randint(0, size2 - 1)] = tensor1[randint(0, size1 - 1)]
-    elif size2 > size1:
-        for i in range(size1):
-            tensor2[i] = tensor1[i]
-        tensor2[size1] = all_letters[randint(0, num_letters - 1)]
-        if size2 > size1 + 1:
-            tensor2[size1+1] = all_letters[randint(0, num_letters - 1)]
-        if size2 > size1 + 2:
-            tensor2[size1+2] = all_letters[randint(0, num_letters - 1)]
-        if size2 > size1 + 3:
-            tensor2[size1+3] = all_letters[randint(0, num_letters - 1)]
-    elif size1 > size2:
-        for i in range(size2):
-            tensor2[i] = tensor1[i]
-        if size1 > size2 + 1:
-            tensor2[randint(0, size2 - 1)] = all_letters[randint(0, num_letters - 1)]
-        if size1 > size2 + 2:
-            tensor2[randint(0, size2 - 1)] = all_letters[randint(0, num_letters - 1)]
-        if size1 > size2 + 3:
-            tensor2[randint(0, size2 - 1)] = all_letters[randint(0, num_letters - 1)]
-
-    return tensor1, tensor2
-
-
-def generate2RandomTensors():
-    tensor1 = generateTensor()
-    tensor2 = generateTensor()
-
-    return tensor1, tensor2
-
-
-def generateTensor(tensor_size_min=None, tensor_size_max=None, random_shuffle=True):
-    if tensor_size_min is None and tensor_size_max is None:
-        size = randint(3, max_size)
-    elif tensor_size_min is None and tensor_size_max is not None:
-        size = randint(3, tensor_size_max)
-    elif tensor_size_min is not None and tensor_size_max is None:
-        size = randint(tensor_size_min, max_size)
-    else:
-        size = randint(tensor_size_min, tensor_size_max)
-
-    if random_shuffle is True:
-        random.shuffle(all_letters)
-
-    result = []
-    for _ in range(size):
-        i = randint(0, num_letters - 1)
-        result.append(all_letters[i])
-
-    return torch.tensor(result, dtype=torch.float)
-
-
-def createTrainData(size):
-    df = pd.DataFrame(columns=['names', 'similarity'])
-    X = []
-    y = []
-    max_vector_len = 44
-
-    for i in range(0, size):
-        t1, t2 = generateRandomly()
-        d = distance.JaroDistance(t1, t2)
-
-        t1_size = list(t1.size())[0]
-        t2_size = list(t2.size())[0]
-
-        if max_vector_len - t1_size > 0:
-            out = nn.ConstantPad1d((0, max_vector_len - t1_size), 0)
-            t1 = out(t1)
-        if max_vector_len - t2_size > 0:
-            out = nn.ConstantPad1d((0, max_vector_len - t2_size), 0)
-            t2 = out(t2)
-
-        # names_tensor = pad_sequence([t1, t2]).t()
-        names_tensor = torch.cat((t1, t2), 0)
-        df.loc[i, 'names'] = names_tensor
-        similarity = torch.tensor(d.getDistance())
-        df.loc[i, 'similarity'] = similarity
-
-        X.append(names_tensor)
-        y.append(similarity)
-
-    X = torch.stack(X, 0)
-    y = torch.stack(y, 0)
-    return X, y.reshape((y.shape[0], 1))
+# import random
+# import torch
+# from torch import nn
+# from torch.utils.data import DataLoader
+# import matplotlib.pyplot as plt
+# from sklearn.preprocessing import StandardScaler
+#
+#
+# class TestDataset(torch.utils.data.Dataset):
+#
+#     def __init__(self, X, y):
+#         self.X = X
+#         self.y = y
+#         # if not torch.is_tensor(X) and not torch.is_tensor(y):
+#         #     # Apply scaling if necessary
+#         #     if scale_data:
+#         #         X = StandardScaler().fit_transform(X)
+#         #     self.X = torch.from_numpy(X)
+#         #     self.y = torch.from_numpy(y)
+#
+#     def __len__(self):
+#         return len(self.X)
+#
+#     def __getitem__(self, i):
+#         return self.X[i], self.y[i]
+#
+#
+# class MLP(nn.Module):
+#     '''
+#       Multilayer Perceptron for regression.
+#     '''
+#
+#     def __init__(self):
+#         super().__init__()
+#         self.layers = nn.Sequential(
+#             nn.Linear(7, 64),
+#             nn.ReLU(),
+#             nn.Linear(64, 32),
+#             nn.ReLU(),
+#             nn.Linear(32, 1)
+#         )
+#
+#     def forward(self, x):
+#         '''
+#           Forward pass
+#         '''
+#         return self.layers(x)
+#
+# def createTestData(count):
+#     inputs = []
+#     outputs = []
+#     for i in range(count):
+#         name = random.random()
+#         last_name = random.random()
+#         titles = random.randint(0, 1)
+#         city = random.random()
+#         region = random.random()
+#         psc = random.choice([0, 0.2, 0.25, 0.4, 0.6, 0.8, 1])
+#         domicile = random.randint(0, 1)
+#         inputs.append([name, last_name, titles, city, region, psc, domicile])
+#         # output = (name + last_name + 0.3 * city + 0.3 * region + 0.3 * psc + 0.3 * domicile) / 3.2
+#         output = (name + last_name + 0.1 * city + 0.1 * region + 0.1 * psc + 0.1 * domicile) / 2.4
+#         outputs.append(output)
+#
+#     input_tensor = torch.tensor(inputs,
+#                                 dtype=torch.float64)
+#     output_tensor = torch.tensor(outputs,
+#                                  dtype=torch.float64)
+#     return input_tensor, output_tensor
+#
+#
+# def train():
+#     train_losses = []
+#     torch.manual_seed(42)
+#     dataset_size = 10000
+#     X, y = createTestData(dataset_size)
+#     dataset = TestDataset(X, y)
+#     batch_size = 100
+#     epoch_size = round((dataset_size / (dataset_size / batch_size)))
+#     trainloader = torch.utils.data.DataLoader(dataset, batch_size=batch_size, shuffle=True, num_workers=1)
+#
+#     mlp = MLP()
+#
+#     loss_function = nn.L1Loss()
+#     optimizer = torch.optim.Adam(mlp.parameters(), lr=1e-4)
+#
+#     for epoch in range(0, epoch_size):
+#
+#         print(f'Starting epoch {epoch + 1}')
+#
+#         current_loss = 0.0
+#
+#         for i, data in enumerate(trainloader, 0):
+#             inputs, targets = data
+#             inputs, targets = inputs.float(), targets.float()
+#             targets = targets.reshape((targets.shape[0], 1))
+#
+#             optimizer.zero_grad()
+#
+#             outputs = mlp(inputs)
+#
+#             loss = loss_function(outputs, targets)
+#
+#             loss.backward()
+#
+#             optimizer.step()
+#
+#             current_loss += loss.item()
+#             if (i + 1) % (dataset_size / batch_size) == 0:
+#                 print('Loss after mini-batch: %.10f' %
+#                       (current_loss / (dataset_size / batch_size)))
+#                 train_losses.append(current_loss / (dataset_size / batch_size))
+#                 current_loss = 0.0
+#
+#     print('Training process has finished.')
+#
+#     plt.plot(train_losses, '-o')
+#     plt.xlabel('epoch')
+#     plt.ylabel('loss')
+#     plt.legend(['Train'])
+#     plt.title('Train losses')
+#
+#     plt.show()
+#
+#     torch.save(mlp.state_dict(), 'model.pt')
+#
+#
+# def main():
+#     # train()
+#     model_dict = torch.load('model.pt')
+#     model = MLP()
+#     model.load_state_dict(model_dict)
+#
+#
+#     inpt1 = []
+#     inpt1.append([1, 1, 1, 0.5, 0.5, 0.5, 1])
+#     tens = torch.tensor(inpt1, dtype=torch.float64)
+#     tens = tens.float()
+#     test1 = model(tens)
+#     print(test1)
+#     inpt1.append([0.5, 0.3, 0.4, 0.5, 0.5, 0.5, 1])
+#     tens = torch.tensor(inpt1, dtype=torch.float64)
+#     tens = tens.float()
+#     test2 = model(tens)
+#     print(test2)
+#
+#
+# if __name__ == "__main__":
+#     main()
