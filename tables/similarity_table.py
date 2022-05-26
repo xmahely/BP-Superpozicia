@@ -11,6 +11,7 @@ class SIM(Base):
     Meno = Column(Float(), nullable=False)
     Priezvisko = Column(Float(), nullable=False)
     Tituly = Column(Float(), nullable=True)
+    Datum_Narodenia = Column(Float(), nullable=True)
     Mesto = Column(Float(), nullable=True)
     Kraj = Column(Float(), nullable=True)
     PSC = Column(Float(), nullable=True)
@@ -22,6 +23,7 @@ class SIM(Base):
                f"Meno = {self.Meno}, "\
                f"Priezvisko = {self.Priezvisko}, " \
                f"Tituly = {self.Tituly}, " \
+               f"Datum_Narodenia = {self.Datum_Narodenia}, " \
                f"Mesto = {self.Mesto}, " \
                f"Kraj = {self.Kraj}, " \
                f"PSC = {self.PSC}, " \

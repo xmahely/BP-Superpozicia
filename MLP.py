@@ -9,7 +9,7 @@ class MLP(nn.Module):
     def __init__(self):
         super().__init__()
         self.layers = nn.Sequential(
-            nn.Linear(7, 64),
+            nn.Linear(8, 64),
             nn.ReLU(),
             nn.Linear(64, 32),
             nn.ReLU(),

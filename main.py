@@ -1,13 +1,17 @@
 from database import database as db
 import input_data
 import output_data
+import net
 
 
 def main():
-    # # pripojí sa k lokálnej databáze
-    database = db.DBHandler()
+    # # natrénuje model
+    net.train()
 
-    # # ak treba, vytvorí všetky zadefinované tabuľky
+    # # # pripojí sa k lokálnej databáze
+    database = db.DBHandler()
+    #
+    # # # ak treba, vytvorí všetky zadefinované tabuľky
     database.create_all_tables()
 
     # # pre všetky csv, ktoré sú v priečinku /data vytvorí záznamy vo vstupnej tabuľke

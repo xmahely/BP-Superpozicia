@@ -14,13 +14,14 @@ def createTestData(count):
         name = random.random()
         last_name = random.random()
         titles = random.randint(0, 1)
+        dob = random.random()
         city = random.random()
         region = random.random()
         psc = random.choice([0, 0.2, 0.25, 0.4, 0.6, 0.8, 1])
         domicile = random.randint(0, 1)
-        inputs.append([name, last_name, titles, city, region, psc, domicile])
+        inputs.append([name, last_name, titles, dob, city, region, psc, domicile])
         # output = (name + last_name + 0.3 * city + 0.3 * region + 0.3 * psc + 0.3 * domicile) / 3.2
-        output = (name + last_name + 0.1 * city + 0.1 * region + 0.1 * psc + 0.1 * domicile) / 2.4
+        output = (name + last_name + 0.9*dob + 0.1 * city + 0.1 * region + 0.1 * psc + 0.1 * domicile) / 3.3
         outputs.append(output)
 
     input_tensor = torch.tensor(inputs,

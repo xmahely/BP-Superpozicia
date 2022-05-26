@@ -1,6 +1,5 @@
-import sqlalchemy
 import sqlalchemy.exc as exc
-from sqlalchemy import create_engine, update, or_, and_, not_
+from sqlalchemy import create_engine, update, or_, and_, not_, text
 from sqlalchemy import func
 from sqlalchemy.orm import sessionmaker, aliased
 
@@ -33,10 +32,10 @@ class DBHandler:
     def execute(self, sql_string):
         return self.connect.execute(sql_string)
 
-    def get_max_string_len(self):
-        result = self.connect.execute('select [dbo].[get_max_string_len]()')
-        for row in result:
-            return row[0]
+    # def get_max_string_len(self):
+    #     result = self.connect.execute('select [dbo].[get_max_string_len]()')
+    #     for row in result:
+    #         return row[0]
 
     def get_max_CID(self):
         session = Session(bind=self.engine)
@@ -60,7 +59,47 @@ class DBHandler:
                   and_(
                       a.Datum_Narodenia == b.Datum_Narodenia,
                       a.Pohlavie == b.Pohlavie,
-                      b.Priorita == priority
+                      b.Priorita == priority,
+                  )) \
+            .filter(a.CID != b.CID) \
+            .all()
+        session.close()
+        return result
+
+    def get_potential_duplicates_new(self, priority):
+        session = Session(bind=self.engine)
+        s = aliased(sup.SUPERPOSITION)
+        a = aliased(par_norm.PARTNER_NORM)
+        b = aliased(par_norm.PARTNER_NORM)
+        result = session.query(s, a, b) \
+            .join(a, a.CID == s.CID) \
+            .join(b,
+                  or_(
+                      and_(
+                          a.Datum_Narodenia == b.Datum_Narodenia,
+                          a.Pohlavie == b.Pohlavie,
+                          b.Priorita == priority,
+                      ),
+                      and_(
+                          a.Meno == b.Meno,
+                          a.Priezvisko == b.Priezvisko,
+                          func.abs((func.datediff(text('year'), a.Datum_Narodenia, b.Datum_Narodenia))) == 1000,
+                          a.Pohlavie == b.Pohlavie,
+                          b.Priorita == priority,
+                      ),
+                      and_(
+                          a.Meno == b.Meno,
+                          a.Priezvisko == b.Priezvisko,
+                          func.year(a.Datum_Narodenia) == func.year(b.Datum_Narodenia),
+                          a.Pohlavie == b.Pohlavie,
+                          b.Priorita == priority,
+                          or_(
+                              func.abs(func.month(a.Datum_Narodenia) - func.month(b.Datum_Narodenia)) == 0,
+                              func.abs(func.day(a.Datum_Narodenia) - func.day(b.Datum_Narodenia)) == 0,
+                              func.abs(func.month(a.Datum_Narodenia) - func.day(b.Datum_Narodenia)) == 0,
+                              func.abs(func.day(a.Datum_Narodenia) - func.month(b.Datum_Narodenia)) == 0,
+                          )
+                      ),
                   )) \
             .filter(a.CID != b.CID) \
             .all()
@@ -176,10 +215,11 @@ class DBHandler:
                   sex, titles, dob, street, city, region, psc, domicile, note)
         local_session.close()
 
-    def insert_into_dbo_similarity_table(self, cid1, cid2, first_name, last_name, titles, city, region, psc, domicile):
+    def insert_into_dbo_similarity_table(self, cid1, cid2, first_name, last_name, titles, dob, city, region, psc,
+                                         domicile):
         local_session = Session(bind=self.engine)
         row = sim.SIM(CID1=cid1, CID2=cid2, Meno=first_name, Priezvisko=last_name,
-                      Tituly=titles, Mesto=city, Kraj=region, PSC=psc, Danovy_Domicil=domicile)
+                      Tituly=titles, Datum_Narodenia=dob, Mesto=city, Kraj=region, PSC=psc, Danovy_Domicil=domicile)
         local_session.add(row)
         local_session.commit()
         local_session.close()
