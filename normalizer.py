@@ -39,37 +39,37 @@ def findFormat(date):
     if validateDate(date, "%Y-%m-%d") == 0:
         date_new = dt.datetime.strptime(date, "%Y-%m-%d")
     elif validateDate(date, "%Y-%m-%d") == -2:
-        poznamka = "day is out of range for month: " + date
+        poznamka = "day is out of range for : " + date
     elif validateDate(date, "%Y-%d-%m") == 0:
         date_new = dt.datetime.strptime(date, "%Y-%d-%m")
     elif validateDate(date, "%Y-%d-%m") == -2:
-        poznamka = "day is out of range for month: " + date
+        poznamka = "day is out of range for : " + date
     elif validateDate(date, "%d-%m-%Y") == 0:
         date_new = dt.datetime.strptime(date, "%d-%m-%Y")
     elif validateDate(date, "%d-%m-%Y") == -2:
-        poznamka = "day is out of range for month: " + date
+        poznamka = "day is out of range for : " + date
     elif validateDate(date, "%m-%d-%Y") == 0:
         date_new = dt.datetime.strptime(date, "%m-%d-%Y")
     elif validateDate(date, "%m-%d-%Y") == -2:
-        poznamka = "day is out of range for month: " + date
+        poznamka = "day is out of range for : " + date
     elif validateDate(date, "%d.%m.%Y") == 0:
         date_new = dt.datetime.strptime(date, "%d.%m.%Y")
     elif validateDate(date, "%d.%m.%Y") == -2:
-        poznamka = "day is out of range for month: " + date
+        poznamka = "day is out of range for : " + date
     elif validateDate(date, "%m.%d.%Y") == 0:
         date_new = dt.datetime.strptime(date, "%m.%d.%Y")
     elif validateDate(date, "%m.%d.%Y") == -2:
-        poznamka = "day is out of range for month: " + date
+        poznamka = "day is out of range for : " + date
     elif validateDate(date, "%d. %m. %Y") == 0:
         date_new = dt.datetime.strptime(date, "%d. %m. %Y")
     elif validateDate(date, "%d. %m. %Y") == -2:
-        poznamka = "day is out of range for month: " + date
+        poznamka = "day is out of range for : " + date
     elif validateDate(date, "%m. %d. %Y") == 0:
         date_new = dt.datetime.strptime(date, "%m. %d. %Y")
     elif validateDate(date, "%m. %d. %Y") == -2:
-        poznamka = "day is out of range for month: " + date
+        poznamka = "day is out of range for : " + date
     else:
-        poznamka = "day is out of range: " + date
+        poznamka = "date cannot be converted: " + date
     return date_new, poznamka
 
 

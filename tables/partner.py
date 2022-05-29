@@ -1,9 +1,6 @@
-
-
 from sqlalchemy import Column, BigInteger, Integer, String, Date, DateTime, Boolean
 from sqlalchemy.sql import func
 from sqlalchemy.orm import declarative_base
-from sqlalchemy.dialects.mssql import BIT
 
 Base = declarative_base()
 
@@ -11,7 +8,7 @@ Base = declarative_base()
 class PARTNER(Base):
     __tablename__ = 'Partner'
     CID = Column(BigInteger(), primary_key=True)
-    Spracovane = Column(BIT, nullable=True)
+    Spracovane = Column(Boolean(), nullable=False)
     Priorita = Column(Integer(), nullable=False)
     Meno = Column(String(50), nullable=False)
     Priezvisko = Column(String(50), nullable=False)

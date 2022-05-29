@@ -5,14 +5,17 @@ import MLP
 
 
 def createSimilarityTable(database, priority):
-    # potential_duplicates = database.get_potential_duplicates(priority)
-    potential_duplicates = database.get_potential_duplicates_new(priority)
+    # potential_duplicates = database.get_potential_duplicates_old(priority)
+    database.delete_similarity_table()
+    potential_duplicates = database.get_potential_duplicates(priority)
     for row in potential_duplicates:
         name_similarity = jaro.jaro_winkler_metric(row[2].Meno, row[1].Meno)
         last_name_similarity = jaro.jaro_winkler_metric(row[2].Priezvisko, row[1].Priezvisko)
         titles_similarity = jaro.jaro_winkler_metric('' if row[2].Tituly is None else row[2].Tituly,
                                                      '' if row[1].Tituly is None else row[1].Tituly)
-        dob_similarity = jaro.jaro_winkler_metric(str(row[2].Datum_Narodenia), str(row[1].Datum_Narodenia))
+        dob_similarity = levenshtein.distance(str(row[2].Datum_Narodenia), str(row[1].Datum_Narodenia))
+        dob_similarity = 1 - (dob_similarity / max(len(str(row[2].Datum_Narodenia)), len(str(row[1].Datum_Narodenia))))
+
         city_similarity = jaro.jaro_winkler_metric(row[2].Mesto, row[1].Mesto)
         region_similarity = jaro.jaro_winkler_metric(row[2].Kraj, row[1].Kraj)
         psc_similarity = levenshtein.distance(row[2].PSC, row[1].PSC)
@@ -47,6 +50,9 @@ def dedupe(database):
 
         notin_list = []
         for a, data in enumerate(test):
+            # print(a)
+            # print(cids[a][0], ", ", cids[a][1])
+            # print(data.item())
             if data.item() > 0.85:
                 notin_list.append(cids[a][1])
                 database.update_superposition(cids[a][0], companies[i], cids[a][1])

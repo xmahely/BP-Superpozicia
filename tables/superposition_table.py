@@ -5,7 +5,7 @@ Base = declarative_base()
 
 
 class SUPERPOSITION(Base):
-    __tablename__ = 'Superposition'
+    __tablename__ = 'Superpozicia'
     CID = Column(BigInteger(), primary_key=True)
     Meno = Column(String(50), nullable=False)
     Priezvisko = Column(String(50), nullable=False)

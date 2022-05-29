@@ -9,11 +9,11 @@ class MLP(nn.Module):
     def __init__(self):
         super().__init__()
         self.layers = nn.Sequential(
-            nn.Linear(8, 64),
+            nn.Linear(8, 64, bias=True),
             nn.ReLU(),
-            nn.Linear(64, 32),
+            nn.Linear(64, 32, bias=True),
             nn.ReLU(),
-            nn.Linear(32, 1)
+            nn.Linear(32, 1, bias=True)
         )
 
     def forward(self, x):

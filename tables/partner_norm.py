@@ -1,9 +1,6 @@
-
-
 from sqlalchemy import Column, BigInteger, Integer, String, Date, DateTime, Boolean
 from sqlalchemy.sql import func
 from sqlalchemy.orm import declarative_base
-from sqlalchemy.dialects.mssql import BIT
 
 Base = declarative_base()
 

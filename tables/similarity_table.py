@@ -5,7 +5,7 @@ Base = declarative_base()
 
 
 class SIM(Base):
-    __tablename__ = 'Similarity_Table'
+    __tablename__ = 'Potencialne_Duplicity'
     CID1 = Column(BigInteger(), primary_key=True)
     CID2 = Column(BigInteger(), primary_key=True)
     Meno = Column(Float(), nullable=False)

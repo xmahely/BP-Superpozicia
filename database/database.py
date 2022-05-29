@@ -2,6 +2,7 @@ import sqlalchemy.exc as exc
 from sqlalchemy import create_engine, update, or_, and_, not_, text
 from sqlalchemy import func
 from sqlalchemy.orm import sessionmaker, aliased
+from sqlalchemy_utils import database_exists, create_database
 
 from tables import partner as par, partner_norm as par_norm, similarity_table as sim, \
     superposition_table as sup
@@ -12,13 +13,19 @@ Session = sessionmaker()
 class DBHandler:
     server = 'localhost'
     database = 'superpozicia'
-    # driver = 'ODBC Driver 17 for SQL Server'
     driver = 'SQL Server Native Client 11.0'
-    database_con = f'mssql://@{server}/{database}?driver={driver}'
+    database_con = f'mssql://@{server}/{database}?driver={driver}&trusted_connection=yes'
 
     def __init__(self):
         self.engine = create_engine(self.database_con, echo=True)
+        try:
+            if not database_exists(self.engine.url):
+                create_database(self.engine.url)
+        except Exception:
+            create_database(self.engine.url)
+
         self.connect = self.connect()
+        self.create_all_tables()
 
     def connect(self):
         return self.engine.connect()
@@ -32,11 +39,6 @@ class DBHandler:
     def execute(self, sql_string):
         return self.connect.execute(sql_string)
 
-    # def get_max_string_len(self):
-    #     result = self.connect.execute('select [dbo].[get_max_string_len]()')
-    #     for row in result:
-    #         return row[0]
-
     def get_max_CID(self):
         session = Session(bind=self.engine)
         result = session.query(func.max(sup.SUPERPOSITION.CID)).scalar()
@@ -48,7 +50,7 @@ class DBHandler:
         for row in result:
             return row[0]
 
-    def get_potential_duplicates(self, priority):
+    def get_potential_duplicates_old(self, priority):
         session = Session(bind=self.engine)
         s = aliased(sup.SUPERPOSITION)
         a = aliased(par_norm.PARTNER_NORM)
@@ -66,42 +68,50 @@ class DBHandler:
         session.close()
         return result
 
-    def get_potential_duplicates_new(self, priority):
+    def get_potential_duplicates(self, priority):
         session = Session(bind=self.engine)
         s = aliased(sup.SUPERPOSITION)
         a = aliased(par_norm.PARTNER_NORM)
         b = aliased(par_norm.PARTNER_NORM)
-        result = session.query(s, a, b) \
+        c = aliased(par.PARTNER)
+        result = session.query(s, a, b, c) \
             .join(a, a.CID == s.CID) \
             .join(b,
                   or_(
                       and_(
                           a.Datum_Narodenia == b.Datum_Narodenia,
                           a.Pohlavie == b.Pohlavie,
-                          b.Priorita == priority,
                       ),
                       and_(
                           a.Meno == b.Meno,
                           a.Priezvisko == b.Priezvisko,
                           func.abs((func.datediff(text('year'), a.Datum_Narodenia, b.Datum_Narodenia))) == 1000,
                           a.Pohlavie == b.Pohlavie,
-                          b.Priorita == priority,
                       ),
                       and_(
                           a.Meno == b.Meno,
                           a.Priezvisko == b.Priezvisko,
                           func.year(a.Datum_Narodenia) == func.year(b.Datum_Narodenia),
                           a.Pohlavie == b.Pohlavie,
-                          b.Priorita == priority,
-                          or_(
-                              func.abs(func.month(a.Datum_Narodenia) - func.month(b.Datum_Narodenia)) == 0,
-                              func.abs(func.day(a.Datum_Narodenia) - func.day(b.Datum_Narodenia)) == 0,
-                              func.abs(func.month(a.Datum_Narodenia) - func.day(b.Datum_Narodenia)) == 0,
-                              func.abs(func.day(a.Datum_Narodenia) - func.month(b.Datum_Narodenia)) == 0,
-                          )
+                          a.Danovy_Domicil == b.Danovy_Domicil
                       ),
+                      and_(
+                          a.Meno == b.Meno,
+                          a.Priezvisko == b.Priezvisko,
+                          a.Datum_Narodenia == b.Datum_Narodenia,
+                          a.Danovy_Domicil == b.Danovy_Domicil
+                      ),
+                      and_(
+                          or_(
+                              func.month(a.Datum_Narodenia) == func.day(b.Datum_Narodenia),
+                              func.day(a.Datum_Narodenia) == func.month(b.Datum_Narodenia),
+                          ),
+                          func.year(a.Datum_Narodenia) == func.year(b.Datum_Narodenia),
+                          a.Pohlavie == b.Pohlavie,
+                      )
                   )) \
-            .filter(a.CID != b.CID) \
+            .join(c, b.CID == c.CID) \
+            .filter(a.CID != b.CID, c.Spracovane == 0, b.Priorita == priority) \
             .all()
         session.close()
         return result
@@ -223,6 +233,7 @@ class DBHandler:
         local_session.add(row)
         local_session.commit()
         local_session.close()
+
 
     def delete_similarity_table(self):
         local_session = Session(bind=self.engine)
