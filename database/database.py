@@ -1,4 +1,3 @@
-# import sqlalchemy.exc as exc
 from sqlalchemy import exc
 from sqlalchemy import create_engine, update, or_, and_, not_, text
 from sqlalchemy import func

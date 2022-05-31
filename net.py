@@ -6,12 +6,8 @@ import torch
 from torch import nn
 from torch.utils.data import DataLoader
 import dataset as testdata
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import MLP
-
-# import jaro
-# from rapidfuzz.distance import Levenshtein as levenshtein
-
 
 from Levenshtein import distance as levenshtein
 from Levenshtein import jaro_winkler
@@ -201,12 +197,12 @@ def train():
         # plt.title('Stratové funkcie')
         # plt.show()
 
-        plt.plot(train_losses, '-b')
-        plt.xlabel('epoch')
-        plt.ylabel('loss')
-        plt.legend(['Train'])
-        plt.title('Trénovacia stratová funkcia')
-        plt.show()
+        # plt.plot(train_losses, '-b')
+        # plt.xlabel('epoch')
+        # plt.ylabel('loss')
+        # plt.legend(['Train'])
+        # plt.title('Trénovacia stratová funkcia')
+        # plt.show()
 
         # torch.save(mlp.state_dict(), 'model.pt')
     print("Sieť už je natrénovaná")
