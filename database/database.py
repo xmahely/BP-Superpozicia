@@ -1,9 +1,9 @@
-import sqlalchemy.exc as exc
+# import sqlalchemy.exc as exc
+from sqlalchemy import exc
 from sqlalchemy import create_engine, update, or_, and_, not_, text
 from sqlalchemy import func
 from sqlalchemy.orm import sessionmaker, aliased
 from sqlalchemy_utils import database_exists, create_database
-
 from tables import partner as par, partner_norm as par_norm, similarity_table as sim, \
     superposition_table as sup
 
@@ -233,7 +233,6 @@ class DBHandler:
         local_session.add(row)
         local_session.commit()
         local_session.close()
-
 
     def delete_similarity_table(self):
         local_session = Session(bind=self.engine)

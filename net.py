@@ -9,9 +9,12 @@ import dataset as testdata
 import matplotlib.pyplot as plt
 import MLP
 
-import jaro
-from rapidfuzz.distance import Levenshtein as levenshtein
+# import jaro
+# from rapidfuzz.distance import Levenshtein as levenshtein
 
+
+from Levenshtein import distance as levenshtein
+from Levenshtein import jaro_winkler
 
 def createRandomData(count):
     inputs = []
@@ -62,13 +65,13 @@ def createTestData():
 
     for i in range(len(input1_names)):
         titles = 1
-        name = jaro.jaro_winkler_metric(input1_names[i], input2_names[i])
-        last_name = jaro.jaro_winkler_metric(input1_last_names[i], input2_last_names[i])
-        dob = 1 - (levenshtein.distance(input1_dob[i], input2_dob[i]) / max(len(input1_dob[i]), len(input2_dob[i])))
-        city = jaro.jaro_winkler_metric(input1_city[i], input2_city[i])
-        region = jaro.jaro_winkler_metric(input1_region[i], input2_region[i])
-        psc = 1 - (levenshtein.distance(input1_psc[i], input2_psc[i]) / max(len(input1_psc[i]), len(input2_psc[i])))
-        domicile = 1 - (levenshtein.distance(input1_domicile[i], input2_domicile[i]) / max(len(input1_domicile[i]), len(input2_domicile[i])))
+        name = jaro_winkler(input1_names[i], input2_names[i])
+        last_name = jaro_winkler(input1_last_names[i], input2_last_names[i])
+        dob = 1 - (levenshtein(input1_dob[i], input2_dob[i]) / max(len(input1_dob[i]), len(input2_dob[i])))
+        city = jaro_winkler(input1_city[i], input2_city[i])
+        region = jaro_winkler(input1_region[i], input2_region[i])
+        psc = 1 - (levenshtein(input1_psc[i], input2_psc[i]) / max(len(input1_psc[i]), len(input2_psc[i])))
+        domicile = 1 - (levenshtein(input1_domicile[i], input2_domicile[i]) / max(len(input1_domicile[i]), len(input2_domicile[i])))
         inputs.append([name, last_name, titles, dob, city, region, psc, domicile])
         print(name)
         print(0.3*name)
