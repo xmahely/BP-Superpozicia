@@ -18,6 +18,9 @@ def main():
     # # vykoná deduplikáciu
     output_data.dedupe(database)
 
+    # # vytvorí testovaciu procedúru
+    database.createTestProcedure()
+
 
 if __name__ == "__main__":
     main()
