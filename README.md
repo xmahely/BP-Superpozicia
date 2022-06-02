@@ -1,5 +1,5 @@
 # Algoritmus na zapisovanie a vyhodnocovanie produktovej superpozície
-(Bakalárksa práca)
+(Bakalárska práca)
 
 Program je implementovaný v jazyku Python a pre podporu hlbokého učenia bola zvolaná
 distribúcia Anaconda. Tento balíček už obsahuje Python 3, rôzne knižnice pre strojové uče-
@@ -55,8 +55,7 @@ pri inštalácii na všetky otázky odpovedať áno.
 z VCS. Do URL vložiť link https://github.com/xmahely/BP-Superpozicia.git.
 A stlačiť tlačidlo Clone. V prostredí ísť do nastavení -> projekt -> python interpreter a pridať nový. Vybrať
 Conda environmnent a vybrať existujúce prostredie superpozícia. Kliknúť na ok.
-V tomto kroku bude potrebné pridať ďalšie knižnice, ktoré sú použité na implemen-
-táciu. Na to jednoducho stačí kliknúť na plusko a vyhľadať a nainštalovať knižnice:
+V tomto kroku bude potrebné pridať ďalšie knižnice, ktoré sú použité na implementáciu. Na to jednoducho stačí kliknúť na plusko a vyhľadať a nainštalovať knižnice:
 sqlalchemy
 - sqlalchemy-utils
 - pyodbc
