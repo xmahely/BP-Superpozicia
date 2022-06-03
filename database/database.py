@@ -11,7 +11,7 @@ Session = sessionmaker()
 
 class DBHandler:
     server = 'localhost'
-    database = 'superpozicia'
+    database = 'superpozicia_new'
     driver = 'SQL Server Native Client 11.0'
     database_con = f'mssql://@{server}/{database}?driver={driver}&trusted_connection=yes'
 
@@ -263,12 +263,12 @@ class DBHandler:
                 SET NOCOUNT ON;\
                 DECLARE @result table(SLSP_Presnost FLOAT, NN_Presnost FLOAT, PSLSP_Presnost FLOAT, AM_SLSP_Presnost FLOAT, \
                 SLSP_L_Presnost FLOAT, KOOP_Presnost FLOAT);\
-                DECLARE @count_all_SLSP FLOAT, @count_wrong_SLSP FLOAT;\
-                DECLARE @count_all_NN FLOAT, @count_wrong_NN FLOAT;\
-                DECLARE @count_all_PSLSP FLOAT, @count_wrong_PSLSP FLOAT;\
-                DECLARE @count_all_AM_SLSP FLOAT, @count_wrong_AM_SLSP FLOAT;\
-                DECLARE @count_all_SLSP_L FLOAT, @count_wrong_SLSP_L FLOAT;\
-                DECLARE @count_all_KOOP FLOAT, @count_wrong_KOOP FLOAT;\
+                DECLARE @count_all_SLSP FLOAT, @count_wrong_SLSP FLOAT, @count_wrong2_SLSP FLOAT;\
+                DECLARE @count_all_NN FLOAT, @count_wrong_NN FLOAT, @count_wrong2_NN FLOAT; \
+                DECLARE @count_all_PSLSP FLOAT, @count_wrong_PSLSP FLOAT, @count_wrong2_PSLSP FLOAT;\
+                DECLARE @count_all_AM_SLSP FLOAT, @count_wrong_AM_SLSP FLOAT, @count_wrong2_AM_SLSP FLOAT; \
+                DECLARE @count_all_SLSP_L FLOAT, @count_wrong_SLSP_L FLOAT, @count_wrong2_SLSP_L FLOAT;\
+                DECLARE @count_all_KOOP FLOAT, @count_wrong_KOOP FLOAT, @count_wrong2_KOOP FLOAT;\
                 DROP TABLE IF EXISTS #tempTable; \
                 select * \
                 into #tempTable\
@@ -328,36 +328,48 @@ class DBHandler:
                 select @count_all_SLSP = count(*) from #tempTable where indetifikator = 'SLSP'\
                 select @count_wrong_SLSP = count(*) from(\
                 select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTable where indetifikator = 'SLSP'\
-                except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTableSLSP) a\
+                except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTableSLSP) a \
+                select @count_wrong2_SLSP = count(*) from(select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTableSLSP\
+                except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTable where indetifikator = 'SLSP')a\
                 select @count_all_NN = count(*) from #tempTable where indetifikator = 'NN'\
                 select @count_wrong_NN = count(*) from(\
                 select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTable where indetifikator = 'NN'\
                 except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTableNN) a\
+                select @count_wrong2_NN = count(*) from(select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from  #tempTableNN\
+                except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTable where indetifikator = 'NN')a\
                 select @count_all_PSLSP = count(*) from #tempTable where indetifikator = 'PSLSP'\
                 select @count_wrong_PSLSP = count(*) from(\
                 select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTable where indetifikator = 'PSLSP'\
                 except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTablePSLSP) a\
+                select @count_wrong2_PSLSP = count(*) from( select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from  #tempTablePSLSP\
+                except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from  #tempTable where indetifikator = 'PSLSP')a\
                 select @count_all_AM_SLSP = count(*) from #tempTable where indetifikator = 'AM_SLSP'\
                 select @count_wrong_AM_SLSP = count(*) from(\
                 select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTable where indetifikator = 'AM_SLSP'\
                 except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTableAM_SLSP) a\
+                select @count_wrong2_AM_SLSP = count(*) from( select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTableAM_SLSP\
+                except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from  #tempTable where indetifikator = 'AM_SLSP')a\
                 select @count_all_SLSP_L = count(*) from #tempTable where indetifikator = 'SLSP_L'\
                 select @count_wrong_SLSP_L = count(*) from(\
                 select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTable where indetifikator = 'SLSP_L'\
                 except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTableSLSP_L) a\
+                select @count_wrong2_SLSP_L = count(*) from( select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from  #tempTableSLSP_L\
+                except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from  #tempTable where indetifikator = 'SLSP_L')a\
                 select @count_all_KOOP = count(*) from #tempTable where indetifikator = 'KOOP'\
                 select @count_wrong_KOOP = count(*) from(\
                 select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTable where indetifikator = 'KOOP'\
                 except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from #tempTableKOOP) a\
+                select @count_wrong2_KOOP = count(*) from( select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from  #tempTableKOOP\
+                except select Meno, Priezvisko, Datum_Narodenia, indetifikator, cid from  #tempTable where indetifikator = 'KOOP')a\
                 INSERT INTO @result \
                 (SLSP_Presnost, NN_Presnost, PSLSP_Presnost, AM_SLSP_Presnost, SLSP_L_Presnost, KOOP_Presnost)\
                 VALUES (\
-                (1 - @count_wrong_SLSP / @count_all_SLSP) * 100,\
-                (1 - @count_wrong_NN / @count_all_NN) * 100,\
-                (1 - @count_wrong_PSLSP / @count_all_PSLSP) * 100,\
-                (1 - @count_wrong_AM_SLSP / @count_all_AM_SLSP) * 100,\
-                (1 - @count_wrong_SLSP_L / @count_all_SLSP_L) * 100,\
-                (1 - @count_wrong_KOOP / @count_all_KOOP) * 100\
+                (1 - (@count_wrong_SLSP+@count_wrong2_SLSP) / @count_all_SLSP) * 100,\
+                (1 - (@count_wrong_NN+@count_wrong2_NN) / @count_all_NN) * 100,\
+                (1 - (@count_wrong_PSLSP+@count_wrong2_PSLSP) / @count_all_PSLSP) * 100,\
+                (1 - (@count_wrong_AM_SLSP+@count_wrong2_AM_SLSP) / @count_all_AM_SLSP) * 100,\
+                (1 - (@count_wrong_SLSP_L+@count_wrong2_SLSP_L) / @count_all_SLSP_L) * 100,\
+                (1 - (@count_wrong_KOOP+@count_wrong2_KOOP) / @count_all_KOOP) * 100\
                 )\
                 select * from @result\
                 END")

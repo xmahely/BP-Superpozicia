@@ -19,7 +19,7 @@ def main():
     output_data.dedupe(database)
 
     # # vytvorí testovaciu procedúru
-    database.createTestProcedure()
+    # database.createTestProcedure()
 
 
 if __name__ == "__main__":
